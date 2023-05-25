@@ -6,6 +6,8 @@
 <section>
     <h1>Liste de ressources Svelte & SvelteKit</h1>
 
+    <p style:font-weight="bold">{blogs.length} résultats</p>
+
     {#each blogs as blog}
         <div>
             <h2 style:margin-top="0">
