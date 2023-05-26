@@ -50,7 +50,6 @@
 			{#if blog.githubRepo}
 				<p>Le site est disponible sur <a href={blog.githubRepo}>Github</a>.</p>
 			{/if}
-			<p>Le site présente :</p>
 			<ul style:margin-bottom="0">
 				{#each blog.features as feature}
 					<li>{feature}</li>
@@ -72,5 +71,18 @@
 		padding: 16px;
 		border-radius: 8px;
 		border: 1px solid var(--text-color-secondary);
+	}
+
+	ul {
+		display: flex;
+		gap: 8px;
+		padding: 0;
+	}
+
+	li {
+		list-style-type: none;
+		padding: 4px 12px;
+		background-color: gainsboro;
+		border-radius: 24px;
 	}
 </style>

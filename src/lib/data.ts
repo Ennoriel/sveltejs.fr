@@ -5,14 +5,14 @@ export const blogs = [
 		type: 'Blog personnel',
 		githubAccount: 'https://github.com/ByteAtATime/',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Phil Kruft',
 		url: 'https://www.philkruft.dev/',
 		type: 'Blog personnel',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'PuruVj.dev',
@@ -21,14 +21,14 @@ export const blogs = [
 		githubRepo: 'https://github.com/PuruVJ/puruvjdev4/',
 		githubAccount: 'https://github.com/puruvj',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Rodney Lab',
 		url: 'https://rodneylab.com/',
 		type: 'Blog personnel',
 		locale: 'en',
-		features: ['Articles']
+		features: ['Blog']
 	},
 	{
 		title: 'Connor Rothschild',
@@ -37,14 +37,14 @@ export const blogs = [
 		githubRepo: 'https://github.com/connorrothschild/.com',
 		githubAccount: 'https://github.com/connorrothschild/',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'David W Parker',
 		url: 'https://www.davidwparker.com/posts',
 		type: 'Blog personnel',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Scott Spence',
@@ -53,7 +53,7 @@ export const blogs = [
 		githubRepo: 'https://github.com/spences10/scottspence.com',
 		githubAccount: 'https://github.com/spences10',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Geoff Rich',
@@ -61,7 +61,7 @@ export const blogs = [
 		type: 'Blog personnel',
 		githubAccount: 'https://github.com/geoffrich',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Captain Codeman',
@@ -69,7 +69,7 @@ export const blogs = [
 		type: 'Blog personnel',
 		githubAccount: 'https://github.com/CaptainCodeman',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Willow (aka GHOST)',
@@ -78,7 +78,7 @@ export const blogs = [
 		githubRepo: 'https://github.com/ghostdevv/website',
 		githubAccount: 'https://github.com/ghostdevv',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Tan Li Hau',
@@ -87,28 +87,28 @@ export const blogs = [
 		githubRepo: 'https://github.com/tanhauhau/tanhauhau.github.io',
 		githubAccount: 'https://github.com/tanhauhau',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Dev.to, section Svelte',
 		url: 'https://dev.to/t/svelte',
 		type: 'blog partagé',
 		locale: 'en',
-		features: ['Articles']
+		features: ['Blog']
 	},
 	{
 		title: 'Css-tricks, section Svelte',
 		url: 'https://css-tricks.com/tag/svelte/',
 		type: 'blog partagé',
 		locale: 'en',
-		features: ['Articles']
+		features: ['Blog']
 	},
 	{
 		title: 'Medium, recherche Svelte',
 		url: 'https://medium.com/search?q=svelte',
 		type: 'blog partagé',
 		locale: 'en',
-		features: ['Articles']
+		features: ['Blog']
 	},
 	{
 		title: 'Svelte.dev, section blog',
@@ -116,7 +116,7 @@ export const blogs = [
 		type: "Listes d'articles",
 		githubRepo: 'https://github.com/sveltejs/sites/tree/master/sites/svelte.dev/content/blog',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Reddit, tag Svelte',
@@ -137,14 +137,14 @@ export const blogs = [
 		url: 'https://www.okupter.com/',
 		type: 'Agence de développement spécialisé avec Svelte',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Paul Lavender-Jones',
 		url: 'https://paullj.github.io/',
 		type: 'Blog personnel',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Raqueebuddin Aziz',
@@ -153,7 +153,7 @@ export const blogs = [
 		githubRepo: '',
 		githubAccount: 'https://github.com/vanillacode314',
 		locale: 'en',
-		features: ['Fait en Svelte', 'Articles']
+		features: ['Fait en Svelte', 'Blog']
 	},
 	{
 		title: 'Svelte Society',
