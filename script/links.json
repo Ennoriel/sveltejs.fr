@@ -1,0 +1,3563 @@
+[
+	["one less .jpg!", "https://twitter.com/miketaylr/status/227056824275333120"],
+	["Alex Russell", "https://twitter.com/slightlylate"],
+	[
+		"hasn't been making many friends in the framework community lately",
+		"https://twitter.com/slightlylate/status/728355959022587905"
+	],
+	["Polymer", "https://www.polymer-project.org/1.0/"],
+	["learn in under 5 minutes", "https://v2.svelte.dev/guide"],
+	["Svelte implementation of TodoMVC", "https://svelte-todomvc.surge.sh/"],
+	["js-framework-benchmark", "https://github.com/krausest/js-framework-benchmark"],
+	["Dominic Gannaway", "https://twitter.com/trueadm"],
+	["working on it", "https://github.com/sveltejs/svelte/issues/26"],
+	["code splitting", "https://twitter.com/samccone/status/797528710085652480"],
+	["Read the guide", "https://v2.svelte.dev/guide"],
+	["try it out in the REPL", "/repl"],
+	["GitHub", "https://github.com/sveltejs/svelte"],
+	["new kind of framework", "/blog/frameworks-without-the-framework"],
+	["Svelte REPL", "/repl"],
+	["examples", "/examples/"],
+	["REPL", "/repl"],
+	["localhost:8080", "http://localhost:8080"],
+	["Rollup", "https://rollupjs.org"],
+	["sveltejs/template", "https://github.com/sveltejs/template"],
+	["degit", "https://github.com/Rich-Harris/degit"],
+	["here", "/blog/svelte-and-typescript"],
+	["sveltejs/template", "https://github.com/sveltejs/template"],
+	["README", "https://github.com/sveltejs/template/blob/master/README.md"],
+	["Vercel", "https://vercel.com"],
+	["Surge", "http://surge.sh/"],
+	["webpack", "https://github.com/sveltejs/svelte-loader"],
+	["Browserify", "https://github.com/tehshrike/sveltify"],
+	["Svelte CLI", "https://github.com/sveltejs/svelte-cli"],
+	["sirv-cli", "https://www.npmjs.com/package/sirv-cli"],
+	["API", "https://github.com/sveltejs/svelte/tree/v2#api"],
+	["Svelte Discord chatroom", "https://svelte.dev/chat"],
+	["@sveltejs", "https://twitter.com/sveltejs"],
+	["css-tree", "https://github.com/csstree/csstree"],
+	["the Sapper docs", "https://sapper.svelte.dev"],
+	["starter template", "https://github.com/sveltejs/sapper-template"],
+	["Next.js", "https://github.com/zeit/next.js"],
+	["learnnextjs.com", "https://learnnextjs.com"],
+	["gave up on", "https://reacttraining.com/react-router/web/guides/code-splitting"],
+	["Svelte introduced a radical idea", "/blog/frameworks-without-the-framework"],
+	["moving towards this model", "https://tomdale.net/2017/09/compilers-are-the-new-frameworks/"],
+	["Stencil", "https://stenciljs.com"],
+	["Glimmer", "https://glimmerjs.com"],
+	["getting in on the action", "https://twitter.com/trueadm/status/944908776896978946"],
+	["Sapper", "https://sapper.svelte.dev"],
+	["RealWorld", "https://github.com/gothinkster/realworld"],
+	["Sapper implementation", "https://github.com/sveltejs/realworld"],
+	["Sapper RealWorld", "https://github.com/sveltejs/realworld"],
+	["takes all of five minutes to master", "https://v2.svelte.dev/guide#template-syntax"],
+	["scoped CSS", "/blog/the-zen-of-just-writing-css"],
+	["svelte/store", "https://v2.svelte.dev/guide#state-management"],
+	["Prepack research", "https://twitter.com/trueadm/status/944908776896978946"],
+	["GitHub", "https://github.com/sveltejs/svelte"],
+	["Discord", "https://svelte.dev/chat"],
+	["Discord chatroom", "https://svelte.dev/chat"],
+	["svelte-upgrade", "https://github.com/sveltejs/svelte-upgrade"],
+	["svelte-extras", "https://github.com/sveltejs/svelte-extras"],
+	["svelte-upgrade", "https://github.com/sveltejs/svelte-upgrade"],
+	["Sapper", "https://sapper.svelte.technology"],
+	["svelte-upgrade README", "https://github.com/sveltejs/svelte-upgrade#svelte-v2-syntax-changes"],
+	["destructuring", "http://www.jstips.co/en/javascript/use-destructuring-in-function-parameters/"],
+	["Babel", "https://babeljs.io/repl"],
+	["Bublé", "https://buble.surge.sh/"],
+	["lifecycle hooks", "https://v2.svelte.dev/guide#lifecycle-hooks"],
+	["svelte-extras", "https://github.com/sveltejs/svelte-extras"],
+	["custom event handlers", "https://v2.svelte.dev/guide#custom-event-handlers"],
+	["Discord chatroom", "https://svelte.dev/chat"],
+	["tracker", "https://github.com/sveltejs/svelte/issues"],
+	[
+		"solve the biggest problems developers face when writing CSS",
+		"/blog/the-zen-of-just-writing-css"
+	],
+	["Emotion", "https://emotion.sh"],
+	["React", "https://reactjs.org/"],
+	["Rethinking Best Practices", "https://www.youtube.com/watch?v=x7cQ3mrcKaY"],
+	["diffing isn't free", "https://twitter.com/pcwalton/status/1015694528857047040"],
+	["The Changelog", "https://changelog.com/podcast"],
+	["Great Divide", "https://css-tricks.com/the-great-divide/"],
+	["Discord server", "https://svelte.dev/chat"],
+	["@sveltejs", "https://twitter.com/sveltejs"],
+	["Adam", "https://twitter.com/adamstac"],
+	["Jerod", "https://twitter.com/jerodsanto"],
+	["podcast page", "https://changelog.com/podcast/332"],
+	["coc-svelte extension", "https://github.com/coc-extensions/coc-svelte"],
+	["modeline", "https://vim.fandom.com/wiki/Modeline_magic"],
+	[
+		"Svelte for VS Code extension",
+		"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+	],
+	["Svelte Framework Integration", "https://plugins.jetbrains.com/plugin/12375-svelte/"],
+	[
+		"WebStorm plugin installation guide",
+		"https://www.jetbrains.com/help/webstorm/managing-plugins.html"
+	],
+	["tutorial", "/tutorial"],
+	["raise an issue", "https://github.com/sveltejs/svelte/issues"],
+	[
+		"suggest edits to this page",
+		"https://github.com/sveltejs/svelte/blob/master/site/content/blog/2019-04-16-svelte-for-new-developers.md"
+	],
+	["chatroom", "https://svelte.dev/chat"],
+	["Node", "https://nodejs.org/en/"],
+	["website", "https://nodejs.org/en/"],
+	["npm", "https://www.npmjs.com/"],
+	["svelte", "https://www.npmjs.com/package/svelte"],
+	["Visual Studio Code", "https://code.visualstudio.com/"],
+	[
+		"including one for Svelte",
+		"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+	],
+	[
+		"Svelte + Vite",
+		"https://github.com/vitejs/vite/tree/main/packages/create-vite/template-svelte"
+	],
+	[
+		"create-vite/template-svelte",
+		"https://github.com/vitejs/vite/tree/main/packages/create-vite/template-svelte"
+	],
+	["Vite", "https://vitejs.dev/"],
+	[
+		"project development time",
+		"https://blog.codinghorror.com/diseconomies-of-scale-and-lines-of-code/"
+	],
+	["bug count", "https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio"],
+	["reactive declarations", "/tutorial/reactive-declarations"],
+	["Svelte is a compiler", "/blog/frameworks-without-the-framework"],
+	["virtual DOM diffing", "/blog/virtual-dom-is-pure-overhead"],
+	["testing a hypothesis", "/blog/frameworks-without-the-framework"],
+	["significantly less boilerplate", "/blog/write-less-code"],
+	["tutorial", "/tutorial"],
+	["hooks", "https://reactjs.org/docs/hooks-intro.html"],
+	["embedded devices", "https://mobile.twitter.com/sveltejs/status/1088500539640418304"],
+	["Achim Vedam", "https://vedam.de/"],
+	["svelte.technology", "https://svelte.technology"],
+	["svelte.dev", "https://svelte.dev"],
+	["svelte-upgrade", "https://github.com/sveltejs/svelte-upgrade"],
+	["Sapper", "https://sapper.svelte.dev"],
+	["Svelte Native", "https://svelte-native.technology/"],
+	["tutorial", "/tutorial"],
+	["Discord chatroom", "https://svelte.dev/chat"],
+	["GitHub", "https://github.com/sveltejs/svelte"],
+	["normal template", "https://github.com/sveltejs/template"],
+	[
+		"official extension",
+		"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+	],
+	["I pitched a consolidation", "https://github.com/sveltejs/svelte/issues/4518"],
+	[
+		"`svelte-language-server`",
+		"https://github.com/sveltejs/language-tools/tree/master/packages/language-server#svelte-language-server"
+	],
+	[
+		"Language Server Protocol standard",
+		"https://microsoft.github.io//language-server-protocol/overviews/lsp/overview/"
+	],
+	["Christian Kaisermann", "https://github.com/kaisermann"],
+	["`svelte-preprocess`", "https://github.com/sveltejs/svelte-preprocess#svelte-preprocess"],
+	["Pine's", "https://github.com/octref"],
+	["Vue", "https://vuejs.org"],
+	["Vetur", "https://github.com/vuejs/vetur"],
+	["LSP", "https://github.com/vuejs/vetur/blob/master/server"],
+	["CLI", "https://github.com/vuejs/vetur/blob/master/vti"],
+	["LSP", "https://github.com/sveltejs/language-tools/blob/master/packages/language-server"],
+	[
+		"VS Code extension",
+		"https://github.com/sveltejs/language-tools/blob/master/packages/svelte-vscode"
+	],
+	["CLI", "https://github.com/sveltejs/language-tools/blob/master/packages/svelte-check"],
+	["James Birtles", "https://github.com/UnwrittenFun"],
+	["`UnwrittenFun/svelte-vscode`", "https://github.com/UnwrittenFun/svelte-vscode"],
+	[
+		"`UnwrittenFun/svelte-language-server`",
+		"https://github.com/UnwrittenFun/svelte-language-server/"
+	],
+	["Simon Holthausen", "https://github.com/dummdidumm"],
+	["Lyu, Wei-Da", "https://github.com/jasonlyu123"],
+	["@halfnelson", "https://github.com/halfnelson"],
+	[
+		"svelte2tsx",
+		"https://github.com/sveltejs/language-tools/tree/master/packages/svelte2tsx#svelte2tsx"
+	],
+	["`svelte-preprocess`", "https://github.com/sveltejs/svelte-preprocess#svelte-preprocess"],
+	[
+		"Full instructions for other environments here",
+		"https://github.com/sveltejs/svelte-preprocess#usage"
+	],
+	["using an LSP", "https://langserver.org/#implementations-client"],
+	["VS Code", "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"],
+	["on Atom", "https://github.com/sveltejs/language-tools/pull/160"],
+	["coc-svelte", "https://github.com/coc-extensions/coc-svelte"],
+	["add `// @ts-check`", "https://www.staging-typescript.org/docs/handbook/intro-to-js-ts.html"],
+	["`svelte-check`", "https://www.npmjs.com/package/svelte-check"],
+	["upgrade", "https://sapper.svelte.dev/migrating#0_27_to_0_28"],
+	["sveltejs/language-tools", "https://github.com/sveltejs/language-tools"],
+	["#language-tools", "https://discord.gg/enV6v8K"],
+	["Example", "https://svelte.dev/repl/c305722adb4a4545b27b198ea8ff9bde?version=3.27.0"],
+	["Example", "https://svelte.dev/repl/844c39e91d1248649fe54af839fab570?version=3.26.0"],
+	["Example", "https://svelte.dev/repl/9630de41957a4c80a4fce264360a6bc7?version=3.26.0"],
+	["Example", "https://svelte.dev/repl/91ad9257d2d1430185a504a18cc60172?version=3.29.0"],
+	["new blog post", "https://lihautan.com/contributing-to-svelte-implement-key-block/"],
+	["More info", "https://github.com/sveltejs/svelte/issues/1469"],
+	["More info", "https://github.com/sveltejs/svelte/issues/2079"],
+	["Example", "https://svelte.dev/repl/ab4c0c177d1f4fab92f46eb8539cea9a?version=3.26.0"],
+	["Svelte Summit", "https://sveltesummit.com/"],
+	["Svelte", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Sapper", "https://github.com/sveltejs/sapper/blob/master/CHANGELOG.md"],
+	[
+		"This CustomMenu example",
+		"https://svelte.dev/repl/3a33725c3adb4f57b46b597f9dade0c1?version=3.25.0"
+	],
+	["GitHub Tetris", "https://svelte.dev/repl/cc1eaa7c66964fedb5e70e3ecbbaa0e1?version=3.25.1"],
+	["Who are my representatives?", "https://whoaremyrepresentatives.us/"],
+	["Pick Palette", "https://github.com/bluwy/pick-palette"],
+	[
+		"Svelte 3 Up and Running",
+		"https://www.amazon.com/dp/B08D6T6BKS/ref=cm_sw_r_tw_dp_x_OQMtFb3GPQCB2"
+	],
+	[
+		"Sapper Tutorial (Crash Course",
+		"https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ)"
+	],
+	["Svelte Society Day France", "https://france.sveltesociety.dev/"],
+	["here", "https://www.youtube.com/watch?v=aS1TQ155JK4"],
+	["svelte-zoom", "https://github.com/vaheqelyan/svelte-zoom"],
+	["svelte-materialify", "https://github.com/TheComputerM/svelte-materialify"],
+	["svelte-undoable", "https://github.com/macfja/svelte-undoable"],
+	[
+		"This Tilt component",
+		"https://svelte.dev/repl/7b23ad9d2693424482cd411b0378b55b?version=3.24.1"
+	],
+	["Sapper with PostCSS and Tailwind", "https://codechips.me/sapper-with-postcss-and-tailwind/"],
+	["PrismJS (Code block syntax highlighting", "https://github.com/phptuts/Svelte-PrismJS)"],
+	["Filepond (Drag-and-drop file upload", "https://github.com/pqina/svelte-filepond)"],
+	["Ionic (UI Components", "https://github.com/Tommertom/svelte-ionic-app)"],
+	["Pell (WYSIWYG Editor", "https://github.com/Demonicious/svelte-pell/)"],
+	["Leaflet (Mapping", "https://github.com/anoram/leaflet-svelte)"],
+	["Svelte integrations repo", "https://github.com/sveltejs/integrations"],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["OpenCollective", "https://opencollective.com/svelte"],
+	["Example", "https://svelte.dev/repl/3fd4e2cecfa14d629961478f1dac2445?version=3.29.3"],
+	["Example", "https://svelte.dev/repl/29959e70103f4868a6525c0734934936?version=3.29.3"],
+	["Sapper docs", "https://sapper.svelte.dev/docs#Typing_the_function"],
+	["Svelte", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Sapper", "https://github.com/sveltejs/sapper/blob/master/CHANGELOG.md"],
+	["Svelte Summit", "https://sveltesummit.com/"],
+	["check out the video", "https://www.youtube.com/watch?v=qSfdtmcZ4d0"],
+	["YouTube playlist", "https://www.youtube.com/playlist?list=PL8bMgX1kyZThM1sbYCoWdTcpiYysJsSeu"],
+	["Svelte Lab", "https://sveltelab.app/"],
+	["svelte-electron-boilerplate", "https://github.com/hjalmar/svelte-electron-boilerplate"],
+	["React Hooks in Svelte", "https://github.com/joshnuss/react-hooks-in-svelte"],
+	["gurlic", "https://gurlic.com/"],
+	["Interference 2020", "https://interference2020.org/"],
+	["jitsi-svelte", "https://github.com/relm-us/jitsi-svelte"],
+	["Ellx", "https://ellx.io/"],
+	[
+		"This New Zealand news site",
+		"https://www.nzherald.co.nz/nz/election-2020-latest-results-party-vote-electorate-vote-and-full-data/5CFVO4ENKNQDE3SICRRNPU5GZM/"
+	],
+	["Budibase", "https://github.com/Budibase/budibase"],
+	["Svelt-yjs", "https://github.com/relm-us/svelt-yjs"],
+	["tabler-icons-svelte", "https://github.com/benflap/tabler-icons-svelte"],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Svelte Summit", "https://sveltesummit.com/"],
+	["Sapper", "https://sapper.svelte.dev"],
+	["Next", "https://nextjs.org/"],
+	["degit", "https://github.com/Rich-Harris/degit"],
+	["sveltejs/template", "https://github.com/sveltejs/template"],
+	["sveltejs/template", "https://github.com/sveltejs/template"],
+	["sveltejs/sapper-template", "https://github.com/sveltejs/sapper-template"],
+	["Sapper started in 2017", "/blog/sapper-towards-the-ideal-web-app-framework"],
+	["webpack", "https://webpack.js.org/"],
+	["Rollup", "https://rollupjs.org/"],
+	["Snowpack", "https://www.snowpack.dev/"],
+	["vercel-sapper", "https://github.com/thgh/vercel-sapper"],
+	["rollup-plugin-svelte", "https://github.com/sveltejs/rollup-plugin-svelte"],
+	["Elder.js", "https://github.com/Elderjs/elderjs"],
+	["Routify", "https://routify.dev/"],
+	["Plenti", "https://plenti.co/"],
+	["Crown", "https://crownframework.com/"],
+	["JungleJS", "https://www.junglejs.org/"],
+	["OpenCollective", "https://opencollective.com/svelte"],
+	["@sveltejs", "https://twitter.com/sveltejs"],
+	["@SvelteSociety", "https://twitter.com/SvelteSociety"],
+	["svelte.dev/chat", "https://svelte.dev/chat"],
+	["Svelte Radio", "https://www.svelteradio.com/"],
+	["reply to this Twitter thread", "https://twitter.com/Rich_Harris/status/1323376048571121665"],
+	["Example", "https://svelte.dev/repl/ad8e6f39cd20403dacd1be84d71e498d?version=3.29.5"],
+	["Docs", "https://svelte.dev/docs#run-time-svelte-hascontext"],
+	["RFC", "https://github.com/sveltejs/rfcs/pull/37"],
+	["Example", "https://svelte.dev/repl/49cef205e5da459594ef2eafcbd41593?version=3.29.5"],
+	["7.0.0 release", "https://github.com/sveltejs/rollup-plugin-svelte/blob/master/CHANGELOG.md"],
+	[
+		"in the template",
+		"https://github.com/sveltejs/template/blob/5b1135c286f7a649daa99825a077586655051649/rollup.config.js#L48"
+	],
+	["you can find it here", "https://svelte.dev/blog/whats-the-deal-with-sveltekit"],
+	["Svelte", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Sapper", "https://github.com/sveltejs/sapper/blob/master/CHANGELOG.md"],
+	["narration.studio", "https://narration.studio/"],
+	["Vippet", "https://vippet.netlify.app/"],
+	["Pattern Monster", "https://pattern.monster/"],
+	["Plant-based diets", "https://planetbaseddiets.panda.org/"],
+	["johnells.se", "https://www.johnells.se/"],
+	["Crown", "https://crownframework.com/"],
+	["sentence-length", "https://sentence-length.netlify.app/"],
+	["svelte-presenter", "https://github.com/stephane-vanraes/svelte-presenter"],
+	[
+		"u/loopcake got SSR working in Java Spring Boot",
+		"https://www.reddit.com/r/sveltejs/comments/jkh5up/svelte_ssr_but_its_java_spring_boot_and_its_native/"
+	],
+	["svelte-liquid-swipe", "https://github.com/tncrazvan/svelte-liquid-swipe"],
+	[
+		"Crossfade Link Animation",
+		"https://svelte.dev/repl/7f68e148caf04b2787bb6f296208f870?version=3.29.7"
+	],
+	[
+		"Clip-Path Transitions",
+		"https://svelte.dev/repl/b5ad281ae8024b629b545c70c9e8764d?version=3.29.7"
+	],
+	["lihautan", "https://www.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/featured"],
+	[
+		"Lessons From Building a Static Site Generator",
+		"https://nicholasreese.com/lessons-from-building-a-static-site-generator/"
+	],
+	[
+		"Svelte Tutorial and Projects Course ",
+		"https://www.udemy.com/course/svelte-tutorial-and-projects-course/"
+	],
+	[
+		"Building Pastebin on IPFS - with FastAPI, Svelte, and IPFS",
+		"https://amalshaji.wtf/building-pastebin-on-ipfs-with-fastapi-svelte-and-ipfs"
+	],
+	["svelte-crossword", "https://russellgoldenberg.github.io/svelte-crossword/"],
+	["svelte-cloudinary", "https://github.com/cupcakearmy/svelte-cloudinary"],
+	["Svelte Nova", "https://extensions.panic.com/extensions/sb.lao/sb.lao.svelte-nova/"],
+	["saos", "https://github.com/shiryel/saos"],
+	["Svelte-nStore", "https://github.com/lacikawiz/svelte-nStore"],
+	["svelte-slimscroll", "https://github.com/MelihAltintas/svelte-slimscroll"],
+	["svelte-typewriter", "https://github.com/henriquehbr/svelte-typewriter"],
+	["svelte-store-router", "https://github.com/zyxd/svelte-store-router"],
+	["Routify", "https://routify.dev/blog/routify-2-released"],
+	["svelte-error-boundary", "https://www.npmjs.com/package/@crownframework/svelte-error-boundary"],
+	["svelte2dts", "https://www.npmjs.com/package/svelte2dts"],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["last month's blog post", "https://svelte.dev/blog/whats-new-in-svelte-december-2020"],
+	["the migration guide", "https://sapper.svelte.dev/migrating/#0_28_to_0_29"],
+	["What's the deal with SvelteKit?", "https://svelte.dev/blog/whats-the-deal-with-sveltekit"],
+	["manitu.me", "https://manitu.me/"],
+	["Answer Socrates", "https://answersocrates.com/"],
+	["multris", "https://multris.s1h.org/"],
+	["here", "https://blog.s1h.org/svelte-multiplayer-game/"],
+	["weather-ab", "https://github.com/ganochenkodg/weather-ab"],
+	["Game Nibs", "https://gamenibs.com/"],
+	["Ora", "https://github.com/cupcakearmy/ora"],
+	["vscode-dms", "https://github.com/techsyndicate/vscode-dms"],
+	["Zero.2", "https://zero.oleksandrdemian.tech/"],
+	["Octave Compass", "https://octavecompass.com/2741"],
+	["Infinite Walking Bass Generator 2", "https://github.com/elialbert/infinitewalkingbass2"],
+	["ListenAddict", "https://www.listenaddict.com/"],
+	["svelte-tiny-virtual-list", "https://github.com/Skayo/svelte-tiny-virtual-list"],
+	["svelte-query", "https://github.com/TanStack/svelte-query"],
+	["svelte-previous", "https://github.com/bryanmylee/svelte-previous"],
+	["Let's Build a Confetti Cannon", "https://varun.ca/confetti/"],
+	["svelte-micro", "https://github.com/ayndqy/svelte-micro"],
+	["svelte-standalone-router", "https://github.com/hjalmar/svelte-standalone-router"],
+	["standalone-router", "https://github.com/hjalmar/standalone-router"],
+	["svelte-datepicker", "https://github.com/beyonk-adventures/svelte-datepicker"],
+	["svelte-slimscroll", "https://github.com/MelihAltintas/svelte-slimscroll"],
+	["Svelte Zoomable", "https://svelte.dev/repl/58dfe87756ee4db897c281b52fdef7b7?version=3.31.0"],
+	["Components", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	[
+		"Using Svelte to create a scroll video effect",
+		"https://blog.koenvangilst.nl/tutorial-svelte-scroll-video/"
+	],
+	[
+		"How to make a flappybird game in svelte and typescript",
+		"https://www.youtube.com/watch?v=nhrYBoVI8pQ"
+	],
+	["Accessible Svelte Transition", "https://www.youtube.com/watch?v=QK_QuRL7nSo&feature=youtu.be"],
+	["Svelte's module scripts explained", "https://codechips.me/svelte-module-scripts-explained/"],
+	["Awesome Svelte", "https://github.com/TheComputerM/awesome-svelte#readme"],
+	[".NET Core and Svelte", "https://dev.to/cainux/net-core-and-svelte-f8o"],
+	[
+		"A la découverte de Svelte JS",
+		"https://www.youtube.com/watch?v=SLpx1Y8e1ek&list=PLff5I1miao9ZEUhpqkrOx7k8RGAZt-nm9"
+	],
+	["Svelte for React Developers", "https://soshace.com/svelte-for-react-developers/"],
+	[
+		"Building a Svelte Static Website with Smooth Page Transitions",
+		"https://www.youtube.com/watch?v=dvPfmcGtmrI&feature=emb_title"
+	],
+	["Using Apollo Client in Sapper", "https://bjornlu.com/blog/using-apollo-client-in-sapper/"],
+	["Reactive web apps with Crystal + Svelte", "https://www.youtube.com/watch?v=i1xjLd6z7BU"],
+	["Crystal", "https://crystal-lang.org"],
+	[
+		"Snowpack's v3 release candidate",
+		"https://www.snowpack.dev/posts/2020-12-03-snowpack-3-release-candidate"
+	],
+	["Getting Started with Svelte", "https://www.snowpack.dev/tutorials/svelte"],
+	["Uppy", "https://uppy.io/blog/2020/12/1.24/"],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["WAI-ARIA Graphics Module", "https://www.w3.org/TR/graphics-aria-1.0/#role_definitions"],
+	[
+		"\"triage: good first issue\" tag for Svelte",
+		"https://github.com/sveltejs/svelte/issues?q=is%3Aopen+is%3Aissue+label%3A%22triage%3A+good+first+issue%22"
+	],
+	["Releases page", "https://github.com/sveltejs/language-tools/releases"],
+	[
+		"Svelte Extension for VSCode",
+		"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+	],
+	["coc-svelte", "https://github.com/coc-extensions/coc-svelte"],
+	["svelte-loader", "https://github.com/sveltejs/svelte-loader"],
+	[
+		"More info in the changelog",
+		"https://github.com/sveltejs/svelte-loader/blob/master/CHANGELOG.md"
+	],
+	["rollup-plugin-svelte", "https://github.com/sveltejs/rollup-plugin-svelte"],
+	[
+		"checkout the changelog",
+		"https://github.com/sveltejs/rollup-plugin-svelte/blob/master/CHANGELOG.md"
+	],
+	["svelte-preprocess", "https://github.com/sveltejs/svelte-preprocess"],
+	[
+		"More info in the changelog",
+		"https://github.com/sveltejs/svelte-preprocess/blob/main/CHANGELOG.md"
+	],
+	["Sapper", "https://github.com/sveltejs/sapper"],
+	["in the changelog", "https://github.com/sveltejs/sapper/blob/master/CHANGELOG.md"],
+	["prettier-plugin-svelte", "https://github.com/sveltejs/prettier-plugin-svelte"],
+	[
+		"More info in the changelog",
+		"https://github.com/sveltejs/prettier-plugin-svelte/blob/master/CHANGELOG.md"
+	],
+	["a new cheat sheet", "https://sveltesociety.dev/cheatsheet"],
+	["Checkout the GitHub repo", "https://github.com/svelte-society/sveltesociety.dev"],
+	["The official German vaccination dashboard", "https://impfdashboard.de/"],
+	[
+		"La neuva era de la educatión conectada",
+		"https://elfuturoesapasionante.vodafone.es/especiales/educacion-conectada/"
+	],
+	["sho.rest", "https://github.com/Melonai/shorest"],
+	["night.fm", "https://night.fm/"],
+	[
+		"Svelte Reactive Debugger",
+		"https://addons.mozilla.org/en-US/firefox/addon/svelte-reactive-debugger/"
+	],
+	["svelte-actions", "https://github.com/sw-yx/svelte-actions"],
+	["See RFC", "https://github.com/sveltejs/rfcs/pull/24"],
+	["Discuss High Level Policy", "https://github.com/sw-yx/svelte-actions/issues/7"],
+	[
+		"This css grid gallery",
+		"https://svelte.dev/repl/3a1b7fae13b242fe9cd4a4f7aa092fa4?version=3.31.2"
+	],
+	["Patchcab", "https://github.com/spectrome/patchcab"],
+	["svelte-knob", "https://github.com/MelihAltintas/svelte-knob"],
+	["descent-ripple", "https://github.com/micha-lmxt/descent-ripple"],
+	["makeItSnow", "https://github.com/florianlouvet/make-it-snow/blob/main/makeItSnowAction.js"],
+	["Demo", "https://svelte.dev/repl/de5223beb45540a5a11c9bd7b318304f?version=3.31.2"],
+	["svelte-video-player", "https://github.com/meigo/svelte-video-player"],
+	["svelte-readonly", "https://github.com/Crisfole/svelte-readonly"],
+	["svelte-derver-starter", "https://github.com/AlexxNB/svelte-derver-starter"],
+	["eleventy-plugin-embed-svelte", "https://github.com/shalomscott/eleventy-plugin-embed-svelte"],
+	[
+		"svelte-tailwind-extension-boilerplate",
+		"https://github.com/kyrelldixon/svelte-tailwind-extension-boilerplate"
+	],
+	["snowpack-ui", "https://github.com/rajasegar/snowpack-ui"],
+	["Svelte for Appwrite", "https://dev.to/torstendittmann/svelte-for-appwrite-4fkg"],
+	["GitHub Repo", "https://github.com/appwrite/sdk-for-svelte"],
+	["here-maps-svelte", "https://github.com/peopledrivemecrazy/here-maps-svelte"],
+	["p5-svelte", "https://github.com/tonyketcham/p5-svelte"],
+	["svelte-windicss-preprocess", "https://github.com/voorjaar/svelte-windicss-preprocess"],
+	["MitzaCoder/svelte-boilerplate", "https://github.com/MitzaCoder/svelte-boilerplate"],
+	["Components", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	[
+		"lihautan's Svelte Actions Playlist",
+		"https://www.youtube.com/watch?v=ciaMT_MswzE&list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK"
+	],
+	[
+		"One-click Portfolio/Personal blog generator from dev.to API ",
+		"https://dev.to/shriji/one-click-portfolio-personal-blog-generator-from-dev-to-api-3apb"
+	],
+	["How to Code a VSCode Extension", "https://www.youtube.com/watch?v=a5DX5pQ9p5M"],
+	[
+		"This YouTube series on Plenti",
+		"https://www.youtube.com/watch?v=wyNC7R_VVyQ&list=PLbWvcwWtuDm12y3Hye6oKDwI2gAS0ccHW"
+	],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Open Call for Speakers", "https://sessionize.com/svelte-summit-spring-2021"],
+	["custom stores", "https://svelte.dev/examples/custom-stores"],
+	["Server-side component API ", "https://svelte.dev/docs#run-time-server-side-component-api"],
+	["example", "https://svelte.dev/repl/01a14375951749dab9579cb6860eccde?version=3.32.0"],
+	["more info", "https://github.com/sveltejs/svelte/pull/5652"],
+	["example", "https://svelte.dev/repl/0ee7227e1b45465b9b47d7a5ae2d1252?version=3.33.0"],
+	["this PR", "https://github.com/sveltejs/svelte/pull/4522"],
+	["docs", "https://svelte.dev/docs#compile-time-svelte-compile"],
+	["the CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	[
+		"Svelte Extension for VSCode",
+		"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+	],
+	["eslint-plugin-svelte3", "https://github.com/sveltejs/eslint-plugin-svelte3"],
+	["prettier-plugin-svelte", "https://github.com/sveltejs/prettier-plugin-svelte/"],
+	["svelte-preprocess", "https://github.com/sveltejs/svelte-preprocess/"],
+	["sapper", "https://github.com/sveltejs/sapper/"],
+	[
+		"Tracking the Coronavirus",
+		"https://www.nytimes.com/interactive/2021/us/new-york-city-new-york-covid-cases.html"
+	],
+	["Budibase", "https://github.com/Budibase/budibase"],
+	["Track the Parcel", "https://tracktheparcel.com/"],
+	["Memo", "https://sendmemo.app/features/"],
+	["Userscripts Safari", "https://github.com/quoid/userscripts"],
+	["SVGX", "https://svgx.app/"],
+	["Armoria", "https://azgaar.github.io/Armoria/"],
+	["FictionBoard", "https://www.fictionboard.com"],
+	["Castles & Crusades Treasure Generator", "https://treasure.playaheadgames.com/"],
+	["NESBit Studio", "https://jensa.org/NESBitStudio-web/graphics/spritesheets"],
+	["ElectroBlocks", "https://electroblocks.org/"],
+	["Goblin.life", "https://store.steampowered.com/app/552180/GoblinLife/"],
+	["farmbox", "https://farmbox.ae/"],
+	["heroeswearmasks.fun", "https://heroeswearmasks.fun/"],
+	["weatherify", "https://brdtheo-weatherify.netlify.app/"],
+	["open source", "https://github.com/brdtheo/weatherify"],
+	["DSN Live", "https://dsn-live.netlify.app/#/"],
+	["spc", "https://github.com/khang-nd/spc"],
+	["svelte-injector", "https://www.npmjs.com/package/svelte-injector"],
+	["Felte", "https://felte.dev/"],
+	["svelte-use-form", "https://github.com/noahsalvi/svelte-use-form#readme"],
+	["Formula", "https://formula.svelte.codes/"],
+	["Houdini", "https://github.com/AlecAivazis/houdini"],
+	["svelte-split-pane", "https://www.reddit.com/r/sveltejs/comments/leoe33/sveltesplitpane/"],
+	["svelte-virtualized-auto-sizer", "https://github.com/micha-lmxt/svelte-virtualized-auto-sizer"],
+	["svelte-window", "https://github.com/micha-lmxt/svelte-window"],
+	["Svelte Persistent store", "https://github.com/MacFJA/svelte-persistent-store"],
+	["Svelte Dark", "https://marketplace.visualstudio.com/items?itemName=NickScialli.svelte-dark"],
+	["Import Cost", "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost"],
+	["Tree-sitter-svelte", "https://github.com/Himujjal/tree-sitter-svelte"],
+	["Svelte Ripple", "https://svelte.dev/repl/b73224a0fd4248178e3eab41943d41a9?version=3.31.2"],
+	["Analog SVG Clock", "https://svelte.dev/repl/270e83f43e7a48918d8f2d497760904f?version=3.32.1"],
+	["Console Log Styler", "https://svelte.dev/repl/11f609d0d90746f08da6d3d90bba84fc?version=3.32.0"],
+	["svelte-heroicons", "https://github.com/martinse/svelte-heroicons"],
+	["supabase-ui-svelte", "https://github.com/joshnuss/supabase-ui-svelte"],
+	["Components", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	["The **unofficial** SvelteKit docs", "https://sk-incognito.vercel.app/learn/what-is-sveltekit"],
+	["open for contributions", "https://github.com/GrygrFlzr/kit-docs"],
+	["📦 Svelte Store", "https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK"],
+	["Svelte Events", "https://www.youtube.com/watch?v=cbxxbBofjAw&feature=youtu.be"],
+	[
+		"How to Set Up Protected Routes in Your Svelte Application",
+		"https://www.webtips.dev/how-to-set-up-protected-routes-in-your-svelte-application"
+	],
+	[
+		"Using Fauna's streaming feature to build a chat with Svelte",
+		"https://dev.to/fauna/using-fauna-s-streaming-feature-to-build-a-chat-with-svelte-1gkd"
+	],
+	["Using TakeShape with Sapper", "https://www.takeshape.io/articles/using-takeshape-with-sapper/"],
+	["YastPack", "https://github.com/rodabt/yastpack"],
+	["S2T2", "https://ralphbliu.medium.com/s2t2-snowpack-svelte-tailwindcss-typescript-8928caa5af6c"],
+	[
+		"tonyketcham/sapper-tailwind2-template",
+		"https://github.com/tonyketcham/sapper-tailwind2-template"
+	],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["kit.svelte.dev/docs", "https://kit.svelte.dev/docs"],
+	["Sapper", "https://sapper.svelte.dev"],
+	["kit.svelte.dev/docs/migrating", "https://kit.svelte.dev/docs/migrating"],
+	["github.com/sveltejs/kit", "https://github.com/sveltejs/kit"],
+	["Next", "https://nextjs.org/"],
+	["Sapper", "https://sapper.svelte.dev"],
+	["announcement video", "/blog/whats-the-deal-with-sveltekit"],
+	["Snowpack", "https://www.snowpack.dev/"],
+	["Vite", "https://vitejs.dev"],
+	["Evan You", "https://twitter.com/youyuxi"],
+	["coronavirus tracker", "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html"],
+	[
+		"county risk pages",
+		"https://www.nytimes.com/interactive/2021/us/tom-green-texas-covid-cases.html"
+	],
+	[
+		"issue tracker",
+		"https://github.com/sveltejs/kit/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0"
+	],
+	["adapters", "https://kit.svelte.dev/docs/adapters"],
+	["GrygrFlzr", "https://github.com/GrygrFlzr"],
+	["dominikg", "https://github.com/dominikg"],
+	["Svite", "https://github.com/svitejs/svite"],
+	["SvelteKit", "https://kit.svelte.dev/"],
+	["latest blog post", "https://svelte.dev/blog/sveltekit-beta"],
+	["github", "https://github.com/sveltejs/kit/milestone/2"],
+	["episode of Svelte Radio", "https://www.svelteradio.com/episodes/svelte-kit-public-beta"],
+	["104.5.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-104.5.0"],
+	["docs", "https://svelte.dev/docs#template-syntax-svelte-fragment"],
+	["tutorial", "https://svelte.dev/tutorial/svelte-fragment"],
+	["104.6.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-104.6.0"],
+	["104.7.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-104.7.0"],
+	["vite-plugin-svelte", "https://github.com/sveltejs/vite-plugin-svelte"],
+	["Nagato", "https://nagato.app/"],
+	["type-kana", "https://type-kana.cass.moe/setup"],
+	["Pittsburgh Steps", "https://pittsburgh-steps.samlearner.com/"],
+	["Music Mode Wheels", "https://tobx.github.io/music-mode-wheels/"],
+	["Critical Notes", "https://www.critical-notes.com/"],
+	["Svelte Game of Life", "https://github.com/alanrsoares/svelte-game-of-life"],
+	["foxql", "https://github.com/foxql"],
+	["svelte-nodegui", "https://github.com/nodegui/svelte-nodegui"],
+	["Svelte Story Format", "https://www.npmjs.com/package/@storybook/addon-svelte-csf"],
+	["Storybook blog", "https://storybook.js.org/blog/storybook-for-svelte/"],
+	["SelectMadu", "https://github.com/pavish/select-madu"],
+	["Svelte Checklist", "https://www.npmjs.com/package/svelte-checklist"],
+	["Suspense for Svelte", "https://www.npmjs.com/package/@jamcart/suspense"],
+	["MiniRx", "https://spierala.github.io/mini-rx-store/"],
+	["svelte-formly", "https://github.com/arabdevelop/svelte-formly"],
+	["7ty", "https://www.npmjs.com/package/@jamcart/7ty"],
+	["Component", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	["sveltekit-electron", "https://github.com/FractalHQ/sveltekit-electron"],
+	[
+		"sveltekit-tailwindcss-external-api",
+		"https://github.com/acidlake/sveltekit-tailwindcss-external-api"
+	],
+	["Sapper Netlify", "https://www.npmjs.com/package/sapper-netlify"],
+	["svelte-adders", "https://github.com/svelte-add/svelte-adders"],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates/"],
+	[
+		"How to Build a Website with Svelte and SvelteKit",
+		"https://prismic.io/blog/svelte-sveltekit-tutorial"
+	],
+	[
+		"A Svelte store for prefers-reduced-motion",
+		"https://geoffrich.net/posts/svelte-prefers-reduced-motion-store/"
+	],
+	[
+		"TypeScript support in Svelte",
+		"https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript"
+	],
+	["How to merge cells with svelte-window", "https://gradientdescent.de/merging-cells/"],
+	["from react-window 1:1 to svelte-window", "https://gradientdescent.de/porting-react-window/"],
+	[
+		"Easy-to-Embed Svelte Components",
+		"https://codeandlife.com/2021/03/06/easy-to-embed-svelte-components/"
+	],
+	["Convert Svelte project from Rollup to Snowpack", "https://www.youtube.com/watch?v=-sHcqj4YLeQ"],
+	[
+		"How to internationalize routing in Svelte & Sapper",
+		"https://www.leaf.cloud/blog/how-to-internationalize-routing-in-svelte-sapper?utm_medium=story&utm_source=reddit.com&utm_campaign=awareness&utm_content=sapper_routing"
+	],
+	[
+		"Svelte Store: Reactive context using Svelte Store",
+		"https://www.youtube.com/watch?v=-rTnWlbdjoY"
+	],
+	[
+		"Creating Social Sharing Images with Cloudinary and Svelte",
+		"https://www.youtube.com/watch?v=-Si5o-R7KHY"
+	],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Check out the full recording", "https://www.youtube.com/watch?v=fnr9XWvjJHw"],
+	["on Svelte Radio", "https://www.svelteradio.com/episodes/svelte-summit-party-episode"],
+	["Example", "https://svelte.dev/repl/54148fd2af484f2c84977c94e523c7c5?version=3.38.0"],
+	["Docs coming soon", "https://github.com/sveltejs/svelte/issues/6268"],
+	["kit.svelte.dev", "https://kit.svelte.dev/"],
+	["SvelteKit Demo Site", "https://netlify.demo.svelte.dev/"],
+	["PR", "https://github.com/sveltejs/kit/pull/1181"],
+	["Docs", "https://github.com/sveltejs/kit/tree/master/packages/adapter-static"],
+	["PR", "https://github.com/sveltejs/kit/pull/713"],
+	["PR", "https://github.com/sveltejs/kit/pull/1062"],
+	["Docs", "https://kit.svelte.dev/docs/layouts#error-pages"],
+	["PR", "https://github.com/sveltejs/kit/pull/1061"],
+	["Docs", "https://kit.svelte.dev/docs/layouts#resets"],
+	["PR", "https://github.com/sveltejs/kit/pull/1066"],
+	["Docs", "https://kit.svelte.dev/docs/loading#input-fetch"],
+	["gitpod.io", "https://github.com/gitpod-io/website"],
+	["highlight eel", "https://highlighteel.com/"],
+	["The Far Star Mission", "https://thefarstar.apotheus.net/"],
+	["JavaScript quiz", "https://github.com/nclskfm/javascript-quiz"],
+	["ExtensionPay", "https://extensionpay.com/"],
+	["mk48.io", "https://mk48.io/"],
+	["Frog Safety", "https://frog-safety.vercel.app/"],
+	[
+		"Stardew Valley Character Preview",
+		"https://github.com/overscore-media/stardew-valley-character-preview"
+	],
+	["svelte-parallax", "https://github.com/kindoflew/svelte-parallax"],
+	["@svelte-plugins/viewable", "https://github.com/svelte-plugins/viewable"],
+	["Sveltekit-JUI", "https://github.com/Wolfr/sveltekit-jui"],
+	["EZGesture", "https://github.com/mhmd-22/ezgesture#integrating-with-other-frameworks"],
+	["Component", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	[
+		"How to use Vercel Analytics with SvelteKit",
+		"https://ivoberger.com/posts/using-vercel-analytics-with-svelte-kit"
+	],
+	[
+		"Asp.NETCore + Svelte + Vite",
+		"https://github.com/Kiho/aspcore-spa-cli/tree/master/samples/SviteSample"
+	],
+	["Add CoffeeScript to Svelte", "https://github.com/Leftium/coffeescript-adder"],
+	["Adds Supabase to Svelte", "https://github.com/joshnuss/svelte-supabase"],
+	["svelte-babylon", "https://github.com/SectorXUSA/svelte-babylon"],
+	["svelte-adders", "https://github.com/svelte-add/svelte-adders"],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates"],
+	[
+		"Amazing macOS Dock animation in Svelte",
+		"https://dev.to/puruvj/amazing-macos-dock-animation-in-svelte-5hfb"
+	],
+	[
+		"Solving the Tower of Hanoi with recursive Svelte templates",
+		"https://geoffrich.net/posts/svelte-tower-of-hanoi/"
+	],
+	["DIY SvelteKit CDK adapter", "https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp"],
+	["Svelte in 100 Seconds", "https://www.youtube.com/watch?v=rv3Yq-B8qp4"],
+	[
+		"Tech Downtime",
+		"https://www.youtube.com/watch?v=tsePBA2JC7o&list=PLualcIC6WNK1LHIYx2Tg9AQfTQDv4zNPu"
+	],
+	[
+		"Svelte 101",
+		"https://www.youtube.com/watch?v=rwYgOU0WmVk&list=PLoKaNN3BjQX3mxDEVG3oGJx2ByXnue_gR&index=59"
+	],
+	[
+		"Svelte Store",
+		"https://www.youtube.com/watch?v=p4GmT0trCPE&list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK&index=19"
+	],
+	["DavidParkerW", "https://www.youtube.com/c/DavidParkerW/playlists"],
+	[
+		"displaying a blog post list from an API",
+		"https://www.youtube.com/watch?v=kAPVFgFnxaM&list=PLPqKsyEGhUna6cvm6d4vZNI6gbt_0S4Xx&index=15"
+	],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["sveltejs/kit#1556", "https://github.com/sveltejs/kit/pull/1556"],
+	["sveltejs/kit#1456", "https://github.com/sveltejs/kit/pull/1456"],
+	["sveltejs/kit#1382", "https://github.com/sveltejs/kit/pull/1382"],
+	["sveltejs/kit#1467", "https://github.com/sveltejs/kit/pull/1467"],
+	[
+		"this setting",
+		"https://github.com/sveltejs/language-tools/tree/master/packages/svelte-vscode#svelteenable-ts-plugin"
+	],
+	["provide feedback", "https://github.com/sveltejs/language-tools/issues/580"],
+	["**1.6.0**", "https://github.com/sveltejs/language-tools/releases/tag/svelte-check-1.6.0"],
+	["**2.0.0**", "https://github.com/sveltejs/language-tools/releases/tag/svelte-check-2.0.0"],
+	["**105.0.0**", "https://github.com/sveltejs/language-tools/releases/tag/extensions-105.0.0"],
+	["vidu", "https://github.com/pa-nic/vidu"],
+	["River Runner", "https://river-runner.samlearner.com/"],
+	["JSDoc Type Generator", "https://rafistrauss.github.io/jsdoc-generator/"],
+	["pagereview.io", "https://pagereview.io/"],
+	["gamesroom.io", "https://gamesroom.io/"],
+	["Greedy Goblin", "https://greedygoblin-fe11c.web.app/"],
+	["hashbrown.geopjr.dev", "https://hashbrown.geopjr.dev/"],
+	["link to source", "https://github.com/GeopJr/Hashbrown/tree/website"],
+	["svelte-image-crop", "https://novacbn.github.io/svelte-image-crop/"],
+	["svelte-datepicker", "https://github.com/andrew-secret/svelte-datepicker"],
+	["svelte-regex-router", "https://www.npmjs.com/package/svelte-regex-router"],
+	["Svelte Micro", "https://www.npmjs.com/package/svelte-micro"],
+	["svelte-entity-store", "https://www.npmjs.com/package/svelte-entity-store"],
+	["svelte-animation-store", "https://github.com/joshnuss/svelte-animation-store"],
+	["Component", "https://sveltesociety.dev/components"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety.dev/blob/master/src/pages/components/components.json"
+	],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["#1693", "https://github.com/sveltejs/kit/pull/1693"],
+	["#1633", "https://github.com/sveltejs/kit/pull/1633"],
+	["#1416", "https://github.com/sveltejs/kit/pull/1416"],
+	["#1572", "https://github.com/sveltejs/kit/pull/1572"],
+	["#1517", "https://github.com/sveltejs/kit/pull/1517"],
+	["Svelte 3.38.3", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md#3383"],
+	["the RFC", "https://github.com/sveltejs/rfcs/pull/38"],
+	["this issue", "https://github.com/sveltejs/language-tools/issues/442"],
+	["RFC", "https://github.com/sveltejs/rfcs/blob/master/text/0000-markup-constants.md"],
+	["PR", "https://github.com/sveltejs/svelte/pull/6413"],
+	["SvelteThemes", "https://sveltethemes.dev/"],
+	["Beatbump", "https://github.com/snuffyDev/Beatbump"],
+	["Sveltuir", "https://github.com/webspaceadam/sveltuir"],
+	["Svelte Radio: A Jolly Good Svelte Summer", "https://share.transistor.fm/s/60880542"],
+	["Class properties in Svelte", "https://navillus.dev/blog/svelte-class-props"],
+	[
+		"Sveltekit Tutorial for Beginners",
+		"https://www.youtube.com/playlist?list=PLm_Qt4aKpfKjf77S8UD79Ockhwp_699Ms"
+	],
+	[
+		"How To Cache Dynamic Pages On Demand With A Service Worker In SvelteKit",
+		"https://jochemvogel.medium.com/how-to-cache-dynamic-pages-on-demand-with-a-service-worker-in-sveltekit-4b4a7652583d"
+	],
+	[
+		"Vue vs Svelte: Comparing Framework Internals",
+		"https://www.vuemastery.com/blog/vue-vs-svelte-comparing-framework-internals/"
+	],
+	[
+		"Setting up a development environment for SvelteKit with Docker and Docker Compose",
+		"https://jenyus.web.app/blog/2021-05-30-setting-up-a-development-environment-for-sveltekit-with-docker-and-compose"
+	],
+	["AWS", "https://youtu.be/VOs2Od5jYOc"],
+	["Azure", "https://youtu.be/gdg4ne_uDm8"],
+	["Google Cloud", "https://youtu.be/_-uBb61Tikw"],
+	["Render Katex with Svelte from zero to hero", "https://www.youtube.com/watch?v=euowJs9CblA"],
+	["Using Custom Elements in Svelte", "https://css-tricks.com/using-custom-elements-in-svelte/"],
+	["svelte-pipeline", "https://github.com/novacbn/svelte-pipeline"],
+	["Sveltotron", "https://github.com/Salemmous/sveltotron"],
+	["svelte-qr-reader-writer", "https://github.com/pleasemarkdarkly/svelte-qr-reader-writer"],
+	["svelte-stack-router", "https://www.npmjs.com/package/svelte-stack-router"],
+	["svelte-typed-context", "https://www.npmjs.com/package/svelte-typed-context"],
+	["svelte-modals", "https://svelte-modals.mattjennings.io/"],
+	[
+		"a PR to this file",
+		"https://github.com/svelte-society/sveltesociety-2021/blob/main/src/routes/components/components.json"
+	],
+	["the list of open issues", "https://github.com/svelte-society/sveltesociety-2021/issues"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["JS Party Ep. 182", "https://changelog.com/jsparty/182"],
+	["29", "https://share.transistor.fm/s/adc23e84"],
+	["30", "https://share.transistor.fm/s/6316622d"],
+	["#6137", "https://github.com/sveltejs/svelte/issues/6137"],
+	["#6416", "https://github.com/sveltejs/svelte/pull/6416"],
+	["#6194", "https://github.com/sveltejs/svelte/pull/6194"],
+	["#5869", "https://github.com/sveltejs/svelte/issues/5869"],
+	["#2214", "https://github.com/sveltejs/svelte/issues/2214"],
+	["#5612", "https://github.com/sveltejs/svelte/issues/5612"],
+	["#6270", "https://github.com/sveltejs/svelte/issues/6270"],
+	["Svelte changelog", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["#2007", "https://github.com/sveltejs/kit/pull/2007"],
+	["#1914", "https://github.com/sveltejs/kit/pull/1914"],
+	["#1910", "https://github.com/sveltejs/kit/pull/1910"],
+	["#1827", "https://github.com/sveltejs/kit/pull/1827"],
+	["#1847", "https://github.com/sveltejs/kit/pull/1847"],
+	["#1905", "https://github.com/sveltejs/kit/pull/1905"],
+	["#1789", "https://github.com/sveltejs/kit/pull/1789"],
+	["#1778", "https://github.com/sveltejs/kit/pull/1778"],
+	["#1791", "https://github.com/sveltejs/kit/pull/1791"],
+	["#1646", "https://github.com/sveltejs/kit/pull/1646"],
+	["SvelteKit changelog", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["changelog", "https://github.com/sveltejs/sapper/blob/master/CHANGELOG.md"],
+	["Parsnip", "https://www.parsnip.ai/"],
+	[
+		"conversation on Reddit",
+		"https://www.reddit.com/r/sveltejs/comments/oearb9/learning_to_cook_at_home_with_parsnip_built/"
+	],
+	["Central Bank Digital Currency (CBDC tracker", "https://www.atlanticcouncil.org/cbdctracker/)"],
+	["Svelte Commerce", "https://github.com/itswadesh/svelte-commerce"],
+	["neovimcraft", "https://neovimcraft.com/"],
+	["the list of open issues", "https://github.com/svelte-society/sveltesociety-2021/issues"],
+	[
+		"How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
+		"https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"
+	],
+	[
+		"How to Create a Blog with SvelteKit and Strapi",
+		"https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi"
+	],
+	[
+		"Sveltekit Markdown Blog",
+		"https://www.youtube.com/watch?v=sKKgT0SEioI&list=PLm_Qt4aKpfKgonq1zwaCS6kOD-nbOKx7V"
+	],
+	["Using Custom Elements in Svelte", "https://css-tricks.com/using-custom-elements-in-svelte/"],
+	["learn / graphql / svelte", "https://hasura.io/learn/graphql/svelte-apollo/introduction/"],
+	["How to add Magic Link to a SvelteKit application", "https://magic.link/posts/magic-svelte"],
+	["Svelte-Capacitor", "https://github.com/drannex42/svelte-capacitor/"],
+	["svelte-remixicon", "https://github.com/ABarnob/svelte-remixicon"],
+	["SveltePress", "https://github.com/GeopJr/SveltePress"],
+	["Svelte Starter Kit", "https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase"],
+	["Kahi UI", "https://github.com/novacbn/kahi-ui"],
+	["typesafe-i18n", "https://github.com/ivanhofer/typesafe-i18n"],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	[
+		"voted StackOverflow's most loved web framework",
+		"https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+	],
+	["talked to Svelte Radio", "https://share.transistor.fm/s/84c7521b"],
+	["Svelte-filled YouTube channel", "https://www.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ"],
+	["Svelte changelog", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["looking for help getting SvelteKit to 1.0", "https://github.com/sveltejs/kit/issues/2100"],
+	[
+		"1.0 milestone issues",
+		"https://github.com/sveltejs/kit/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0"
+	],
+	["#2104", "https://github.com/sveltejs/kit/pull/2104"],
+	["add the Kit middleware to your own server", "https://kit.svelte.dev/faq#integrations"],
+	[
+		"add middleware in dev mode",
+		"https://kit.svelte.dev/faq#how-do-i-use-x-with-sveltekit-how-do-i-use-middleware"
+	],
+	[
+		"`sequence` helper lets you chain together multiple `handle` calls",
+		"https://kit.svelte.dev/docs/modules#sveltejs-kit-hooks"
+	],
+	["`handleError` hook", "https://kit.svelte.dev/docs/hooks#handleerror"],
+	["#2048", "https://github.com/sveltejs/kit/pull/2048"],
+	["SvelteKit changelog", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["macos-web", "https://github.com/PuruVJ/macos-web"],
+	["Twitter thread", "https://twitter.com/puruvjdev/status/1426267327687847939"],
+	["Brave Search", "https://search.brave.com/"],
+	["exatorrent", "https://github.com/varbhat/exatorrent"],
+	["json2TsTypes", "https://github.com/jatinhemnani01/json2TsTypes"],
+	["Histogram.dev", "https://histogram.dev/"],
+	["cybernetic.dev", "https://cybernetic.dev/"],
+	[
+		"LunaNotes",
+		"https://chrome.google.com/webstore/detail/lunanotes-youtube-video-n/oehoffnnkgcdacmbkhmlbjedinpampak?hl=en"
+	],
+	["theia.games", "https://theia.games/#dev"],
+	["Ferrum", "https://github.com/probablykasper/ferrum"],
+	["Fluid Earth", "https://github.com/byrd-polar/fluid-earth"],
+	["the list of open issues", "https://github.com/svelte-society/sveltesociety-2021/issues"],
+	[
+		"Tauri with Standard Svelte or SvelteKit",
+		"https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7"
+	],
+	[
+		"LevelUpTuts - Even More 5 Things I Like More In Svelte Than React",
+		"https://www.youtube.com/watch?v=ISmnG2sIOeM"
+	],
+	[
+		"State Management in Svelte Applications",
+		"https://auth0.com/blog/state-management-in-svelte-applications/"
+	],
+	[
+		"Migrating from Sapper to SvelteKit",
+		"https://shipbit.de/blog/migrating-from-sapper-to-svelte-kit/"
+	],
+	["svelte-stripe-js", "https://github.com/joshnuss/svelte-stripe-js"],
+	["svelte-steps", "https://github.com/shaozi/svelte-steps"],
+	["simple-optics-module", "https://gitlab.com/Samzelot/simple-optics-module"],
+	["inlang", "https://github.com/samuelstroschein/inlang"],
+	["Sveno", "https://github.com/pocinnovation/sveno"],
+	["svelte-useactions", "https://github.com/paolotiu/svelte-useactions"],
+	["Svelte-Element-Query", "https://github.com/leveluptuts/Svelte-Element-Query"],
+	["svelte-meta-tags", "https://github.com/oekazuma/svelte-meta-tags"],
+	["svelte-domtree", "https://github.com/alex-knyaz/svelte-domtree"],
+	["Diffx", "https://github.com/jbjorge/diffx/tree/master/svelte"],
+	["svelte-ionic-starter", "https://github.com/Zettexe/svelte-ionic-starter"],
+	["demo-sveltekit-sanity", "https://github.com/stephane-vanraes/demo-sveltekit-sanity/"],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["the TypeScript plugin", "https://www.npmjs.com/package/typescript-svelte-plugin"],
+	["Please leave feedback", "https://github.com/sveltejs/language-tools/issues/580"],
+	["@SomaticIT", "https://github.com/SomaticIT"],
+	["Svelte changelog", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["looking for help getting SvelteKit to 1.0", "https://github.com/sveltejs/kit/issues/2100"],
+	["recent comment", "https://github.com/sveltejs/kit/issues/2100#issuecomment-895446285"],
+	[
+		"1.0 milestone issues labeled with \"help wanted\"",
+		"https://github.com/sveltejs/kit/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0+label%3A%22help+wanted%22"
+	],
+	["#2326", "https://github.com/sveltejs/kit/pull/2326"],
+	["#2343", "https://github.com/sveltejs/kit/pull/2343"],
+	["#2345", "https://github.com/sveltejs/kit/pull/2345"],
+	["#2327", "https://github.com/sveltejs/kit/pull/2327"],
+	["#2380", "https://github.com/sveltejs/kit/pull/2380"],
+	["#2413", "https://github.com/sveltejs/kit/pull/2413"],
+	["#2431", "https://github.com/sveltejs/kit/pull/2431"],
+	["#2439", "https://github.com/sveltejs/kit/pull/2439"],
+	["#2414", "https://github.com/sveltejs/kit/pull/2414"],
+	[
+		"useVitePreprocess",
+		"https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/config.md#usevitepreprocess"
+	],
+	["#173", "https://github.com/sveltejs/vite-plugin-svelte/pull/173"],
+	["SvelteKit changelog", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["radiofrance", "https://www.radiofrance.fr/"],
+	["FLAYKS", "https://flayks.com/"],
+	["hirehive", "https://www.hirehive.com/"],
+	["Microsocial", "https://microsocial.xyz/"],
+	["Dylan Ipsum", "https://www.dylanlyrics.app/"],
+	["Chip8 Svelte", "https://github.com/mikeyhogarth/chip8-svelte"],
+	["the list of open issues", "https://github.com/svelte-society/sveltesociety-2021/issues"],
+	[
+		"Syntax Podcast: From React to SvelteKit",
+		"https://podcasts.apple.com/us/podcast/from-react-to-sveltekit/id1253186678?i=1000536276106"
+	],
+	[
+		"Web Rush Podcast: Svelte Tools and Svelte Society",
+		"https://www.webrush.io/episodes/episode-150-svelte-tools-and-svelte-society"
+	],
+	[
+		"Svelte: The Compiled Future of Front End",
+		"https://www.arahansen.com/the-compiled-future-of-front-end/"
+	],
+	[
+		"Svelte Radio: Contributing to Svelte with Martin 'Grygrflzr' Krisnanto Putra",
+		"https://share.transistor.fm/s/10aa305c"
+	],
+	["Svelte Radio: Routify 3 with Jake and Willow", "https://share.transistor.fm/s/10aa305c"],
+	["JS Party: 1Password", "https://twitter.com/geoffrich_/status/1441816829853253640?s=20"],
+	[
+		"How I built a blog with Svelte and SvelteKit",
+		"https://fantinel.dev/blog-development-sveltekit/"
+	],
+	["I built a decentralized chat dapp", "https://www.youtube.com/watch?v=J5x3OMXjgMc"],
+	[
+		"Writing a Svelte Store with TypeScript",
+		"https://javascript.plainenglish.io/writing-a-svelte-store-with-typescript-22fa1c901a4"
+	],
+	["How Svelte scopes component styles", "https://geoffrich.net/posts/svelte-scoped-styles/"],
+	["SvelteKit Hooks", "https://www.youtube.com/watch?v=RarufLoEL08"],
+	["Part 2", "https://www.youtube.com/watch?v=RmIBG3G0-VY"],
+	[
+		"An early look at SvelteKit",
+		"https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html"
+	],
+	["sveltekit-netlify-cms", "https://github.com/buhrmi/sveltekit-netlify-cms"],
+	["SvelteFireTS", "https://github.com/jacobbowdoin/sveltefirets"],
+	["stores-x", "https://github.com/Anyass3/stores-x"],
+	["sveltekit-snippets", "https://github.com/stordahl/sveltekit-snippets"],
+	["svelte-xactor", "https://github.com/wobsoriano/svelte-xactor"],
+	["vite-plugin-pages-svelte", "https://github.com/aldy505/vite-plugin-pages-svelte"],
+	["sveltio", "https://www.npmjs.com/package/sveltio"],
+	["svelte-transition-classes", "https://github.com/rmarscher/svelte-transition-classes"],
+	["Svelte-Boring-Avatars", "https://github.com/paolotiu/svelte-boring-avatars"],
+	["Boring Avatars", "https://github.com/boringdesigners/boring-avatars"],
+	["Svelte DataTables", "https://github.com/homescriptone/svelte-datatables"],
+	["focus-svelte", "https://github.com/chanced/focus-svelte"],
+	["filedrop-svelte", "https://github.com/chanced/filedrop-svelte"],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates/"],
+	["sessionize site", "https://sessionize.com/svelte-summit-fall-2021/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["80% complete mark", "https://github.com/sveltejs/kit/milestone/2"],
+	["5000 stars", "https://github.com/sveltejs/kit"],
+	["Svelte Summit", "https://sveltesummit.com/"],
+	["svelte.dev", "https://svelte.dev/"],
+	["sveltesociety.dev", "https://sveltesociety.dev"],
+	["sveltejs/kit#720", "https://github.com/sveltejs/kit/issues/720"],
+	["sveltejs/vite-plugin-svelte#201", "https://github.com/sveltejs/vite-plugin-svelte/pull/201"],
+	["#1219", "https://github.com/sveltejs/language-tools/issues/1219"],
+	["2656", "https://github.com/sveltejs/kit/pull/2656"],
+	["2604", "https://github.com/sveltejs/kit/pull/2604"],
+	["Svelte", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["SvelteKit changelog", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["Tangent", "http://tangentnotes.com/"],
+	["The Pudding", "https://pudding.cool/"],
+	["Power Switcher", "https://powerswitcher.axpo.com/"],
+	["Sublive", "https://sub.live/"],
+	["Vibify", "https://www.vibify.me/"],
+	["Browse Marvel Unlimited by Year", "https://marvel.geoffrich.net/"],
+	["Files", "https://files.community/"],
+	["lil-hash", "https://github.com/jackbow/lil-hash"],
+	["PWA Haven", "https://github.com/ThaUnknown/pwa-haven"],
+	["DottoBit", "https://dottobit.com/"],
+	["Former Fast Document for Print", "https://github.com/zummon/former"],
+	["Helvetikon", "https://github.com/noahsalvi/helvetikon"],
+	["Palitra App", "https://palitra.app/"],
+	[
+		"Svelte Radio",
+		"https://www.svelteradio.com/episodes/svelte-summit-is-coming-up-and-svelte-is-growing"
+	],
+	["PodRocket", "https://podrocket.logrocket.com/rich-harris"],
+	["PodRocket also dove deep", "https://podrocket.logrocket.com/elderjs"],
+	[
+		"Web Rush",
+		"https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris"
+	],
+	["devtools.fm", "https://devtools.fm/episode/15"],
+	["Have Single-Page Apps Ruined the Web?", "https://www.youtube.com/watch?v=860d8usGC0o"],
+	["Svelte vs SvelteKit - What's The Difference?", "https://www.youtube.com/watch?v=IKhtnhQKjxQ"],
+	["\"Weekly Svelte\"", "https://www.youtube.com/playlist?list=PLLnpHn493BHF-Onm1MQgKC1psvW-rJuYi"],
+	[
+		"WebJeda's SvelteKit Hooks",
+		"https://www.youtube.com/watch?v=RarufLoEL08&list=PLm_Qt4aKpfKgzcTiMT2cgWGBDBIPK06DQ"
+	],
+	[
+		"Writing Context Aware Styles in a Svelte App",
+		"https://www.ryanfiller.com/blog/tips/svelte-contex-aware-styles"
+	],
+	["A Beginner’s Guide to SvelteKit", "https://www.sitepoint.com/a-beginners-guide-to-sveltekit/"],
+	["Svelte vs React: Ending the Debate", "https://massivepixel.io/blog/svelte-vs-react/"],
+	[
+		"Svelte Snacks | Custom Events for Modal Actions",
+		"https://jeremydayslice.hashnode.dev/svelte-snacks-or-custom-events-for-modal-actions"
+	],
+	[
+		"What Svelte's accessibility warnings won't tell you",
+		"https://geoffrich.net/posts/svelte-a11y-limits/"
+	],
+	["svelte-adapter-azure-swa", "https://github.com/geoffrich/svelte-adapter-azure-swa"],
+	["Inlang", "https://docs.inlang.dev/getting-started/svelte-kit"],
+	["svelte-translate-tools", "https://github.com/noelmugnier/svelte-translate-tools"],
+	[
+		"@egjs/svelte-infinitegrid",
+		"https://github.com/naver/egjs-infinitegrid/tree/master/packages/svelte-infinitegrid"
+	],
+	["svelte-reactive-css-preprocess", "https://github.com/srmullen/svelte-reactive-css-preprocess"],
+	["Sveltegen", "https://github.com/snuffyDev/sveltegen"],
+	[
+		"svelte-advanced-multistep-form",
+		"https://www.npmjs.com/package/svelte-advanced-multistep-form"
+	],
+	["gQuery", "https://github.com/leveluptuts/gQuery"],
+	["date-picker-svelte", "https://github.com/probablykasper/date-picker-svelte"],
+	["TwelveUI", "https://twelveui.readme.io/reference/what-is-twelveui"],
+	["svelte-outclick", "https://github.com/babakfp/svelte-outclick/"],
+	["svelte-zero-api", "https://github.com/ymzuiku/svelte-zero-api"],
+	["svelte-recaptcha-v2", "https://github.com/basaran/svelte-recaptcha-v2"],
+	["Svelte Body", "https://github.com/ghostdevv/svelte-body"],
+	["svelte-debug-console", "https://github.com/basaran/svelte-debug-console"],
+	["SVEO", "https://github.com/didier/sveo"],
+	["@svelte-drama/suspense", "https://www.npmjs.com/package/@svelte-drama/suspense"],
+	["SWR for Svelte", "https://www.npmjs.com/package/@svelte-drama/swr"],
+	[
+		"sveltekit-adapter-browser-extension",
+		"https://github.com/antony/sveltekit-adapter-browser-extension"
+	],
+	["sveltesociety.dev", "https://sveltesociety.dev/templates/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Svelte", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["SvelteKit", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["YouTube", "https://www.youtube.com/watch?v=1Df-9EKvZr0"],
+	["#svelte-summit channel on Discord", "https://discord.gg/YmHcdnhu"],
+	["Rich Harris", "https://twitter.com/rich_harris"],
+	["his move to Vercel", "https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"],
+	["20:00", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=1200s"],
+	["Steph Dietz", "https://twitter.com/steph_dietz_"],
+	["29:00", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=1740s"],
+	["Kevin Bridges", "https://twitter.com/kevinast"],
+	["Kevin's site", "https://wiibridges.com/presentations/ResponsiveSvelte/"],
+	["42:55", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=2575s"],
+	["Mateo Morris", "https://twitter.com/_mateomorris"],
+	["Primo", "https://primo.af/"],
+	["1:12:34", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=4354s"],
+	["Guillermo Rauch", "https://vercel.com/about/rauchg"],
+	["1:21:54", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=4914s"],
+	["Geoff Rich", "https://twitter.com/geoffrich_"],
+	["Geoff's site", "https://geoffrich.net/posts/svelte-summit-2021/"],
+	["1:32:30", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=5550s"],
+	["Dean Fogarty", "https://df.id.au/"],
+	["Dean's GitHub", "https://github.com/angrytongan/svelte-summit-2021"],
+	["1:43:06", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=6186s"],
+	["Kellen Mace", "https://twitter.com/kellenmace"],
+	["1:49:30", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=6570ss"],
+	["Ben Holmes", "https://twitter.com/bholmesdev"],
+	["Slinkity", "https://slinkity.dev/"],
+	["2:17:15", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=8235s"],
+	["Scott Tolinski", "https://twitter.com/stolinski"],
+	["3:16:35", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=11795s"],
+	["Svelte Sirens", "https://sveltesirens.dev"],
+	["the Svelte Sirens website", "https://sveltesirens.dev/events"],
+	["3:50:45", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=13845s"],
+	["Rich Harris", "https://twitter.com/rich_harris"],
+	["3:56:00", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=14160s"],
+	["Ken Kunz", "https://twitter.com/kennethkunz"],
+	["Ken's GitHub", "https://github.com/kenkunz/svelte-fsm/wiki/Examples"],
+	["4:07:18", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=14838s"],
+	["Austin Crim", "https://twitter.com/crim_codes"],
+	["4:21:50", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=15710s"],
+	["Jesse Skinner", "https://twitter.com/JesseSkinner"],
+	["4:32:30", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=16350s"],
+	["Jim Fisk", "https://twitter.com/jimafisk"],
+	["Stephanie Luz", "https://stephanie-luz.medium.com/"],
+	["Plenti", "https://plenti.co/"],
+	["4:59:00", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=17940s"],
+	["Evyatar Alush", "https://twitter.com/evyataral"],
+	["Vest", "https://github.com/ealush/vest"],
+	["5:08:55", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=18535s"],
+	["5:30:04", "https://www.youtube.com/watch?v=1Df-9EKvZr0&t=19804s"],
+	["Kevin", "https://twitter.com/kevmodrome"],
+	["Kevin announced", "https://twitter.com/kevmodrome/status/1463151477174714373"],
+	[
+		"this Svelte Society YouTube Playlist",
+		"https://www.youtube.com/playlist?list=PL8bMgX1kyZTg2bI9IOMgfBc8lrU3v2itt"
+	],
+	[
+		"looking for feedback on the Svelte subreddit",
+		"https://www.reddit.com/r/sveltejs/comments/qzgo3k/svelte_summit_feedback/"
+	],
+	["pixeldrain", "https://github.com/Fornaxian/pixeldrain_web"],
+	["LifeHash", "http://lifehash.info/"],
+	["simple-cloud-music", "https://github.com/dufu1991/simple-cloud-music"],
+	["palette.rocks", "https://palette.rocks/"],
+	["Kadium", "https://github.com/probablykasper/kadium"],
+	["Multi-Monitor Calculator", "https://multimonitorcalculator.com/"],
+	["Your Home", "https://yourhome.fb.com/"],
+	["Svelte Crush", "https://svelte-crush.netlify.app/"],
+	[
+		"100.000 Corona deaths in Germany",
+		"https://twitter.com/h_i_g_s_c_h/status/1463767113563353089?s=20"
+	],
+	["the list of open issues", "https://github.com/svelte-society/sveltesociety-2021/issues"],
+	["How To Make and Publish a Svelte Library", "https://www.youtube.com/watch?v=_TymiadmPrc"],
+	[
+		"SvelteKit is now fully supported in WebContainers",
+		"https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/"
+	],
+	[
+		"Introducing Svelte, and Comparing Svelte with React and Vue",
+		"https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue"
+	],
+	[
+		"Testing a Svelte app with Jest",
+		"https://www.roboleary.net/2021/11/18/svelte-app-testing-jest.html"
+	],
+	[
+		"How to create a toast notification library package with SvelteKit",
+		"https://www.sarcevic.dev/blog/toasting-in-svelte"
+	],
+	[
+		"Svelte training: Here you can learn Svelte",
+		"https://sustainablewww.org/principles/svelte-training-here-you-can-learn-svelte"
+	],
+	["Introduction to Svelte Actions", "https://blog.logrocket.com/svelte-actions-introduction/"],
+	[
+		"Enjoy making DAPPs using SvelteWeb3",
+		"https://chiuzon.medium.com/enjoy-making-dapps-using-svelteweb3-b78dfea1d902"
+	],
+	[
+		"Svelte creator: Web development should be more fun",
+		"https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html"
+	],
+	[
+		"Svelte Radio: Rich Harris is now working full-time on Svelte 🤯",
+		"https://share.transistor.fm/s/d9b04961"
+	],
+	[
+		"Web Rush: Svelte and Elder.js with Nick Reese",
+		"https://webrush.io/episodes/episode-158-svelte-and-elderjs-with-nick-reese"
+	],
+	[
+		"Building SvelteKit applications with Serverless Redis",
+		"https://blog.upstash.com/svelte-with-serverless-redis"
+	],
+	["svelte-cubed", "https://github.com/Rich-Harris/svelte-cubed"],
+	["svelte-fsm", "https://github.com/kenkunz/svelte-fsm"],
+	["bromb", "https://github.com/samuelstroschein/bromb"],
+	["Spaper", "https://github.com/Oli8/spaper"],
+	["svelte-intl-precompile", "https://github.com/cibernox/svelte-intl-precompile"],
+	["svelte-preprocess-svg", "https://github.com/svitejs/svelte-preprocess-svg"],
+	[
+		"svelte-subcomponent-preprocessor",
+		"https://github.com/srmullen/svelte-subcomponent-preprocessor"
+	],
+	["svelte-pdfjs", "https://github.com/gtm-nayan/svelte-pdfjs"],
+	["svelte-inview", "https://github.com/maciekgrzybek/svelte-inview"],
+	[
+		"sveltekit-adapter-wordpress-shortcode",
+		"https://github.com/tomatrow/sveltekit-adapter-wordpress-shortcode"
+	],
+	["svelte-websocket-store", "https://github.com/arlac77/svelte-websocket-store"],
+	["Svelte Auto Form", "https://github.com/leveluptuts/auto-form"],
+	["set-focus", "https://www.npmjs.com/package/@svackages/set-focus"],
+	["GitHub Discussions", "https://github.com/sveltejs/kit/discussions"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["#3079", "https://github.com/sveltejs/kit/pull/3079"],
+	["#3120", "https://github.com/sveltejs/kit/pull/3120"],
+	["d13efe", "https://github.com/sveltejs/kit/commit/d138efe21692f5925f1e89afc0a33f42d6a1a711"],
+	["#2988", "https://github.com/sveltejs/kit/pull/2988"],
+	["#2931", "https://github.com/sveltejs/kit/pull/2931"],
+	["#3126", "https://github.com/sveltejs/kit/pull/3126"],
+	["update to Vite 2.7", "https://github.com/sveltejs/kit/pull/3018"],
+	[
+		"reporting significant performance improvements",
+		"https://www.reddit.com/r/sveltejs/comments/rljhfc/sveltekit_massive_compiler_improvement_by/"
+	],
+	["vite-plugin-svelte#237", "https://github.com/sveltejs/vite-plugin-svelte/pull/237"],
+	["Svelte 3.44.3", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md#3443"],
+	[
+		"105.8.0 and later",
+		"https://github.com/sveltejs/language-tools/releases/tag/extensions-105.8.0"
+	],
+	["svelte.dev/apps", "https://svelte.dev/apps"],
+	["Discover Twitter Spaces", "https://github.com/navneetsharmaui/discover-twitter-spaces"],
+	[
+		"Modern Fluid Typography Editor",
+		"https://github.com/codeAdrian/modern-fluid-typography-editor"
+	],
+	["Unnwhiteboard", "https://github.com/AviKKi/unnwhiteboard"],
+	["Secret Santa", "https://gitlab.com/arturoguzman/secret-santa-sveltekit"],
+	["LogSnag", "https://logsnag.com/"],
+	["Version 0.2 of Tangent", "http://tangentnotes.com/Download"],
+	["Intl Explorer", "https://github.com/jesperorb/intl-explorer"],
+	["svelte.dev", "https://svelte.dev/"],
+	[
+		"you can contribute to the Svelte Society site rewrite",
+		"https://github.com/svelte-society/sveltesociety-2021/issues"
+	],
+	[
+		"Mutating Query Params in SvelteKit Without Page Reloads or Navigations",
+		"https://dev.to/mohamadharith/mutating-query-params-in-sveltekit-without-page-reloads-or-navigations-2i2b"
+	],
+	[
+		"Svelte for Reactaholics : A guide for React developers",
+		"https://www.100ms.live/blog/svelte-guide-for-react-developers"
+	],
+	[
+		"Svelte's lifecycle methods can be used anywhere",
+		"https://geoffrich.net/posts/svelte-lifecycle-examples/"
+	],
+	["The many meanings of $ in Svelte", "https://geoffrich.net/posts/svelte-$-meanings/"],
+	[
+		"Vercel and Svelte: A Perfect Match for Web Developers",
+		"https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/"
+	],
+	[
+		"User-defined TailwindCSS Color Scheme with Svelte Stores",
+		"https://blog.dayslice.io/user-defined-tailwindcss-color-scheme-with-svelte-stores-ad80ca2cf038"
+	],
+	["Ionic 6 + Svelte 🚀", "https://medium.com/@raymondboswel/ionic-6-svelte-ae904caa82df"],
+	[
+		"What happened in #Svelte language tools this year",
+		"https://twitter.com/dummdidumm_/status/1474158105395179525?t=ytj2K2Q52iD5-lNyLnQaAQ&s=19"
+	],
+	[
+		"The Future of Svelte (Interview with Rich Harris",
+		"https://www.youtube.com/watch?v=uQntFkK8Z54)"
+	],
+	["Svelte is becoming the go-to framework", "https://www.youtube.com/watch?v=fo6BKY2xR2w&t=1834s"],
+	["Sveltekit WordPress Headless Blog", "https://www.youtube.com/watch?v=c0UDVgjPxFw"],
+	["Getting started with SvelteKit", "https://www.youtube.com/watch?v=i2suPKMPUFA"],
+	[
+		"Deploy a full-stack SvelteKit app on Cloudflare Pages",
+		"https://www.youtube.com/watch?v=Wc1_U6Dy5Tw"
+	],
+	[
+		"Syntax podcast: How To Do Things In Svelte",
+		"https://podcasts.apple.com/ca/podcast/how-to-do-things-in-svelte/id1253186678?i=1000544796072"
+	],
+	["JS Party #205: So much Sveltey goodness (w/ Rich Harris", "https://changelog.com/jsparty/205)"],
+	["svelte-headlessui", "https://github.com/rgossiaux/svelte-headlessui"],
+	["svelte-forms v2", "https://chainlist.github.io/svelte-forms/"],
+	[
+		"looking for feedback",
+		"https://www.reddit.com/r/sveltejs/comments/r6354j/svelteforms_v2_has_been_released/"
+	],
+	["Percival", "https://github.com/ekzhang/percival"],
+	["Svelte FlatList", "https://github.com/snuffyDev/svelte-flatlist"],
+	["svelte-keyed", "https://github.com/bryanmylee/svelte-keyed"],
+	["Svemix", "https://github.com/svemix/svemix"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Svelte", "/"],
+	["check out the tutorial", "/tutorial"],
+	["examples", "/examples"],
+	["launched 5 years ago", "https://news.ycombinator.com/item?id=13069841"],
+	["come a long way in the time since", "https://www.youtube.com/watch?v=YeY5M29-WcY"],
+	[
+		"most loved",
+		"https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+	],
+	["most satisfied", "https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/"],
+	["SvelteKit", "https://kit.svelte.dev/"],
+	[
+		"stable 1.0 release",
+		"https://github.com/sveltejs/kit/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0"
+	],
+	[
+		"joined Vercel to work on Svelte full-time",
+		"https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"
+	],
+	["benmccann", "https://github.com/benmccann"],
+	["bluwy", "https://github.com/bluwy"],
+	["dominikg", "https://github.com/dominikg"],
+	["dummdidumm", "https://github.com/dummdidumm"],
+	["ehrencrona", "https://github.com/ehrencrona"],
+	["geoffrich", "https://github.com/geoffrich"],
+	["GrygrFlzr", "https://github.com/GrygrFlzr"],
+	["Halfnelson", "https://github.com/Halfnelson"],
+	["ignatiusmb", "https://github.com/ignatiusmb"],
+	["jasonlyu123", "https://github.com/jasonlyu123"],
+	["kaisermann", "https://github.com/kaisermann"],
+	["RedHatter", "https://github.com/RedHatter"],
+	["rixo", "https://github.com/rixo"],
+	["OpenCollective", "https://opencollective.com/svelte"],
+	["Cohere", "https://cohere.ai/"],
+	["Vercel Edge Functions", "https://vercel.com/features/edge-functions"],
+	["big contributions", "https://github.com/sveltejs/kit/pull/2113"],
+	["updated", "https://github.com/dependents/node-precinct/pull/88"],
+	["Cloudflare Pages launch", "https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"],
+	["new adapter", "https://github.com/sveltejs/kit/tree/master/packages/adapter-cloudflare"],
+	["pngwn", "https://twitter.com/evilpingwin"],
+	["lukeed", "https://twitter.com/lukeed05"],
+	["Begin", "https://begin.com"],
+	["SvelteKit adapter", "https://github.com/architect/sveltekit-adapter"],
+	["Architect", "https://arc.codes"],
+	["contributed adapters", "https://sveltesociety.dev/components#adapters"],
+	["Vite", "https://vitejs.dev"],
+	["SvelteSociety", "https://sveltesociety.dev/"],
+	["4th Svelte Summit", "https://sveltesummit.com/"],
+	[
+		"read a summary here",
+		"https://svelte.dev/blog/whats-new-in-svelte-december-2021#what-happened-at-svelte-summit"
+	],
+	[
+		"going full-time to lead SvelteSociety",
+		"https://twitter.com/kevmodrome/status/1463151477174714373"
+	],
+	["Svelte Radio podcast", "https://www.svelteradio.com/"],
+	["SvelteSociety YouTube channel", "https://www.youtube.com/SvelteSociety"],
+	["Svelte subreddit", "https://www.reddit.com/r/sveltejs"],
+	["sveltesociety.dev", "https://sveltesociety.dev/"],
+	["Brittney Postma", "https://github.com/brittneypostma"],
+	["Willow aka GHOST", "https://ghostdev.xyz"],
+	["Steph Dietz", "https://github.com/StephDietz"],
+	["Gen Ashley", "https://twitter.com/coderinheels"],
+	["Svelte Sirens", "https://sveltesirens.dev/"],
+	["babichjacob", "https://github.com/babichjacob"],
+	["brady fractal", "https://github.com/FractalHQ"],
+	["brittney postma", "https://github.com/brittneypostma"],
+	["d3sandoval", "https://github.com/d3sandoval"],
+	["geoffrich", "https://github.com/geoffrich"],
+	["kev", "https://github.com/kevmodrome"],
+	["puru", "https://github.com/PuruVJ"],
+	["rainlife", "https://github.com/stephane-vanraes"],
+	["rmunn", "https://github.com/rmunn"],
+	["stolinski", "https://github.com/stolinski"],
+	["swyx", "https://github.com/sw-yx"],
+	["theo", "https://github.com/theo-steiner"],
+	["GitHub discussions on SvelteKit", "https://github.com/sveltejs/kit/discussions"],
+	["improved client-only rendering", "https://github.com/sveltejs/kit/pull/2804"],
+	["routing hooks", "https://github.com/sveltejs/kit/pull/3293"],
+	[
+		"the ability to pass data from child components to layouts",
+		"https://github.com/sveltejs/kit/pull/3252"
+	],
+	["Svelte 3.46.0", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md#3460"],
+	[
+		"constants in markup",
+		"https://github.com/sveltejs/rfcs/blob/master/text/0007-markup-constants.md"
+	],
+	[
+		"style directives",
+		"https://github.com/sveltejs/rfcs/blob/master/text/0008-style-directives.md"
+	],
+	["blog", "/blog"],
+	["RSS", "https://svelte.dev/blog/rss.xml"],
+	["develop at rapid speed", "accelerating-sveltes-development"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/comments/s9n8ou/new_rules/"],
+	["GitHub", "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md"],
+	[
+		"Discord",
+		"https://discord.com/channels/457912077277855764/831611707667382303/935264550436102315"
+	],
+	[
+		"new a11y warning `a11y-no-redundant-roles`",
+		"https://svelte.dev/docs#accessibility-warnings-a11y-no-redundant-roles"
+	],
+	["`{@const}` tag", "https://svelte.dev/docs#template-syntax-const"],
+	[
+		"`style:` directive",
+		"https://svelte.dev/docs#template-syntax-element-directives-style-property"
+	],
+	["AST output is now available in the Svelte REPL", "https://svelte.dev/repl/hello-world"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#inlinestylethreshold"],
+	["#2620", "https://github.com/sveltejs/kit/pull/2620"],
+	["Docs", "https://kit.svelte.dev/docs/modules#$app-navigation"],
+	["#3293", "https://github.com/sveltejs/kit/pull/3293"],
+	["Docs", "https://kit.svelte.dev/docs/adapters#supported-environments-platform-specific-context"],
+	["#3429", "https://github.com/sveltejs/kit/pull/3429"],
+	["Docs", "https://kit.svelte.dev/docs/hooks#handle"],
+	["#2804", "https://github.com/sveltejs/kit/pull/2804"],
+	["Docs", "https://kit.svelte.dev/docs/loading#input-stuff"],
+	["#3252", "https://github.com/sveltejs/kit/pull/3252"],
+	["Docs", "https://kit.svelte.dev/docs/routing#advanced-routing-fallthrough-routes"],
+	["#3217", "https://github.com/sveltejs/kit/pull/3217"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#csp"],
+	["#3499", "https://github.com/sveltejs/kit/pull/3499"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#routes"],
+	["#3576", "https://github.com/sveltejs/kit/pull/3576"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#prerender"],
+	["#2632", "https://github.com/sveltejs/kit/pull/2632"],
+	["Docs", "https://kit.svelte.dev/docs/routing#endpoints-http-method-overrides"],
+	["#2989", "https://github.com/sveltejs/kit/pull/2989"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#browser"],
+	["3578", "https://github.com/sveltejs/kit/pull/3578"],
+	["#3384", "https://github.com/sveltejs/kit/pull/3384"],
+	["timb(re", "https://paullj.github.io/timb)"],
+	["Music for Programming", "https://musicforprogramming.net/latest/"],
+	["Team Tale", "https://teamtale.app/"],
+	["Puzzlez", "https://www.puzzlez.io/"],
+	["Closed Caption Creator", "https://www.closedcaptioncreator.com/"],
+	["SC3Lab", "https://sc3-lab.netlify.app/"],
+	["Donkeytype", "https://github.com/0ql/Donkeytype"],
+	["Above", "https://above.silas.pro/"],
+	["base.report", "https://base.report/"],
+	["String", "https://string.kampsy.xyz/"],
+	["The Raytracer Challenge REPL", "https://github.com/jakobwesthoff/the_raytracer_challenge_repl"],
+	["awesome-svelte-kit", "https://github.com/janosh/awesome-svelte-kit"],
+	["Map Projection Explorer", "https://www.geo-projections.com/"],
+	["Rubiks", "https://github.com/MeharGaur/rubiks"],
+	["Pianisto", "https://pianisto.net/"],
+	[
+		"try contributing to the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety-2021/issues"
+	],
+	["Accelerating Svelte's Development", "https://svelte.dev/blog/accelerating-sveltes-development"],
+	["Storybook for Vite", "https://storybook.js.org/blog/storybook-for-vite/"],
+	[
+		"Let's learn SvelteKit by building a static Markdown blog from scratch",
+		"https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog"
+	],
+	[
+		"Building an iOS app with Svelte, Capacitor and Firebase",
+		"https://harryherskowitz.com/2022/01/05/tapedrop-app.html"
+	],
+	[
+		"Mutating Query Params in SvelteKit Without Page Reloads or Navigations",
+		"https://dev.to/mohamadharith/mutating-query-params-in-sveltekit-without-page-reloads-or-navigations-2i2b"
+	],
+	[
+		"Workaround for Bubbling Custom Events in Svelte",
+		"https://dev.to/mohamadharith/workaround-for-bubbling-custom-events-in-svelte-3khk"
+	],
+	[
+		"How to build a full stack serverless application with Svelte and GraphQL",
+		"https://dev.to/shadid12/how-to-build-a-full-stack-serverless-application-with-svelte-graphql-and-fauna-5427"
+	],
+	[
+		"How to Deploy SvelteKit Apps to GitHub Pages",
+		"https://sveltesaas.com/articles/sveltekit-github-pages-guide/"
+	],
+	[
+		"Creating a dApp with SvelteKit",
+		"https://anthonyriley.org/2021/12/31/creating-a-dapp-with-sveltekit/"
+	],
+	[
+		"Comparing Svelte Reactivity Options",
+		"https://opendirective.net/2022/01/06/comparing-svelte-reactivity-options/"
+	],
+	["Integrating Storybook with SvelteKit", "https://www.youtube.com/watch?v=Kc1ULlfyUcw"],
+	["Integrating FaunaDB with Svelte", "https://www.youtube.com/watch?v=zaoLZc76uZM"],
+	[
+		"SvelteKit Crash Course Tutorial",
+		"https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP"
+	],
+	[
+		"Svelte for Beginners",
+		"https://www.youtube.com/watch?v=BrkrOjknC_E&list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk"
+	],
+	["SvelteKit For Beginners | Movie App Tutorial", "https://www.youtube.com/watch?v=ydR_M0fw9Xc"],
+	["SvelteKit $app/stores", "https://www.youtube.com/watch?v=gBPhr1xbgaQ"],
+	["Sveltekit - Get All Routes/Pages", "https://www.youtube.com/watch?v=Y_NE2R3HuOU"],
+	["New Year, New Svelte!?", "https://share.transistor.fm/s/36212cdc"],
+	["So much Sveltey goodness (featuring Rich Harris", "https://changelog.com/jsparty/205)"],
+	[
+		"The Other Side of Tech: A Documentarian Perspective (with Stefan Kingham",
+		"https://codingcat.dev/podcast/2-4-the-other-side-of-tech-a-documentarian-perspective)"
+	],
+	["threlte", "https://github.com/grischaerbe/threlte"],
+	["svelte-formify", "https://github.com/nodify-at/svelte-formify"],
+	["gQuery", "https://github.com/leveluptuts/gQuery"],
+	["Unlock-protocol", "https://github.com/novum-insights/sveltekit-unlock-firebase"],
+	["AgnosticUI", "https://github.com/AgnosticUI/agnosticui"],
+	["Vitebook", "https://github.com/vitebook/vitebook"],
+	["SwyxKit", "https://swyxkit.netlify.app/"],
+	["svelte-themes", "https://github.com/beynar/svelte-themes"],
+	["svelte-transition", "https://www.npmjs.com/package/svelte-transition"],
+	["Svelte Inview", "https://www.npmjs.com/package/svelte-inview"],
+	["svelte-inline-compile", "https://github.com/DockYard/svelte-inline-compile"],
+	["@feltcoop/svelte-mutable-store", "https://github.com/feltcoop/svelte-mutable-store"],
+	["headless-svelte-ui", "https://www.npmjs.com/package/@bojalelabs/headless-svelte-ui"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Svelte Summit Spring", "https://www.sveltesummit.com/"],
+	["looking for speakers", "https://www.sveltesummit.com/#speakers"],
+	["sponsors", "https://www.sveltesummit.com/sponsors"],
+	["kit.svelte.dev/docs", "https://kit.svelte.dev/docs/"],
+	["Issue", "https://github.com/sveltejs/kit/issues/3532"],
+	["PR", "https://github.com/sveltejs/kit/pull/3679"],
+	["Docs", "https://kit.svelte.dev/docs/routing#endpoints-page-endpoints"],
+	["Issue", "https://github.com/sveltejs/kit/issues/87"],
+	["PR", "https://github.com/sveltejs/kit/pull/3412"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#version"],
+	["PR", "https://github.com/sveltejs/kit/pull/4056"],
+	["#3674", "https://github.com/sveltejs/kit/pull/3674"],
+	["#3670", "https://github.com/sveltejs/kit/pull/3670"],
+	["#3683", "https://github.com/sveltejs/kit/pull/3683"],
+	["#3801", "https://github.com/sveltejs/kit/pull/3801"],
+	["`prerender.onError`", "https://kit.svelte.dev/docs/configuration#prerender"],
+	["#3826", "https://github.com/sveltejs/kit/pull/3826"],
+	["105.12.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-105.12.0"],
+	["#538", "https://github.com/sveltejs/language-tools/issues/538"],
+	["#1302", "https://github.com/sveltejs/language-tools/issues/1302"],
+	["SvelteStorm", "https://github.com/open-source-labs/SvelteStorm"],
+	["Supachat", "https://github.com/Lleweraf/supachat"],
+	["Radicle", "https://radicle.xyz/"],
+	["The Making Known", "https://the-making-known.com/"],
+	["Svelte Kanban", "https://github.com/V-Py/svelte-kanban"],
+	["fngrng", "https://github.com/nvlgzr/fngrng"],
+	["Generative grids", "https://svelte.dev/repl/873988ce33db43f097c0ca69df57b3ac?version=3.46.4"],
+	["LifeHash", "https://github.com/BlockchainCommons/lifehash.info"],
+	["TypedWebhook.tools", "https://typedwebhook.tools/"],
+	["Speedskating", "https://github.com/spiegelgraphics/speedskating"],
+	["Web tail", "https://github.com/mishankov/web-tail"],
+	[
+		"Contribute to the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety.dev/issues"
+	],
+	[
+		"Svelte Components as Web Components",
+		"https://medium.com/@yesmeno/svelte-components-as-web-components-b400d1253504"
+	],
+	[
+		"Simple Svelte Routing with Reactive URLs",
+		"https://bjornlu.com/blog/simple-svelte-routing-with-reactive-urls"
+	],
+	[
+		"Leveling Up my Sveltekit / Sanity.io Blog Content with Featured Videos and Syntax Highlighting",
+		"https://ryanboddy.net/level-up-blog"
+	],
+	[
+		"How This Blog Makes the Most of GitHub",
+		"https://paullj.github.io/posts/how-this-blog-makes-the-most-of-github/"
+	],
+	[
+		"FullStack JWT Auth: Introducing SvelteKit",
+		"https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn"
+	],
+	[
+		"Svelte-Cubed: Adding Motion to 3D Scenes",
+		"https://dev.to/alexwarnes/svelte-cubed-adding-motion-to-3d-scenes-51lo"
+	],
+	[
+		"Creating a RSS feed with Sanity and Svelte Kit",
+		"https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit"
+	],
+	["How to use Svelte's style directive", "https://geoffrich.net/posts/style-directives/"],
+	["SvelteKit and the \"Client pattern\"", "https://retro.cloud/sveltekit-and-the-client-pattern/"],
+	[
+		"~~Shadow~~ Page Endpoints In Svelte Kit - Weekly Svelte",
+		"https://www.youtube.com/watch?v=PoYPZT7ruqI"
+	],
+	[
+		"Testing For Beginners (Playlist",
+		"https://www.youtube.com/watch?v=y53wwdBr5AI&list=PLA9WiRZ-IS_z7KpqhPELfEMbhAGRwZrzn)"
+	],
+	[
+		"KitQL - The native SvelteKit library for GraphQL",
+		"https://www.youtube.com/watch?v=6pH4fnFN70w"
+	],
+	["gosvelte", "https://github.com/sachinbhutani/gosvelte"],
+	["svelte-ethers-store", "https://www.npmjs.com/package/svelte-ethers-store"],
+	["Fluid Grid", "https://fluid-grid.com/"],
+	["stirstack", "https://github.com/seeReadCode/stirstack"],
+	["OATHqr", "https://codeberg.org/vhs/oathqr"],
+	["svelte-GridTiles", "https://github.com/honeybeeSunshine/svelte-GridTiles"],
+	[
+		"Miscellaneous Svelte Components",
+		"https://github.com/alex-knyaz/Miscellaneous-svelte-components/"
+	],
+	["walk-and-graph-svelte-components", "https://github.com/j2l/walk-and-graph-svelte-components"],
+	["Felte", "https://www.npmjs.com/package/felte"],
+	["svelte-use-tooltip", "https://github.com/untemps/svelte-use-tooltip"],
+	["persistent-svelte-store", "https://github.com/omer-g/persistent-svelte-store"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Docs", "https://kit.svelte.dev/docs/routing#advanced-routing-matching"],
+	["#4334", "https://github.com/sveltejs/kit/pull/4334"],
+	["#4260", "https://github.com/sveltejs/kit/pull/4260"],
+	["#4182", "https://github.com/sveltejs/kit/pull/4182"],
+	["#4190", "https://github.com/sveltejs/kit/pull/4190"],
+	["#4468", "https://github.com/sveltejs/kit/pull/4468"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#outdir"],
+	["#4176", "https://github.com/sveltejs/kit/pull/4176"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#endpointextensions"],
+	["#4197", "https://github.com/sveltejs/kit/pull/4197"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#prerender"],
+	["#4192", "https://github.com/sveltejs/kit/pull/4192"],
+	["#4330", "https://github.com/sveltejs/kit/pull/4330"],
+	["#4140", "https://github.com/sveltejs/kit/pull/4140"],
+	["#4184", "https://github.com/sveltejs/kit/pull/4184"],
+	["#4289", "https://github.com/sveltejs/kit/pull/4289"],
+	["#4305", "https://github.com/sveltejs/kit/pull/4305"],
+	["#4334", "https://github.com/sveltejs/kit/pull/4334"],
+	["#4164", "https://github.com/sveltejs/kit/pull/4164"],
+	["105.13.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-105.13.0"],
+	["105.13.0", "https://github.com/sveltejs/language-tools/releases/tag/extensions-105.13.0"],
+	["Launcher", "https://launcher.team/"],
+	["Paaster", "https://paaster.io/"],
+	["Simple AF Video Converter", "https://github.com/berlyozzy/Simple-AF-Video-Converter"],
+	["Streamchaser", "https://github.com/streamchaser/streamchaser"],
+	["Svelte Color Picker", "https://github.com/V-Py/svelte-material-color-picker"],
+	["ConcertMash", "https://github.com/mcmxcdev/ConcertMash"],
+	["Modulus", "https://modulus.vision/"],
+	["Multiply", "https://www.multiply.us/"],
+	["yia!", "https://www.yia.co.nz/"],
+	["Write to Russia", "https://www.writetorussia.org/index"],
+	["Markdown Playground", "https://github.com/Petros-K/markdown-playground"],
+	["RatherMisty", "https://rathermisty.com/"],
+	["Minecraft Profile Pic (MCPFP", "https://github.com/MauritsWilke/mcpfp)"],
+	["WebGL Fluid Simulation", "https://github.com/jpaquim/svelte-webgl-fluid-simulation"],
+	["This @NobelPeaceOslo exhibition", "https://twitter.com/perbyhring/status/1504754949791621120"],
+	[
+		"Help build the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety.dev/issues"
+	],
+	["Svelte Summit: Spring", "https://www.sveltesummit.com/"],
+	["YouTube", "https://www.sveltesummit.com/"],
+	[
+		"Svelte(Kit TypeScript Showcase + general TypeScript tips",
+		"https://github.com/ivanhofer/sveltekit-typescript-showcase)"
+	],
+	["Local constants in Svelte with the @const tag", "https://geoffrich.net/posts/local-constants/"],
+	[
+		"Design Patterns for Building Reusable Svelte Components",
+		"https://render.com/blog/svelte-design-patterns"
+	],
+	["Svelte is better than React", "https://labs.hamy.xyz/posts/svelte-is-better-than-react/"],
+	[
+		"Making Visualizations Literally with Svelte and D3",
+		"https://www.connorrothschild.com/post/svelte-and-d3"
+	],
+	[
+		"Coordinating Multiple Elements with Svelte Deferred Transitions",
+		"https://imfeld.dev/writing/svelte_deferred_transitions"
+	],
+	[
+		"Animate on scroll with Svelte Inview - Little Bits",
+		"https://dev.to/maciekgrzybek/animate-on-scroll-with-svelte-inview-266f"
+	],
+	[
+		"Lazy-Loading Firebase with SvelteKit",
+		"https://www.captaincodeman.com/lazy-loading-firebase-with-sveltekit"
+	],
+	[
+		"HeadlessUI Components with Svelte",
+		"https://www.captaincodeman.com/headlessui-components-with-svelte"
+	],
+	[
+		"SvelteKit Accessibility Testing: Automated CI A11y Tests",
+		"https://rodneylab.com/sveltekit-accessibility-testing/"
+	],
+	[
+		"Getting Started with KitQL and GraphCMS",
+		"https://scottspence.com/posts/getting-started-with-kitql-and-graphcms"
+	],
+	["React ⇆ Svelte Cheatsheet", "https://dev.to/joshnuss/react-to-svelte-cheatsheet-1a2a"],
+	["Svelte Extravaganza | Async", "https://www.youtube.com/watch?v=mT4CLVHgtSg"],
+	["6 Svelte Packages You Should Know", "https://www.youtube.com/watch?v=y5SrUKcX_Co"],
+	["Basic React To Svelte Conversion", "https://www.youtube.com/watch?v=DiSuwLlhOxs"],
+	["Page/Shadow Endpoint in SvelteKit", "https://www.youtube.com/watch?v=j-9D5UDyVOM"],
+	["Custom Svelte Store: Higher Order Store", "https://www.youtube.com/watch?v=p1aPfVyZ1IY"],
+	[
+		"SvelteKit For Beginners (Playlist",
+		"https://www.youtube.com/watch?v=bLBHecY4-ak&list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS)"
+	],
+	["blog guide", "https://joyofcode.xyz/sveltekit-for-beginners"],
+	[
+		"Fullstack SvelteKit Auth 🔐 with Firebase & Magic Links! 🪄",
+		"https://www.youtube.com/watch?v=MAHE4iQgh5Q"
+	],
+	[
+		"Firebase Authentication in SvelteKit! Full Stack App",
+		"https://www.youtube.com/watch?v=N6Y3hqhZvNI"
+	],
+	["SvelTable", "https://sveltable.io/"],
+	["svelte-cyberComp", "https://github.com/Cybersteam00/svelte-cyberComp"],
+	["Flowbite Svelte", "https://github.com/shinokada/flowbite-svelte"],
+	["Svelte-Tide-Project", "https://github.com/jbertovic/svelte-tide-project"],
+	["Fetch Inject", "https://github.com/vhscom/fetch-inject#sveltekit"],
+	["svelte-utterances", "https://github.com/shinokada/svelte-utterances"],
+	["Liquivelte", "https://github.com/malipetek/liquivelte-vscode"],
+	["@storyblok/svelte", "https://github.com/storyblok/storyblok-svelte"],
+	["@svelte-on-solana/wallet-adapter", "https://github.com/svelte-on-solana/wallet-adapter"],
+	["svelte-lookat", "https://www.npmjs.com/package/svelte-lookat"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Svelte Society YouTube Channel", "https://www.youtube.com/sveltesociety"],
+	["docs", "https://svelte.dev/docs#template-syntax-svelte-element"],
+	["tutorial", "https://svelte.dev/tutorial/svelte-element"],
+	["#1448", "https://github.com/sveltejs/language-tools/pull/1448"],
+	["#1338", "https://github.com/sveltejs/language-tools/issues/1338"],
+	["#1447", "https://github.com/sveltejs/language-tools/pull/1447"],
+	["#1373", "https://github.com/sveltejs/language-tools/pull/1373"],
+	["#4438", "https://github.com/sveltejs/kit/pull/4438"],
+	["#4657", "https://github.com/sveltejs/kit/pull/4657"],
+	["#4663", "https://github.com/sveltejs/kit/pull/4663"],
+	["Docs", "https://kit.svelte.dev/docs/loading#output-dependencies"],
+	["#4536", "https://github.com/sveltejs/kit/pull/4536"],
+	["Docs", "https://kit.svelte.dev/docs/routing#advanced-routing-matching"],
+	["#4358", "https://github.com/sveltejs/kit/pull/4358"],
+	["Docs", "https://kit.svelte.dev/docs/layouts#named-layouts"],
+	["#4388", "https://github.com/sveltejs/kit/pull/4388"],
+	["#4545", "https://github.com/sveltejs/kit/pull/4545"],
+	["#4690", "https://github.com/sveltejs/kit/pull/4690"],
+	["polySpectra AR", "https://ar.polyspectra.com/"],
+	["video demo", "https://www.youtube.com/watch?v=VhYCeVGcG3E"],
+	["Pixel Art Together", "https://github.com/liveblocks/pixel-art-together"],
+	["Tooling Manager", "https://tooling-manager.netlify.app/"],
+	["Easy Portfolio", "https://easy-portfolio.com/"],
+	["FLOAT", "https://github.com/muttoni/float"],
+	["The Coin Perspective", "https://thecoinperspective.com/"],
+	["Locutionis", "https://github.com/pbouillon/locutionis"],
+	["ASM Editor", "https://asm-editor.specy.app/"],
+	["Otium", "https://github.com/alombi/otium"],
+	["Sinwaver", "https://github.com/Hugo-Dz/Sinwaver"],
+	[
+		"Help build the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety.dev/issues"
+	],
+	["4 tips for cleaner Svelte components", "https://geoffrich.net/posts/clean-component-tips/"],
+	[
+		"Building a Clubhouse clone with Svelte and 100ms",
+		"https://www.100ms.live/blog/clubhouse-clone-with-svelte"
+	],
+	[
+		"SvelteKit uvu Testing: Fast Component Unit Tests",
+		"https://rodneylab.com/sveltekit-uvu-testing/"
+	],
+	[
+		"SvelteKit JWT authentication tutorial",
+		"https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34"
+	],
+	[
+		"Converting a Rollup-based Svelte SPA to SvelteKit",
+		"https://github.com/sveltejs/kit/discussions/4595"
+	],
+	[
+		"Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
+		"https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project"
+	],
+	[
+		"Rich Harris - The Road to SvelteKit 1.0 (Svelte Society NYC",
+		"https://www.youtube.com/watch?v=s6a1pbTVcUs)"
+	],
+	["Svelte Fundamentals - Intro to Svelte", "https://codingcat.dev/course/intro-to-svelte"],
+	[
+		"Svelte Components Using Custom Markdown Renderers - Weekly Svelte",
+		"https://www.youtube.com/watch?v=ZiEROAqobwM"
+	],
+	["Implementing {@const} in if block", "https://www.youtube.com/watch?v=f5iReGqjmG0"],
+	[
+		"Svelte and Contributing to Open-Source with Geoff Rich",
+		"https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich"
+	],
+	["KitDocs", "https://github.com/svelteness/kit-docs"],
+	["Svelte Copy", "https://github.com/ghostdevv/svelte-copy"],
+	["Svend3r", "https://github.com/oslabs-beta/svend3r"],
+	["Svelte Hamburgers", "https://github.com/ghostdevv/svelte-hamburgers"],
+	["Svelte Droplet", "https://github.com/probablykasper/svelte-droplet"],
+	["Svelte MP3", "https://www.npmjs.com/package/svelte-mp3"],
+	["SvelteUI", "https://github.com/Brisklemonade/svelteui"],
+	["svelte-spotlight", "https://github.com/beynar/svelte-spotlight"],
+	["svelte-pdf-simple", "https://github.com/gspasov/svelte-pdf-simple"],
+	["persistent-svelte-store", "https://github.com/omer-g/persistent-svelte-store"],
+	["svelte-exmarkdown", "https://github.com/ssssota/svelte-exmarkdown"],
+	["Bookit", "https://github.com/leveluptuts/bookit"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Get your tickets now!", "https://ti.to/svelte/svelte-summit-fall-edition"],
+	["Svelte Summit", "https://www.youtube.com/watch?v=qqj2cBockqE"],
+	["Docs", "https://svelte.dev/docs#run-time-svelte-createeventdispatcher"],
+	["PR", "https://github.com/sveltejs/svelte/pull/7064"],
+	["Docs", "https://svelte.dev/docs#template-syntax-const"],
+	["PR", "https://github.com/sveltejs/svelte/pull/7451"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md#3480"],
+	["Vite 3.0 Milestone", "https://github.com/vitejs/vite/milestone/5"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#alias"],
+	["PR", "https://github.com/sveltejs/kit/pull/4964"],
+	["PR", "https://github.com/sveltejs/kit/pull/4812"],
+	["PR", "https://github.com/sveltejs/kit/pull/4922"],
+	["PR", "https://github.com/sveltejs/kit/pull/5046"],
+	["Docs", "https://kit.svelte.dev/docs/seo#manual-setup-amp"],
+	["PR", "https://github.com/sveltejs/kit/pull/4710"],
+	["PR", "https://github.com/sveltejs/kit/pull/4705"],
+	["Docs", "https://kit.svelte.dev/docs/migrating#project-files-src-template-html"],
+	["PR", "https://github.com/sveltejs/kit/pull/5016/"],
+	["PR", "https://github.com/sveltejs/kit/pull/4887"],
+	["Plantarium", "https://github.com/jim-fx/plantarium"],
+	["SPATULA", "https://github.com/AlexWarnes/lamina-spatula"],
+	["Waaard", "https://waaard.com/"],
+	["Magidoc", "https://github.com/magidoc-org/magidoc"],
+	["myMarkmap", "https://github.com/eyssette/myMarkmap"],
+	["PassShare", "https://passshare.mynt.pw/"],
+	["DashingOS", "https://beta.dashingos.com/"],
+	["worker-kit-email", "https://github.com/miunau/worker-kit-email"],
+	["kaios-weather-svelte", "https://github.com/cyan-2048/kaios-weather-svelte"],
+	["svelte-gantt", "https://github.com/ANovokmet/svelte-gantt"],
+	["Miru", "https://github.com/ThaUnknown/miru"],
+	[
+		"Help build the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety.dev/issues"
+	],
+	["Component party", "https://component-party.dev/"],
+	["Quick tip: style prop defaults", "https://geoffrich.net/posts/style-prop-defaults/"],
+	[
+		"Working with reduced motion in Svelte",
+		"https://ghostdev.xyz/posts/working-with-reduced-motion-in-svelte"
+	],
+	[
+		"Building a Musical Instrument with the Web Audio API",
+		"https://www.taniarascia.com/musical-instrument-web-audio-api/"
+	],
+	[
+		"Svelte-Cubed: Creating an Accessible and Consistent Experience Across Devices",
+		"https://dev.to/alexwarnes/svelte-cubed-creating-an-accessible-and-consistent-experience-across-devices-42ae"
+	],
+	[
+		"Svelte-Cubed: Loading Your glTF Models",
+		"https://dev.to/alexwarnes/svelte-cubed-loading-your-gltf-models-14lf"
+	],
+	["The Svelte Summit Spring 2022 stream recording", "https://www.youtube.com/watch?v=qqj2cBockqE"],
+	[
+		"The full recording of Svelte London, April 2022",
+		"https://www.youtube.com/watch?v=zIxzJzTnoxA"
+	],
+	["Persian Svelte Society", "https://www.youtube.com/channel/UCfWH9lCsXN3j8oXq8dru82Q"],
+	[
+		"SvelteKit + Sanity.io: a match made in heaven",
+		"https://www.youtube.com/watch?v=j0_1hfiEVWA&list=PL8bMgX1kyZThkJ_Rk6AAFI4eY24g5XKwK&index=5"
+	],
+	["Slicing up your Svelte Sites with Prismic", "https://www.youtube.com/watch?v=FUbHwwMALkk"],
+	["Rendering your Svelte apps on Render", "https://www.youtube.com/watch?v=SnV_hMLVyqs"],
+	[
+		"The story behind the (unofficial Svelte newsletter",
+		"https://www.youtube.com/watch?v=aK0xXm3hPxk&list=PL8bMgX1kyZThkJ_Rk6AAFI4eY24g5XKwK&index=7)"
+	],
+	["Building vite-plugin-svelte-inspector", "https://www.youtube.com/watch?v=udYB24IMtsY"],
+	["What is Singleton?", "https://www.youtube.com/watch?v=xhi0m1QZue0"],
+	["What is Navigation?", "https://www.youtube.com/watch?v=Ym-OnGUps2c"],
+	[
+		"Auto Import Components In Svelte Kit - Weekly Svelte",
+		"https://www.youtube.com/watch?v=JXvKBtTPr64"
+	],
+	["🧪 Test SvelteKit with TDD & VITEST 🧪", "https://www.youtube.com/watch?v=5bQD3dCoyHA"],
+	["Google Analytics With SvelteKit", "https://www.youtube.com/watch?v=l-x6H0fnqqQ"],
+	["Using WebSockets With SvelteKit", "https://www.youtube.com/watch?v=mAcKzdW5fR8"],
+	["SvelteKit Authentication Using Cookies", "https://www.youtube.com/watch?v=T935Ya4W5X0"],
+	[
+		"Svelte Headless UI Component Library",
+		"https://www.reddit.com/r/sveltejs/comments/ueu849/svelte_headless_ui_component_library/"
+	],
+	["Named Layouts In Nested Routes in SvelteKit", "https://www.youtube.com/watch?v=hKg_V3jouLk"],
+	[
+		"SvelteKit Shiki Syntax Highlighting: Markdown Codeblocks",
+		"https://rodneylab.com/sveltekit-shiki-syntax-highlighting/"
+	],
+	["Svelte Capsize Styling: Typography Tooling", "https://rodneylab.com/svelte-capsize-styling/"],
+	[
+		"The Adventures of Running a Svelte Meetup",
+		"https://www.svelteradio.com/episodes/the-adventures-of-running-a-svelte-meetup"
+	],
+	[
+		"The other Rich! Geoff! (feat. Geoff Rich",
+		"https://www.svelteradio.com/episodes/the-other-rich-geoff)"
+	],
+	[
+		"Inspecting Svelte Code with Dominik G.",
+		"https://www.svelteradio.com/episodes/inspecting-svelte-code-with-dominik-g"
+	],
+	["Stores Galore", "https://www.svelteradio.com/episodes/stores-galore"],
+	[
+		"Svelte and the Future of Frontend Development (feat. Rich Harris",
+		"https://thenewstack.io/svelte-and-the-future-of-front-end-development/)"
+	],
+	[
+		"vite-plugin-svelte-console-remover",
+		"https://github.com/jhubbardsf/vite-plugin-svelte-console-remover"
+	],
+	["Svelte Headless Tables", "https://github.com/bryanmylee/svelte-headless-table"],
+	["y-presence", "https://github.com/nimeshnayaju/y-presence"],
+	["Svelcro", "https://github.com/oslabs-beta/Svelcro"],
+	["Svelte-Splitpanes", "https://github.com/orefalo/svelte-splitpanes"],
+	["svelte-miniplayer", "https://github.com/ThaUnknown/svelte-miniplayer"],
+	["svelte-keybinds", "https://github.com/ThaUnknown/svelte-keybinds"],
+	["svelte-speech-recognition", "https://github.com/jhubbardsf/svelte-speech-recognition"],
+	["svelte-mutable-store", "https://github.com/feltcoop/svelte-mutable-store"],
+	["svelte-damped-store", "https://github.com/aredridel/svelte-damped-store"],
+	["svelte-lens-store", "https://github.com/aredridel/svelte-lens-store"],
+	["svelte-persistent-store", "https://github.com/furudean/svelte-persistent-store"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Get your tickets now", "https://ti.to/svelte/svelte-summit-fall-edition"],
+	["the project on OpenCollective", "https://opencollective.com/svelte"],
+	["@gtm-nayan", "https://github.com/gtm-nayan"],
+	["Svelte Summit", "https://www.sveltesummit.com/"],
+	["learn.svelte.dev", "https://learn.svelte.dev/"],
+	["PR", "https://github.com/sveltejs/svelte/pull/5701"],
+	["0.14.28", "https://github.com/sveltejs/language-tools/releases/tag/language-server-0.14.28"],
+	["0.14.29", "https://github.com/sveltejs/language-tools/releases/tag/language-server-0.14.29"],
+	["Demo", "https://twitter.com/dummdidumm_/status/1532459709604716544/photo/1"],
+	["0.14.29", "https://github.com/sveltejs/language-tools/releases/tag/language-server-0.14.29"],
+	["#5094", "https://github.com/sveltejs/kit/pull/5094"],
+	["leave feedback", "https://github.com/sveltejs/kit/issues/5184"],
+	["#3419", "https://github.com/sveltejs/kit/issues/3419"],
+	["#5117", "https://github.com/sveltejs/kit/pull/5117"],
+	["#5089", "https://github.com/sveltejs/kit/pull/5089"],
+	["#5251", "https://github.com/sveltejs/kit/pull/5251"],
+	["Virtual Maker", "https://www.virtualmaker.net/"],
+	[
+		"Apple Beta Music",
+		"https://www.reddit.com/r/sveltejs/comments/v7ic2s/apple_beta_music_uses_svelte/"
+	],
+	["Itatiaia", "https://www.itatiaia.com.br/"],
+	["Pronauns", "https://www.pronauns.com"],
+	["Immich", "https://www.immich.app/"],
+	["Pendek", "https://github.com/leovoon/link-shortener"],
+	["Grunfy", "https://grunfy.com/tools"],
+	[
+		"Radiant: The Future of Radio",
+		"https://play.google.com/store/apps/details?id=co.broadcastapp.Radiant"
+	],
+	["Imperfect Reminders", "https://imperfectreminders.mildlyupset.com/"],
+	["Periodic Table", "https://github.com/janosh/periodic-table"],
+	["Svelvet", "https://github.com/open-source-labs/Svelvet"],
+	["publint", "https://github.com/bluwy/publint"],
+	["Playlistr", "https://github.com/alextana/spotify-playlist-creator"],
+	[
+		"Geoff Rich's page transitions demo",
+		"https://twitter.com/geoffrich_/status/1534980702785003520"
+	],
+	["Menger Sponge", "https://twitter.com/a_warnes/status/1536215896078811137"],
+	[
+		"Help build the Svelte Society site",
+		"https://github.com/svelte-society/sveltesociety.dev/issues"
+	],
+	["Svelte Origins: A JavaScript Documentary", "https://www.youtube.com/watch?v=kMlkCYL9qo0"],
+	[
+		"Full Stack Documentation (announcing learn.svelte.dev",
+		"https://portal.gitnation.org/contents/full-stack-documentation)"
+	],
+	["All About the Sirens", "https://www.svelteradio.com/episodes/all-about-the-sirens"],
+	["SvelteKit Page Endpoints", "https://www.youtube.com/watch?v=yQRf2wmTu5w"],
+	["Named Layouts", "https://www.youtube.com/watch?v=UHX9TJ0BxZY"],
+	[
+		"Passing data from page component to layout component with $page.stuff",
+		"https://www.youtube.com/watch?v=CXaCstU5pcw"
+	],
+	[
+		"🍞 & 🧈: Magically load data with SvelteKit Endpoints",
+		"https://www.youtube.com/watch?v=f6prqYlbTE4"
+	],
+	["Svelte for React developers", "https://www.youtube.com/watch?v=7tsrwrx5HtQ"],
+	[
+		"Learn Svelte JS || JavaScript Compiler for Building Front end Applications",
+		"https://www.youtube.com/watch?v=1rKRarJJFrY&list=PLIGDNOJWiL1-7zCgdR7MKuho-tPC6Ra6C&index=1"
+	],
+	[
+		"SvelteKit Authentication",
+		"https://www.youtube.com/watch?v=T935Ya4W5X0&list=PLA9WiRZ-IS_zKrDzhOhV5RGKKTHNIyTDO&index=1"
+	],
+	[
+		"Svelte + websockets: Build a real-time Auction app",
+		"https://www.youtube.com/watch?v=CqgsWFrwQIU"
+	],
+	[
+		"Up-To-Date Analytics on a Static Website",
+		"https://paullj.github.io/posts/up-to-date-analytics-on-a-static-website"
+	],
+	[
+		"Fast, Lightweight Fuzzy Search using Fuse.js",
+		"https://paullj.github.io/posts/fast-lightweight-fuzzy-search-using-fuse.js"
+	],
+	[
+		"Use SvelteKit as a handler in the ExpressJs project",
+		"https://chientrm.medium.com/use-sveltekit-as-a-handler-in-the-expressjs-project-15524b01128f"
+	],
+	[
+		"Creating a desktop application with Tauri and SvelteKit",
+		"https://github.com/Stijn-B/tauri-sveltekit-example"
+	],
+	["List of awesome Svelte stores", "https://github.com/samuba/awesome-svelte-stores"],
+	[
+		"SvelteKit Content Security Policy: CSP for XSS Protection",
+		"https://rodneylab.com/sveltekit-content-security-policy/"
+	],
+	[
+		"SvelteKit Hooks. Everything You Need To Know",
+		"https://kudadam.com/blog/understanding-sveltekit-hooks"
+	],
+	[
+		"3 tips for upgrading the performance of your Svelte stores",
+		"https://www.mathiaspicker.com/posts/3-tips-for-upgrading-the-performance-of-your-svelte-stores"
+	],
+	["Svend3r", "https://github.com/oslabs-beta/svend3r"],
+	["Svelte Hover Draw SVG", "https://github.com/davipon/svelte-hover-draw-svg"],
+	["Svelte French Toast", "https://svelte-french-toast.com/"],
+	["SVooltip", "https://svooltip.vercel.app/"],
+	["Svelte Brick Gallery", "https://github.com/anotherempty/svelte-brick-gallery"],
+	["use-vest", "https://github.com/enyo/use-vest"],
+	["Svelidate", "https://github.com/svelidate/svelidate"],
+	["Svve11", "https://github.com/oslabs-beta/Svve11"],
+	["Slidy", "https://github.com/Valexr/Slidy"],
+	[
+		"Svelte Component Snippets",
+		"https://marketplace.visualstudio.com/items?itemName=brysonbw.svelte-component-snippets"
+	],
+	["Svelte Confetti", "https://github.com/Mitcheljager/svelte-confetti"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Get your tickets now", "https://www.sveltesummit.com/"],
+	[
+		"Fixing `load`, and tightening up SvelteKit's design before 1.0 #5748",
+		"https://github.com/sveltejs/kit/discussions/5748"
+	],
+	["@dummdidumm", "https://github.com/dummdidumm"],
+	[
+		"has joined Vercel to work on Svelte full-time",
+		"https://twitter.com/dummdidumm_/status/1549041206348222464"
+	],
+	["@tcc-sejohnson", "https://github.com/tcc-sejohnson"],
+	["#5138", "https://github.com/sveltejs/kit/pull/5138"],
+	["#5654", "https://github.com/sveltejs/kit/pull/5654"],
+	["#5671", "https://github.com/sveltejs/kit/pull/5671"],
+	["#4665", "https://github.com/sveltejs/kit/pull/4665"],
+	["#5622", "https://github.com/sveltejs/kit/pull/5622"],
+	["#5619", "https://github.com/sveltejs/kit/pull/5619"],
+	["#5616", "https://github.com/sveltejs/kit/pull/5616"],
+	["#5602", "https://github.com/sveltejs/kit/pull/5602"],
+	["#5705", "https://github.com/sveltejs/kit/pull/5705"],
+	["#5663", "https://github.com/sveltejs/kit/pull/5663"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#env"],
+	["#5514", "https://github.com/sveltejs/kit/pull/5514"],
+	["#5005", "https://github.com/sveltejs/kit/pull/5005"],
+	[
+		"vite-plugin-svelte CHANGELOG",
+		"https://github.com/sveltejs/vite-plugin-svelte/blob/main/packages/vite-plugin-svelte/CHANGELOG.md"
+	],
+	["#5602", "https://github.com/sveltejs/kit/pull/5602"],
+	["#5332", "https://github.com/sveltejs/kit/pull/5332"],
+	["Docs", "https://kit.svelte.dev/docs/project-structure#project-files-vite-config-js"],
+	["#5085", "https://github.com/sveltejs/kit/pull/5085"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#moduleextensions"],
+	["#5395", "https://github.com/sveltejs/kit/pull/5395"],
+	["#5056", "https://github.com/sveltejs/kit/pull/5056"],
+	["#5513", "https://github.com/sveltejs/kit/pull/5513"],
+	["Docs", "https://kit.svelte.dev/docs/routing#endpoints"],
+	["#5618", "https://github.com/sveltejs/kit/pull/5618"],
+	["#5657", "https://github.com/sveltejs/kit/pull/5657"],
+	["Docs", "https://kit.svelte.dev/docs/hooks#handle"],
+	["#5760", "https://github.com/sveltejs/kit/pull/5760"],
+	["bug fix in the `compression` library", "https://github.com/expressjs/compression/pull/183"],
+	["#5560", "https://github.com/sveltejs/kit/pull/5506"],
+	["CHANGELOG", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["CSS at-rule", "https://developer.mozilla.org/en-US/docs/Web/CSS/@layer"],
+	["PR", "https://github.com/sveltejs/svelte/issues/7504"],
+	["HTML attribute", "https://html.spec.whatwg.org/multipage/interaction.html#the-inert-attribute"],
+	["PR", "https://github.com/sveltejs/language-tools/pull/1565"],
+	["PR", "https://github.com/sveltejs/language-tools/pull/1548"],
+	["PocketBase", "https://github.com/pocketbase/pocketbase"],
+	["Hondo", "https://www.playhondo.com/how-to-play"],
+	["Hexapipes", "https://github.com/gereleth/hexapipes"],
+	["Mail Must Move", "https://www.mordon.app/"],
+	["Jot Down", "https://github.com/brysonbw/vscode-jot-down"],
+	["Kadium", "https://kadium.kasper.space/"],
+	["Samen zjin we #1metS10", "https://1mets10.avrotros.nl/"],
+	["On Writing Code", "https://onwritingcode.com/"],
+	["Svelte-In-Motion", "https://github.com/novacbn/svelte-in-motion"],
+	["Svelte Terminal", "https://github.com/Nico-Mayer/svelte-terminal"],
+	["Bulletlist", "https://bulletlist.com/"],
+	["Remind Me Again", "https://github.com/probablykasper/remind-me-again"],
+	["Heyweek", "https://heyweek.com/"],
+	[
+		"The Svelte Documentary is out!",
+		"https://www.svelteradio.com/episodes/the-svelte-documentary-is-out"
+	],
+	["Beginner SvelteKit", "https://vercel.com/docs/beginner-sveltekit"],
+	[
+		"Challenge: Explore Svelte by Building a Bubble Popping Game",
+		"https://prismic.io/blog/try-svelte-build-game"
+	],
+	[
+		"Let's write a Client-side Routing Library with Svelte",
+		"https://www.youtube.com/watch?v=3foVDSknGEY"
+	],
+	[
+		"Svelte Sirens July Talk - Testing in Svelte with Jess Sachs",
+		"https://sveltesirens.dev/event/testing-in-svelte"
+	],
+	["10 Awesome Svelte UI Component Libraries", "https://www.youtube.com/watch?v=RkD88ARvucM"],
+	["Learn How SvelteKit Works", "https://www.youtube.com/watch?v=VizuTy3uSNE"],
+	["SvelteKit Endpoints", "https://www.youtube.com/watch?v=XnVxDLTgCgo"],
+	["SvelteKit using TS, and Storybook setup", "https://www.youtube.com/watch?v=L4F5dSu0FcQ"],
+	["Building Apps with Svelte!", "https://www.youtube.com/watch?v=prsXVk1fdW4"],
+	[
+		"SvelteKit authentication, the better way - Tutorial",
+		"https://www.youtube.com/watch?v=Y98KipzwVdM"
+	],
+	["Some assorted Svelte demos", "https://geoffrich.net/posts/assorted-svelte-demos/"],
+	[
+		"Three ways to bootstrap a Svelte project",
+		"https://maier.tech/posts/three-ways-to-bootstrap-a-svelte-project"
+	],
+	[
+		"Design & build an app with Svelte",
+		"https://bootcamp.uxdesign.cc/design-build-an-app-with-svelte-ecd7ed0729da"
+	],
+	[
+		"Define routes via JS in SvelteKit",
+		"https://dev.to/maxcore/define-routes-via-js-in-sveltekit-27e9"
+	],
+	[
+		"Integrating Telegram api with SvelteKit",
+		"https://dev.to/theether0/integrating-telegram-api-with-sveltekit-5gb"
+	],
+	["SvelteKit SSG: how to Prerender your SvelteKit Site", "https://rodneylab.com/sveltekit-ssg/"],
+	[
+		"ADEO Design System: Building a Web Component library with Svelte and Rollup",
+		"https://medium.com/adeo-tech/adeo-design-system-building-a-web-component-library-with-svelte-and-rollup-72d65de50163"
+	],
+	["The Svelte Handbook", "https://thevalleyofcode.com/svelte/"],
+	[
+		"Test Svelte Component Using Vitest & Playwright",
+		"https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright"
+	],
+	["Transitional Apps with Phoenix and Svelte", "https://nathancahill.com/phoenix-svelte"],
+	[
+		"Bringing the best GraphQL experience to Svelte",
+		"https://www.the-guild.dev/blog/houdini-and-kitql"
+	],
+	[
+		"Style your Svelte website faster with Stylify CSS",
+		"https://stylifycss.com/blog/style-your-svelte-website-faster-with-stylify-css/"
+	],
+	[
+		"Revamped Auth Helpers for Supabase (with SvelteKit support",
+		"https://supabase.com/blog/2022/07/13/supabase-auth-helpers-with-sveltekit-support)"
+	],
+	["Lucia", "https://github.com/pilcrowOnPaper/lucia-sveltekit"],
+	["Skeleton", "https://github.com/Brain-Bones/skeleton"],
+	["pass-composer", "https://pass-composer.vercel.app/"],
+	["@crikey/stores-*", "https://whenderson.github.io/stores-mono/"],
+	["Svelte Chrome Storage", "https://github.com/shaun-wild/svelte-chrome-storage"],
+	["Svelte Schema Form", "https://github.com/restspace/svelte-schema-form"],
+	["svelte-gesture", "https://github.com/wobsoriano/svelte-gesture"],
+	["Snap Layout", "https://github.com/ThaUnknown/snap-layout"],
+	["universal-title-bar", "https://github.com/ThaUnknown/universal-title-bar"],
+	["svelte-adapter-bun", "https://github.com/gornostay25/svelte-adapter-bun"],
+	["json2dir", "https://www.npmjs.com/package/json2dir"],
+	["Svelte Command Palette", "https://github.com/rohitpotato/svelte-command-palette"],
+	["svelte-use-drop-outside", "https://github.com/untemps/svelte-use-drop-outside"],
+	["PowerTable", "https://github.com/muonw/powertable"],
+	["svelte-slides", "https://github.com/rajasegar/svelte-slides"],
+	[
+		"Svelte Theme Light",
+		"https://marketplace.visualstudio.com/items?itemName=webmaek.svelte-theme-light"
+	],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Get your tickets now", "https://www.sveltesummit.com/"],
+	["Join us on Sept 8-9th", "https://www.sveltesummit.com/"],
+	["migration script", "https://github.com/sveltejs/kit/discussions/5774"],
+	["Automatic Early Hints", "https://github.com/sveltejs/kit/issues/5455"],
+	["PR", "https://github.com/sveltejs/kit/pull/5735"],
+	["PR", "https://github.com/sveltejs/kit/pull/5825"],
+	["PR", "https://github.com/sveltejs/kit/pull/6100"],
+	["PR", "https://github.com/sveltejs/kit/pull/6175"],
+	["follow this migration guide", "https://github.com/sveltejs/kit/discussions/5774"],
+	["PR", "https://github.com/sveltejs/kit/pull/5778"],
+	["Issue", "https://github.com/sveltejs/kit/discussions/5748"],
+	["PR", "https://github.com/sveltejs/kit/pull/5946"],
+	["Docs", "https://kit.svelte.dev/docs/advanced-routing#advanced-layouts"],
+	["PR & Migration Instructions", "https://github.com/sveltejs/kit/pull/6174"],
+	["PR", "https://github.com/sveltejs/kit/pull/6237"],
+	["PR", "https://github.com/sveltejs/kit/pull/6334"],
+	["CHANGELOG", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["#1592", "https://github.com/sveltejs/language-tools/pull/1592"],
+	[
+		"canno",
+		"https://twitter.com/a_warnes/status/1556724034959818754?s=20&t=RyKWALPByqMT5A_PkLtUew"
+	],
+	["straw.page", "https://straw.page/"],
+	["Patra", "https://patra.webjeda.com/"],
+	["promptoMANIA", "https://promptomania.com/"],
+	["Album by Mood", "https://www.albumbymood.com/"],
+	["Daily Sumeiro", "https://digivaux.com/sumeiro/daily/"],
+	["Lofi and Games", "https://www.lofiandgames.com/"],
+	["Pitch Pipe", "https://github.com/joelgibson/pitch-pipe"],
+	["classes.wtf", "https://github.com/ekzhang/classes.wtf"],
+	["Scrumpack", "https://scrumpack.io/"],
+	[
+		"Supper Club × Rich Harris, Author of Svelte — Syntax Podcast 499",
+		"https://syntax.fm/show/499/supper-club-rich-harris-author-of-svelte"
+	],
+	[
+		"Let's talk routing with Rich Harris on Svelte Radio",
+		"https://www.svelteradio.com/episodes/lets-talk-routing-with-rich-harris"
+	],
+	[
+		"2.17 - Building the Future of Svelte at Vercel with Rich Harris",
+		"https://www.youtube.com/watch?v=F1sSUDVoij4"
+	],
+	[
+		"1.15 - What's Up With SvelteKit with Shawn Wang (swyx",
+		"https://www.youtube.com/watch?v=xLhuUShkYkM)"
+	],
+	[
+		"Adding Notion Tailwindcss and DaisyUI to Svelte App",
+		"https://www.youtube.com/watch?v=l4sbqrY0XGk"
+	],
+	["Svelte 101 Session", "https://www.youtube.com/watch?v=IIeBERpyxx4"],
+	["Astro and Svelte", "https://www.youtube.com/watch?v=iYKKg-50Gm4"],
+	["Storyblok in Svelte", "https://www.youtube.com/watch?v=xXHFRzqUxoE"],
+	["Svelte London August Recording", "https://www.youtube.com/watch?v=ua6gE2zPulw"],
+	[
+		"Migrating Breaking Changes in SvelteKit",
+		"https://www.netlify.com/blog/migrating-breaking-changes-in-sveltekit/"
+	],
+	[
+		"Major Svelte Kit API Change - Fixing `load`, and tightening up SvelteKit's design before 1.0",
+		"https://www.youtube.com/watch?v=OUGn7VifUCg"
+	],
+	["SvelteKit Is Never Going To Be The Same", "https://www.youtube.com/watch?v=eVFcGA-15LA"],
+	[
+		"Let's learn SvelteKit by building a static Markdown blog from scratch",
+		"https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog"
+	],
+	["Svelte Guide For React Developers", "https://www.youtube.com/watch?v=uWDBEUkTRGk"],
+	["Svelte State Management Guide", "https://www.youtube.com/watch?v=4dDjQiOVrOo"],
+	[
+		"What Is Bookit? The Svelte Kit Storybook Killer",
+		"https://www.youtube.com/watch?v=aOBGhvggsq0"
+	],
+	[
+		"What Is @type{import In Svelte Kit - JSDoc Syntax",
+		"https://www.youtube.com/watch?v=y0DvJTVO65M"
+	],
+	[
+		"TWF Yet another JS Framework... or not? Svelte!",
+		"https://www.youtube.com/watch?app=desktop&v=nT8QtDBIKZA"
+	],
+	[
+		"Creating a Figma Plugin with Svelte",
+		"https://www.lekoarts.de/javascript/creating-a-figma-plugin-with-svelte"
+	],
+	[
+		"Svelte Video Blog: Vlog with Mux from your own SvelteKit Site",
+		"https://plus.rodneylab.com/tutorials/svelte-video-blog"
+	],
+	[
+		"Svelte Shy Header: Peekaboo Sticky Header with CSS",
+		"https://rodneylab.com/svelte-shy-header/"
+	],
+	["@svelte-plugins/tooltips", "https://github.com/svelte-plugins/tooltips"],
+	["Lucia", "https://github.com/pilcrowOnPaper/lucia-sveltekit"],
+	["remix-router-svelte", "https://github.com/brophdawg11/remix-routers/tree/main/packages/svelte"],
+	["MKRT", "https://github.com/j4w8n/mkrt"],
+	["Histoire", "https://histoire.dev/guide/"],
+	["sveltekit-flash-message", "https://www.npmjs.com/package/sveltekit-flash-message"],
+	["svelte-particles", "https://github.com/matteobruni/tsparticles#svelte"],
+	["svelte-claps", "https://github.com/bufgix/svelte-claps"],
+	["Neon Flicker", "https://svelte.dev/repl/fd5e3b2be7da42fe8afddf89661af7d7?version=3.49.0"],
+	["ComboBox", "https://svelte.dev/repl/144f22d18c6943abb1fdd00f13e23fde?version=3.49.0"],
+	["@svelte-put", "https://github.com/vnphanquang/svelte-put"],
+	["vite-plugin-svelte-bridge", "https://github.com/joshnuss/vite-plugin-svelte-bridge"],
+	["Svelte-spectre", "https://github.com/basf/svelte-spectre"],
+	["Skeleton", "https://skeleton.brainandbonesllc.com/"],
+	["iconsax-svelte", "https://www.npmjs.com/package/iconsax-svelte"],
+	[
+		"laravel-vite-svelte-spa-template",
+		"https://github.com/NukeJS/laravel-vite-svelte-spa-template"
+	],
+	[
+		"neutralino-svelte-boilerplate-js",
+		"https://github.com/Raffaele/neutralino-svelte-boilerplate-js"
+	],
+	["figma-plugin-svelte-vite", "https://github.com/candidosales/figma-plugin-svelte-vite"],
+	["Urara", "https://github.com/importantimport/urara"],
+	["SvelteKit Commerce", "https://vercel.com/templates/svelte/sveltekit-commerce"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["Subscribe", "https://www.youtube.com/c/SvelteSociety"],
+	["12:31", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=751s"],
+	["33:21", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=2001s"],
+	["2:20:36", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=8436s"],
+	["2:53:42", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=10422s"],
+	["4:42:41", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=16961s"],
+	["5:06:42", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=18402s"],
+	["5:45:27", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=20727s"],
+	["7:25:39", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=26739s"],
+	["7:59:38", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=28778s"],
+	["8:20:49", "https://www.youtube.com/watch?v=pJcbZr5VlV4&t=30049s"],
+	["24:09", "https://www.youtube.com/watch?v=A8jkJTWacow&t=1449s"],
+	["2:02:40", "https://www.youtube.com/watch?v=A8jkJTWacow&t=7360s"],
+	["2:29:43", "https://www.youtube.com/watch?v=A8jkJTWacow&t=8983s"],
+	["3:04:56", "https://www.youtube.com/watch?v=A8jkJTWacow&t=11096s"],
+	["5:09:39", "https://www.youtube.com/watch?v=A8jkJTWacow&t=18579s"],
+	["5:37:06", "https://www.youtube.com/watch?v=A8jkJTWacow&t=20226s"],
+	["7:22:05", "https://www.youtube.com/watch?v=A8jkJTWacow&t=26525s"],
+	["7:38:14", "https://www.youtube.com/watch?v=A8jkJTWacow&t=27494s"],
+	["Docs", "https://kit.svelte.dev/docs/form-actions#progressive-enhancement-use-enhance"],
+	["#6633", "https://github.com/sveltejs/kit/pull/6633"],
+	["#6828", "https://github.com/sveltejs/kit/pull/6828"],
+	["#7012", "https://github.com/sveltejs/kit/pull/7012"],
+	["#6979", "https://github.com/sveltejs/kit/pull/6979"],
+	["#6530", "https://github.com/sveltejs/kit/pull/6530"],
+	["#6710", "https://github.com/sveltejs/kit/pull/6710"],
+	["#6388", "https://github.com/sveltejs/kit/pull/6388"],
+	["#6413", "https://github.com/sveltejs/kit/pull/6413"],
+	["6659", "https://github.com/sveltejs/kit/pull/6659"],
+	["Docs", "https://kit.svelte.dev/docs/hooks#shared-hooks-handleerror"],
+	["#6963", "https://github.com/sveltejs/kit/pull/6963"],
+	["#6565", "https://github.com/sveltejs/kit/pull/6565"],
+	["CHANGELOG", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["#1598", "https://github.com/sveltejs/language-tools/pull/1598"],
+	["#1620", "https://github.com/sveltejs/language-tools/pull/1620"],
+	["questions channel", "https://discord.com/channels/457912077277855764/1023340103071965194"],
+	["Timeflow", "https://www.timeflow.site/"],
+	["GeoQuest", "https://github.com/woutdp/geoquest"],
+	["Houses Of", "https://housesof.world/"],
+	["Greenfield Brewery", "https://greenfield-brewery.vercel.app/"],
+	["Gram Jam", "https://gramjam.app/"],
+	["Beatbump", "https://github.com/snuffyDev/Beatbump"],
+	["RoomOS Device Widgets", "https://github.com/wxsd-sales/roomos-device-widgets"],
+	["World Seed", "https://store.steampowered.com/app/1870320/World_Seed/"],
+	["Lirify", "https://lirify-tan.vercel.app/"],
+	["Splet Tech Konferencija", "https://www.splet.rs/"],
+	["Unbounded", "https://unbounded.polkadot.network/"],
+	["Porter's Paints", "https://shop.porterspaints.com/"],
+	["CRAN/E", "https://www.cran-e.com/"],
+	["Upgrading SvelteKit", "https://www.youtube.com/watch?v=vzeZskhjoeQ"],
+	["Build your own Svelte", "https://www.youtube.com/watch?v=mwvyKGw2CzU"],
+	[
+		"Native Page Transitions in SvelteKit: Part 1",
+		"https://geoffrich.net/posts/page-transitions-1/"
+	],
+	[
+		"Build a cross platform app with Tauri",
+		"https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/"
+	],
+	["How To Use Future CSS In Svelte", "https://www.youtube.com/watch?v=eqwtoaP-0pk"],
+	["Master Animation With Svelte", "https://www.youtube.com/watch?v=3RlBfUQCiAQ"],
+	[
+		"Svelte Kit Form Actions 101 - New Svelte Kit API",
+		"https://www.youtube.com/watch?v=i5zdnv83mxY"
+	],
+	[
+		"Svelte Kit Form Actions - Real World Examples - Q&A",
+		"https://www.youtube.com/watch?v=PK2Mpt1q6K8"
+	],
+	[
+		"What's new in `svelte-kit, 1.0.0-next.445`: (group layout",
+		"https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)"
+	],
+	[
+		"Handling breaking changes in SvelteKit pre-1.0",
+		"https://maier.tech/posts/handling-breaking-changes-in-sveltekit-pre-1-0"
+	],
+	[
+		"Svelte Custom Stores Demystified",
+		"https://raqueebuddinaziz.com/blog/svelte-custom-stores-demystified/"
+	],
+	["Advanced Layouts", "https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4"],
+	[
+		"Form Actions and Progressive Enhancement",
+		"https://dev.to/theether0/sveltekit-changes-form-actions-and-progressive-enhancement-31h9"
+	],
+	[
+		"Cookies and Authentication",
+		"https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb"
+	],
+	["How to add an Emoji Picker to Sveltekit", "https://xvrc.net/"],
+	[
+		"Get Started with SvelteKit Headless WordPress",
+		"https://plus.rodneylab.com/tutorials/get-started-sveltekit-headless-wordpress"
+	],
+	[
+		"Speed up SvelteKit Pages With a Redis Cache",
+		"https://www.captaincodeman.com/speed-up-sveltekit-pages-with-a-redis-cache"
+	],
+	[
+		"How to await Firebase Auth with SvelteKit",
+		"https://www.captaincodeman.com/how-to-await-firebase-auth-with-sveltekit"
+	],
+	[
+		"Deploying SvelteKit with NodeJS to a Server Using GitLab and PM2",
+		"https://abyteofcoding.com/blog/deploying-sveltekit-with-nodejs-pm2-to-server/"
+	],
+	[
+		"Quality of Life Tips when using SvelteKit in VS Code",
+		"https://www.reddit.com/r/sveltejs/comments/xltgyp/quality_of_life_tips_when_using_sveltekit_in_vs/"
+	],
+	["Svelte Fit", "https://github.com/leveluptuts/svelte-fit"],
+	["svelte-switch-case", "https://github.com/l-portet/svelte-switch-case"],
+	["svelte-canvas-confetti", "https://github.com/andreasmcdermott/svelte-canvas-confetti"],
+	["@slidy/svelte", "https://github.com/Valexr/Slidy/tree/master/packages/svelte"],
+	["svelte-currency-input", "https://github.com/canutin/svelte-currency-input"],
+	["Adria", "https://github.com/pilcrowOnPaper/adria"],
+	["Canopy", "https://github.com/oslabs-beta/canopy"],
+	["MenuFramework", "https://github.com/MyHwu9508/altv-os-menu-framework"],
+	["alt:V", "https://altv.mp/#/"],
+	["whyframe", "https://whyframe.dev/"],
+	["@svelte-put/modal", "https://github.com/vnphanquang/svelte-put/tree/main/packages/misc/modal"],
+	["Kitty", "https://github.com/grottopress/kitty"],
+	["svelte-turnstile", "https://github.com/ghostdevv/svelte-turnstile"],
+	["QWER", "https://github.com/kwchang0831/svelte-QWER"],
+	["SvelteKit Zero API", "https://github.com/Refzlund/sveltekit-zero-api"],
+	["sveltekit-monorepo", "https://github.com/sw-yx/sveltekit-monorepo"],
+	["svelte-component-test-recipes", "https://github.com/davipon/svelte-component-test-recipes"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.com/invite/yy75DKs"],
+	["docs", "https://kit.svelte.dev/docs/form-actions#progressive-enhancement-use-enhance"],
+	["#7083", "https://github.com/sveltejs/kit/pull/7083"],
+	["#7326", "https://github.com/sveltejs/kit/pull/7326"],
+	["docs", "https://kit.svelte.dev/docs/advanced-routing#optional-parameters"],
+	["#7051", "https://github.com/sveltejs/kit/pull/7051"],
+	["docs", "https://kit.svelte.dev/docs/modules#$app-navigation-goto"],
+	["#7407", "https://github.com/sveltejs/kit/pull/7407"],
+	["#4448", "https://github.com/sveltejs/kit/pull/4448"],
+	["#7051", "https://github.com/sveltejs/kit/pull/7051"],
+	["#7318", "https://github.com/sveltejs/kit/pull/7318"],
+	["#7338", "https://github.com/sveltejs/kit/pull/7338"],
+	["Before", "https://svelte.dev/repl/48984f20503f4959b70f24f4130d164b?version=3.47.0"],
+	["After", "https://svelte.dev/repl/48984f20503f4959b70f24f4130d164b?version=3.51.0"],
+	["Before", "https://svelte.dev/repl/b7a3f94255914044b35462234ccaea43?version=3.50.0"],
+	["After", "https://svelte.dev/repl/b7a3f94255914044b35462234ccaea43?version=3.51.0"],
+	["Example", "https://svelte.dev/repl/9228022922af4c76af68ce42349ccbf9?version=3.51.0"],
+	["Example", "https://svelte.dev/repl/23d982fc6f4f4f06a6aa227860fa2d84?version=3.51.0"],
+	["#7365", "https://github.com/sveltejs/svelte/issues/7365"],
+	["#6188", "https://github.com/sveltejs/svelte/issues/6188"],
+	[
+		"all the changes in 3.52.0",
+		"https://tomaszs2.medium.com/svelte-3-52-0-improves-dev-experience-45f8c460bb96"
+	],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["AttendZen", "https://www.attendzen.io/"],
+	["Gram Jam", "https://gramjam.app/"],
+	["Collabwriting", "https://collabwriting.com/"],
+	["Dazzle", "https://dazzlega.me/"],
+	["Figma Autoname plugin", "https://github.com/Hugo-Dz/figma_autoname_client_app"],
+	["DECK", "https://github.com/sfx101/deck"],
+	["Asm editor", "https://github.com/Specy/asm-editor"],
+	["Nucleus", "https://github.com/mellobacon/Nucleus"],
+	["Observer", "https://github.com/diamonc/observer"],
+	[".PLAN", "https://plan.lodzero.com/"],
+	["Stablecog", "https://github.com/yekta/stablecog"],
+	["FreeSpeech AAC", "https://github.com/merkie/freespeech"],
+	["sqrdoff", "https://sqrdoff.cubieverse.co/"],
+	["itty", "https://launch.itty-sh.pages.dev/"],
+	["splits", "https://splits.best/"],
+	["Weaver", "https://jrende.xyz/weaver/"],
+	["weave drafts", "https://www.gistyarn.com/blogs/how-to-weave/how-to-read-a-weaving-draft"],
+	["Starting With Svelte - Brittney Postma", "https://www.youtube.com/watch?v=pdKJzrPA0DY"],
+	[
+		"Learn Svelte from scratch with Geoff Rich: A Svelte tutorial",
+		"https://www.youtube.com/watch?v=QoR0AZ-Rov8"
+	],
+	["How To Connect to MongoDB in Svelte Kit", "https://www.youtube.com/watch?v=gwktlvFHLMA"],
+	["SvelteKit Authentication Using Cookies", "https://www.youtube.com/watch?v=E3VG-dLCRUk"],
+	["Make A Typing Game With Svelte", "https://www.youtube.com/watch?v=kMz_Ba_OF2w"],
+	[
+		"SvelteKit Tailwind CSS Setup With Automatic Class Sorting",
+		"https://www.youtube.com/watch?v=J_G_xP0chog"
+	],
+	["Authentication with SvelteKit & PocketBase", "https://www.youtube.com/watch?v=doDKaKDvB30"],
+	["Form Actions in SvelteKit (+page", "https://www.youtube.com/watch?v=52nXUwQWeKI)"],
+	[
+		"Sybil - Episode 1 - Rust knowledge management with SurrealDB",
+		"https://www.youtube.com/watch?v=eC7IePI5rIk"
+	],
+	[
+		"4 things I miss from Svelte after working in React",
+		"https://geoffrich.net/posts/4-things-i-miss-svelte/"
+	],
+	[
+		"Create dynamic social card images with Svelte components",
+		"https://geoffrich.net/posts/svelte-social-image/"
+	],
+	[
+		"First-class Vite support in Storybook 7.0",
+		"https://storybook.js.org/blog/first-class-vite-support-in-storybook/"
+	],
+	[
+		"Better Svelte support is coming to WebStorm",
+		"https://blog.jetbrains.com/webstorm/2022/09/webstorm-2022-3-eap1/#information_regarding_svelte_support"
+	],
+	["Dark Mode", "https://pyronaur.com/dark-mode/"],
+	[
+		"HeadlessUI Components with Svelte",
+		"https://www.captaincodeman.com/headlessui-components-with-svelte"
+	],
+	[
+		"Using Sequelize with SvelteKit",
+		"https://cherrific.io/0xedB00816FB204b4CD9bCb45FF2EF693E99723484/story/23"
+	],
+	[
+		"Implementing Maintenance mode on a SvelteKit site",
+		"https://blog.encodeart.dev/implementing-maintenance-mode-on-a-sveltekit-site"
+	],
+	[
+		"ActionStore: Real-time Svelte stores for Rails",
+		"https://dev.to/buhrmi/actionstore-real-time-svelte-stores-for-rails-4jhg"
+	],
+	[
+		"Svelte CSS Image Slider: with Bouncy Overscroll",
+		"https://rodneylab.com/svelte-css-image-slider/"
+	],
+	[
+		"SvelteKit Local Edge Functions: Edge on Localhost",
+		"https://rodneylab.com/sveltekit-local-edge-functions/"
+	],
+	[
+		"Creating a Svelte Tabs component with Slot props",
+		"https://blog.openreplay.com/creating-a-svelte-tabs-component-with-slot-props/"
+	],
+	[
+		"Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout",
+		"https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k"
+	],
+	["Threlte", "https://threlte.xyz/"],
+	["Svelte Turnstile", "https://github.com/ghostdevv/svelte-turnstile"],
+	["ActionStore", "https://github.com/buhrmi/actionstore"],
+	["SvelteKit + `<is-land>`", "https://sveltekit-is-land.vercel.app/"],
+	["Svelte Color Select", "https://github.com/CaptainCodeman/svelte-color-select"],
+	["svelte-awesome-color-picker", "https://github.com/Ennoriel/svelte-awesome-color-picker"],
+	["rx-svelte-forms", "https://www.npmjs.com/package/rx-svelte-forms"],
+	["svelte-wc-bind", "https://www.npmjs.com/package/svelte-wc-bind"],
+	[
+		"svelte-preprocess-style-child-component",
+		"https://github.com/valterkraemer/svelte-preprocess-style-child-component"
+	],
+	["unplugin-svelte-components", "https://www.npmjs.com/package/unplugin-svelte-components"],
+	["sveltekit-search-params", "https://github.com/paoloricciuti/sveltekit-search-params"],
+	["svelte-crop-window", "https://github.com/sabine/svelte-crop-window"],
+	["Open Graph Image Generation", "https://github.com/etherCorps/sveltekit-og"],
+	["Svelte Tap Hold", "https://github.com/binsarjr/svelte-taphold"],
+	["svelte-copy", "https://github.com/ghostdevv/svelte-copy"],
+	["SvelteKit Statiko", "https://github.com/ivodolenc/sveltekit-statiko"],
+	["Svelte-TailwindCSS UI (STWUI", "https://github.com/N00nDay/stwui)"],
+	["KitBase", "https://github.com/kevmodrome/kitbase"],
+	[
+		"UnoCSS Vite Plugin (svelte-scoped",
+		"https://github.com/unocss/unocss/tree/main/examples/sveltekit-scoped)"
+	],
+	["SvelteKit Auth App", "https://github.com/fabiorodriguesroque/sveltekit_auth_app"],
+	["SvelteKit Supabase Dashboard", "https://github.com/xulioc/sveltekit-supabase-dashboard"],
+	["Supakit", "https://github.com/j4w8n/supakit"],
+	[
+		"@bun-community/sveltekit-adapter-bun",
+		"https://www.npmjs.com/package/@bun-community/sveltekit-adapter-bun"
+	],
+	["hooks-as-store", "https://github.com/micha-lmxt/hooks-as-store"],
+	["svelte-typewriter-store", "https://github.com/paoloricciuti/svelte-typewriter-store"],
+	["Aksel", "https://www.npmjs.com/package/aksel"],
+	["Svelte-Dodge", "https://github.com/WbaN314/svelte-dodge"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["99% of the milestone issues completed", "https://github.com/sveltejs/kit/milestone/2"],
+	["#6813", "https://github.com/sveltejs/kit/pull/6813"],
+	["#7532", "https://github.com/sveltejs/kit/pull/7532"],
+	["#7596", "https://github.com/sveltejs/kit/pull/7596"],
+	["#7612", "https://github.com/sveltejs/kit/pull/7612"],
+	["#7619", "https://github.com/sveltejs/kit/pull/7619"],
+	["Docs", "https://kit.svelte.dev/docs/hooks#server-hooks-handle"],
+	["#4963", "https://github.com/sveltejs/kit/pull/4963"],
+	["#7704", "https://github.com/sveltejs/kit/pull/7704"],
+	["#7689", "https://github.com/sveltejs/kit/pull/7689"],
+	["#7694", "https://github.com/sveltejs/kit/pull/7694"],
+	["#7780", "https://github.com/sveltejs/kit/pull/7780"],
+	["#7450", "https://github.com/sveltejs/kit/pull/7450"],
+	["#7502", "https://github.com/sveltejs/kit/pull/7502"],
+	["#7529", "https://github.com/sveltejs/kit/pull/7529"],
+	["#7588", "https://github.com/sveltejs/kit/pull/7588"],
+	["#7767", "https://github.com/sveltejs/kit/pull/7767"],
+	["#7615", "https://github.com/sveltejs/kit/pull/7615"],
+	["#7767", "https://github.com/sveltejs/kit/pull/7767"],
+	["#7644", "https://github.com/sveltejs/kit/pull/7644"],
+	["#7494", "https://github.com/sveltejs/kit/pull/7494"],
+	["#7719", "https://github.com/sveltejs/kit/pull/7719"],
+	["#7766", "https://github.com/sveltejs/kit/pull/7766"],
+	["#7762", "https://github.com/sveltejs/kit/pull/7762"],
+	["#7809", "https://github.com/sveltejs/kit/pull/7809"],
+	["#7820", "https://github.com/sveltejs/kit/pull/7820"],
+	["#7776", "https://github.com/sveltejs/kit/pull/7776"],
+	["#7776", "https://github.com/sveltejs/kit/pull/7776"],
+	["#7003", "https://github.com/sveltejs/kit/pull/7003"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Appwrite's new console", "https://github.com/appwrite/console"],
+	["RepoMagic", "https://www.repomagic.com/"],
+	["Podman Desktop", "https://github.com/containers/podman-desktop"],
+	["Ballerine", "https://github.com/ballerine-io/ballerine"],
+	["Budget Pen", "https://github.com/Nico-Mayer/budget_pen"],
+	["doTogether", "https://github.com/SarcevicAntonio/doTogether"],
+	["Webscraped College Results", "https://www.redditcollegeresults.com/"],
+	["Let's premortem", "https://letspremortem.com/"],
+	["BLKMARKET.COM", "https://beta.blkmarket.com/"],
+	["Sigil", "https://sigilspace.com/"],
+	["corpus-activity-streams", "https://github.com/ryanatkn/corpus-activity-streams"],
+	["nodeMyAdmin", "https://github.com/Andrea055/nodeMyAdmin"],
+	["Image to Pattern Conversion", "https://www.thread-bare.com/convert"],
+	["a list of pre-made patterns", "https://www.thread-bare.com/store"],
+	["Verbums", "https://verbums.vdoc.dev/"],
+	["SVGPS", "https://svgps.app/"],
+	[
+		"This 3D retro-themed asteroid shooter",
+		"https://photon-alexwarnes.vercel.app/showcase/asteroids"
+	],
+	["Catching up after Svelte Summit", "https://www.svelteradio.com/episodes/catching-up"],
+	["3D, WebGL and AI", "https://www.svelteradio.com/episodes/3d-webgl-and-ai"],
+	[
+		"Domenik Reitzner - The easy way, an introduction to Sveltekit",
+		"https://www.youtube.com/watch?v=t-LKRrNedps"
+	],
+	["Sirens: Form Actions", "https://www.youtube.com/watch?v=2OISk5-EHek"],
+	["Introduction To 3D With Svelte (Threlte", "https://www.youtube.com/watch?v=89LYeHOncVk)"],
+	["How To Use Global Styles In SvelteKit", "https://www.youtube.com/watch?v=jHSwChkx3TQ"],
+	["Progressive Form Enhancement With SvelteKit", "https://www.youtube.com/watch?v=6pv70d7i-3Q"],
+	["Building tic-tac-toe with Svelte", "https://geoffrich.net/posts/tic-tac-toe/"],
+	[
+		"Speed up SvelteKit Pages With a Redis Cache",
+		"https://www.captaincodeman.com/speed-up-sveltekit-pages-with-a-redis-cache"
+	],
+	[
+		"Understanding environment variables in SvelteKit",
+		"https://www.okupter.com/blog/environment-variables-in-sveltekit"
+	],
+	[
+		"Form validation with SvelteKit and Zod",
+		"https://www.okupter.com/blog/sveltekit-form-validation-with-zod"
+	],
+	[
+		"Build a SvelteKit application with Docker",
+		"https://www.okupter.com/blog/build-a-sveltekit-application-with-docker"
+	],
+	[
+		"Why I failed to create the \"Solid.js's store\" for Svelte, and announcing svelte-store-tree v0.3.1",
+		"https://dev.to/igrep/why-i-failed-to-create-the-solidjss-store-for-svelte-and-announcing-svelte-store-tree-v031-1am2"
+	],
+	[
+		"Create an offline-first and installable PWA with SvelteKit and workbox-precaching",
+		"https://www.sarcevic.dev/offline-first-installable-pwa-sveltekit-workbox-precaching"
+	],
+	["Skeleton", "https://www.skeleton.dev/"],
+	["svelte-svg-spinners", "https://github.com/luluvia/svelte-svg-spinners"],
+	["Svelte Floating UI", "https://github.com/fedorovvvv/svelte-floating-ui"],
+	["at-html", "https://github.com/micha-lmxt/at-html"],
+	["html-svelte-parser", "https://github.com/PatrickG/html-svelte-parser"],
+	["svelte-switcher", "https://github.com/rohitpotato/svelte-switcher"],
+	[
+		"sveltkit-hook-html-minifier",
+		"https://www.npmjs.com/package/@svackages/sveltkit-hook-html-minifier"
+	],
+	["sveltekit-hook-redirect", "https://www.npmjs.com/package/@svackages/sveltekit-hook-redirect"],
+	["sveltekit-video-meet", "https://github.com/harshmangalam/sveltekit-video-meet"],
+	["svelte-colourpicker", "https://www.npmjs.com/package/svelte-colourpicker"],
+	["Svelte-HeadlessUI", "https://captaincodeman.github.io/svelte-headlessui/"],
+	["svelte-lazyimage-cache", "https://github.com/binsarjr/svelte-lazyimage-cache"],
+	[
+		"threlte v5.0",
+		"https://www.reddit.com/r/sveltejs/comments/ywit18/threlte_v50_is_here_a_completely_new_developer/"
+	],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["SvelteKit", "https://kit.svelte.dev"],
+	["docs", "https://kit.svelte.dev/docs"],
+	["interactive tutorial", "https://learn.svelte.dev"],
+	["Svelte", "https://svelte.dev"],
+	[
+		"that",
+		"https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+	],
+	["developers", "https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/"],
+	["love", "https://twitter.com/Rich_Harris/status/1589675637195042817"],
+	["Next.js", "https://nextjs.org/"],
+	["Remix", "https://remix.run/"],
+	["Astro", "https://astro.build/"],
+	["Rails", "https://rubyonrails.org/"],
+	["Laravel", "https://laravel.com/"],
+	["REPL", "/repl"],
+	["transitional apps", "https://www.youtube.com/watch?v=860d8usGC0o"],
+	["Vite", "https://vitejs.dev/"],
+	["TypeScript", "https://www.typescriptlang.org/"],
+	["ESLint", "https://eslint.org/"],
+	["Prettier", "https://prettier.io/"],
+	["Playwright", "https://playwright.dev/"],
+	["Vitest", "https://vitest.dev/"],
+	["Tailwind", "https://tailwindcss.com/docs/guides/sveltekit"],
+	["Supabase", "https://supabase.com/docs/guides/getting-started/tutorials/with-sveltekit"],
+	[
+		"Storybook",
+		"https://github.com/storybookjs/storybook/blob/next/code/frameworks/sveltekit/README.md"
+	],
+	["Histoire", "https://histoire.dev/guide/svelte3/getting-started.html"],
+	["svelte-add", "https://github.com/svelte-add/svelte-add"],
+	["npm", "https://npmjs.com/"],
+	["adapters", "https://kit.svelte.dev/docs/adapters"],
+	["adapter-auto", "https://github.com/sveltejs/kit/tree/master/packages/adapter-auto"],
+	["adapter-node", "https://github.com/sveltejs/kit/tree/master/packages/adapter-node"],
+	["adapter-static", "https://github.com/sveltejs/kit/tree/master/packages/adapter-static"],
+	["GitHub Pages", "https://pages.github.com/"],
+	["Svelte Society", "https://sveltesociety.dev/"],
+	["Svelte Summit", "https://www.sveltesummit.com/"],
+	["Svelte Sirens", "https://sveltesirens.dev/"],
+	["Vercel", "https://vercel.com"],
+	["Netlify", "https://netlify.app/"],
+	["Cloudflare", "https://www.cloudflare.com/"],
+	["StackBlitz", "https://stackblitz.com/"],
+	["learn.svelte.dev", "https://learn.svelte.dev"],
+	["WebContainer", "https://blog.stackblitz.com/posts/introducing-webcontainers/"],
+	["Open Collective", "https://opencollective.com/svelte"],
+	["Rich", "https://twitter.com/Rich_Harris/"],
+	["Simon", "https://twitter.com/dummdidumm_/"],
+	["Steph’s", "https://twitter.com/steph_dietz_"],
+	["Beginner SvelteKit", "https://vercel.com/docs/beginner-sveltekit"],
+	["this migration guide", "https://github.com/sveltejs/kit/discussions/5774"],
+	["Twitter", "https://twitter.com/SvelteSociety"],
+	["YouTube", "https://youtube.com/sveltesociety"],
+	["Discord server", "https://svelte.dev/chat"],
+	["GitHub", "https://github.com/sveltejs"],
+	["SvelteKit 1.0", "https://svelte.dev/blog/announcing-sveltekit-1.0"],
+	["livestream", "https://www.youtube.com/watch?v=N4BRVkQVoMc"],
+	["new website", "https://kit.svelte.dev/"],
+	["learn.svelte.dev", "https://learn.svelte.dev/"],
+	["CHANGELOG", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md#100"],
+	["#7990", "https://github.com/sveltejs/kit/pull/7990"],
+	["storybook#20239", "https://github.com/storybookjs/storybook/pull/20239"],
+	["the docs", "https://kit.svelte.dev/docs/integrations#preprocessors"],
+	["#8036", "https://github.com/sveltejs/kit/pull/8036"],
+	["#7878", "https://github.com/sveltejs/kit/pull/7878"],
+	["#7979", "https://github.com/sveltejs/kit/pull/7979"],
+	["#7994", "https://github.com/sveltejs/kit/pull/7994"],
+	["docs", "https://kit.svelte.dev/docs/configuration"],
+	["#7969", "https://github.com/sveltejs/kit/pull/7969"],
+	["#8013", "https://github.com/sveltejs/kit/pull/8013"],
+	["#8012", "https://github.com/sveltejs/kit/pull/8012"],
+	["#8003", "https://github.com/sveltejs/kit/pull/8003"],
+	["#7543", "https://github.com/sveltejs/kit/pull/7543"],
+	["#8131", "https://github.com/sveltejs/kit/pull/8131"],
+	["#8019", "https://github.com/sveltejs/kit/pull/8019"],
+	["#3918", "https://github.com/sveltejs/svelte/issues/3918"],
+	["#7843", "https://github.com/sveltejs/svelte/issues/7843"],
+	["#7649", "https://github.com/sveltejs/svelte/pull/7649"],
+	["#1731", "https://github.com/sveltejs/language-tools/pull/1731"],
+	["#1730", "https://github.com/sveltejs/language-tools/pull/1730"],
+	["#1742", "https://github.com/sveltejs/language-tools/pull/1742"],
+	["#1715", "https://github.com/sveltejs/language-tools/pull/1715"],
+	["#1789", "https://github.com/sveltejs/language-tools/pull/1789"],
+	["#1771", "https://github.com/sveltejs/language-tools/pull/1771"],
+	["#1770", "https://github.com/sveltejs/language-tools/pull/1770"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Svelte Recipes 🧑‍🍳", "https://svelte.recipes/"],
+	["Everything Svelte", "https://www.everythingsvelte.com/"],
+	["CSS Timeline", "https://css-timeline.vercel.app/"],
+	["GitBar", "https://github.com/mikaelkristiansson/gitbar"],
+	["Texture Lab", "https://www.texturelab.xyz/"],
+	["Totems", "https://totems-soclage.com/"],
+	["PeopletoNotion", "https://www.peopletonotion.com/"],
+	["DeckDev", "https://deckdev.com/"],
+	["Default Shortcuts", "https://www.defaultshortcuts.com/"],
+	["Svelte Society - London December 2022", "https://www.youtube.com/watch?v=2ijSarsHfN0"],
+	[
+		"SvelteKit with Netlify Edge Functions",
+		"https://twitter.com/BrittneyPostma/status/1603402599742537729?s=20&t=Lw08QNMpdEP1JZzMQGXLDA"
+	],
+	[
+		"Sirens Stream: Skeleton - A fully featured UI Toolkit",
+		"https://www.youtube.com/watch?v=2OnJYCXJPK4"
+	],
+	["Sirens: SvelteKit for Enterprise", "https://www.youtube.com/watch?v=_0ijqV0DmNQ"],
+	["Sirens: Form Actions", "https://www.youtube.com/watch?v=2OISk5-EHek"],
+	["SvelteKit is my mistress", "https://www.youtube.com/watch?v=uEJ-Rnm2yOE"],
+	["Sveltekit 1.0 in under 3 minutes", "https://www.youtube.com/watch?v=3KGKDgwIrkE"],
+	["What Svelte UI Library Should You Use?", "https://www.youtube.com/watch?v=O0mNU0maItY"],
+	["The Best Icon Library For Svelte (Iconify", "https://www.youtube.com/watch?v=iGVhzsTZSa8)"],
+	["Rendering emails with Svelte", "https://escape.tech/blog/sveltemails/"],
+	[
+		"Now That React is Dead, What’s the Next Big Thing?",
+		"https://javascript.plainenglish.io/now-that-react-js-is-dead-whats-the-next-big-thing-7fa72a36a69b"
+	],
+	[
+		"What is SvelteKit? And Why Should You Care?",
+		"https://blog.tiia.rocks/what-is-sveltekit-and-why-should-you-care"
+	],
+	["Sveltekit API endpoints", "https://www.jefmeijvis.com/post/006-sveltekit-api-endpoints"],
+	["Chart.js 4.0", "https://github.com/chartjs/Chart.js/discussions/10977"],
+	["Creating A Custom Svelte Media Query Store", "https://pqina.nl/blog/svelte-media-query-store/"],
+	["Konsta UI", "https://konstaui.com/"],
+	["probablykasper/modal-svelte", "https://github.com/probablykasper/modal-svelte"],
+	["deepcrayon/scrolltron", "https://spacecruft.org/deepcrayon/scrolltron"],
+	[
+		"JetBrains WebStorm 2022.3",
+		"https://www.jetbrains.com/webstorm/whatsnew/#:~:text=Update%20about%20Svelte%20support"
+	],
+	["NextAuth.js", "https://vercel.com/blog/announcing-sveltekit-auth"],
+	["SvelteKit CAS authentication", "https://www.npmjs.com/package/@macfja/sveltekit-cas"],
+	["@macfja/sveltekit-session", "https://www.npmjs.com/package/@macfja/sveltekit-session"],
+	["@svelte-plugins/tooltips", "https://svelte-plugins.github.io/tooltips/"],
+	["tRPC-SvelteKit", "https://github.com/icflorescu/trpc-sveltekit"],
+	[
+		"SvelteKit Tailwind Blog Starter",
+		"https://github.com/akiarostami/sveltekit-tailwind-blog-starter"
+	],
+	["Free Svelte Accelerators", "https://sveltekitstarter.com/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["State of JS survey", "https://stateofjs.com"],
+	["bug fixes to SvelteKit's base path support", "https://github.com/sveltejs/kit/issues/2958"],
+	["new releases", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["#8273", "https://github.com/sveltejs/kit/pull/8273"],
+	["#8370", "https://github.com/sveltejs/kit/pull/8370"],
+	["#8423", "https://github.com/sveltejs/kit/pull/8423"],
+	["#8475", "https://github.com/sveltejs/kit/pull/8475"],
+	["#8371", "https://github.com/sveltejs/kit/pull/8371"],
+	["Docs", "https://kit.svelte.dev/docs/project-structure#project-files-src"],
+	["#8449", "https://github.com/sveltejs/kit/pull/8449"],
+	["#8591", "https://github.com/sveltejs/kit/pull/8591"],
+	["#8606", "https://github.com/sveltejs/kit/pull/8606"],
+	["#1824", "https://github.com/sveltejs/language-tools/pull/1824"],
+	["#1823", "https://github.com/sveltejs/language-tools/pull/1823"],
+	["#1817", "https://github.com/sveltejs/language-tools/pull/1817"],
+	["#8162", "https://github.com/sveltejs/svelte/pull/8162"],
+	["#8181", "https://github.com/sveltejs/svelte/issues/8181"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["Titowest.com", "https://titowest.com/"],
+	["Verve", "https://github.com/ParthJadhav/verve"],
+	["Round The World", "https://rtw.voyage/"],
+	["Linear Regression", "https://mlu-explain.github.io/linear-regression/"],
+	["Flotes", "https://flotes.app/"],
+	["nomie", "https://github.com/open-nomie/nomie6-oss"],
+	["nocode.gallery", "https://nocode.gallery/"],
+	["Whom to Follow", "https://whomtofollow.com/"],
+	["poker-simulator", "https://github.com/hucancode/poker-simulator"],
+	["Pixelicious", "https://www.pixelicious.xyz/"],
+	["Apple Music", "https://music.apple.com/us/browse"],
+	["proof", "https://twitter.com/BrittneyPostma/status/1615381017300271104"],
+	["SvelteKit | Rich Harris | ViteConf 2022", "https://www.youtube.com/watch?v=-OMPfr56kXI"],
+	["Talking Gradio and AI with pngwn 🐧", "https://www.svelteradio.com/episodes/gradio-with-pngwn"],
+	[
+		"Progressively enhancing the Marvel By Year filter",
+		"https://geoffrich.net/posts/marvel-filter-state/"
+	],
+	[
+		"Advent of SvelteKit 2022: my favorite demos",
+		"https://geoffrich.net/posts/advent-of-sveltekit-2022/"
+	],
+	[
+		"EP 13: Contributing more to open source + a Svelte Newsletter showcase rewind ⏪",
+		"https://bookmarkbeat.substack.com/p/contributing-more-to-open-source"
+	],
+	[
+		"I built a $5 chat app with Pocketbase & Svelte. Will it scale?",
+		"https://www.youtube.com/watch?v=gUYBFDPZ5qk"
+	],
+	["The Comprehensive Introduction To SvelteKit", "https://www.youtube.com/watch?v=obmiLi3bhkQ"],
+	["What Svelte UI Library Should You Use?", "https://www.youtube.com/watch?v=O0mNU0maItY"],
+	[
+		"Learn Everything About SvelteKit Routing (Pages, Layout, Nested Routes",
+		"https://www.youtube.com/watch?v=7hXHbGj6iE0)"
+	],
+	[
+		"Progressive Enhancement in SvelteKit (use:enhance",
+		"https://www.youtube.com/watch?v=jXtzWMhdI2U)"
+	],
+	["Are Your Routes Actually Protected?", "https://www.youtube.com/watch?v=UbhhJWV3bmI"],
+	[
+		"10X Your SvelteKit Developer Experience in VSCode",
+		"https://www.youtube.com/watch?v=13v50nLh67Q"
+	],
+	["The easiest realtime app I’ve ever built", "https://www.youtube.com/watch?v=UbOaAtHWidc"],
+	["Angular developers can learn Svelte so fast...", "https://www.youtube.com/watch?v=lKdw_z9qmPU"],
+	[
+		"SvelteKit + PocketBase Integration: User Login and Registration",
+		"https://www.youtube.com/watch?v=AxPB3e-3yEM"
+	],
+	[
+		"Marvels Of Using Svelte and SvelteKit - JSJ 566",
+		"https://topenddevs.com/podcasts/javascript-jabber/episodes/marvels-of-using-svelte-and-sveltekit-jsj-566"
+	],
+	[
+		"A practical first look at the Svelte framework",
+		"https://mainmatter.com/blog/2023/01/24/sveltekit-super-rentals/"
+	],
+	["State Modeling in Svelte with XState", "https://github.com/annaghi/xstate-svelte-workshop"],
+	[
+		"🚀 Code your SvelteKit website faster with Stylify CSS",
+		"https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css/"
+	],
+	[
+		"🎮 Five Svelte Games To Learn How To Code",
+		"https://tomaszs2.medium.com/five-svelte-games-to-learn-how-to-code-f36ae6e58923"
+	],
+	[
+		"How to make declarative (code-based router instead of file-based router in SvelteKit",
+		"https://dev.to/devpunk/how-to-make-declarativecode-based-router-instead-of-file-based-router-in-sveltekit-2-3dd4)"
+	],
+	[
+		"How to import tailwindcss custom config in JS/TS parts of a SvelteKit app",
+		"https://gist.github.com/0gust1/aa8c8b831428cdd7a5535e92cbf02f04"
+	],
+	[
+		"SvelteKit Internals: Load function",
+		"https://www.okupter.com/blog/sveltekit-internals-load-function"
+	],
+	["Svelte and CSS", "https://www.okupter.com/blog/svelte-and-css"],
+	[
+		"Internationalization Formatting with Intl + SSR + SvelteKit",
+		"https://www.captaincodeman.com/internationalization-formatting-with-intl-ssr-sveltekit"
+	],
+	["Typesafe i18n with SvelteKit", "https://blog.encodeart.dev/typesafe-i18n-with-sveltekit"],
+	[
+		"Authorization in your SvelteKit app",
+		"https://cerbos.dev/blog/authorization-in-your-sveltekit-app"
+	],
+	[
+		"Validate your form using Sveltekit, Tailwindcss, Felte and Yup",
+		"https://medium.com/@Heesel/validate-your-form-using-sveltekit-tailwindcss-felte-and-yup-ddc11cd04717"
+	],
+	[
+		"SvelteKit Form Actions bound to TypeScript class + Validation (yup w/dynamic array",
+		"http://enehana.nohea.com/general/sveltekit-form-actions-bound-to-typescript-class-validation-yup-w-dynamic-array/)"
+	],
+	[
+		"Smooth Page Transitions with SvelteKit",
+		"https://philkruft.dev/blog/smooth-page-transitions-with-sveltekit/"
+	],
+	[
+		"Redis Integration in SvelteKit: A Game-Changer for Session Management",
+		"https://dev.to/theether0/redis-integration-in-sveltekit-a-game-changer-for-session-management-84i"
+	],
+	["SvelteKit and GitHub Pages", "https://andrewlester.net/blog/posts/sveltekit-and-github-pages"],
+	[
+		"Tailwind + Sveltekit in 2023",
+		"https://medium.com/@gentmitch/tailwind-sveltkit-in-2023-44c19d91c8fd"
+	],
+	[
+		"Svelte Stores Tutorial: Share Data Between Multiple Components",
+		"https://learnjavascripts.com/development/web-development/frameworks/svelte/svelte-stores-tutorial-share-data-between-multiple-components/"
+	],
+	["Sveltepress", "https://sveltepress.site/"],
+	["Svelte Form Helper", "https://www.npmjs.com/package/svelte-form-helper"],
+	["Dapper UI", "https://github.com/Bastian/dapper-ui"],
+	["TeilUI", "https://sidharth-anand.github.io/teil-ui/"],
+	["Neodrag", "https://www.neodrag.dev/"],
+	["Svelvet", "https://www.svelvet.io/"],
+	["here", "https://medium.com/@efergus1/svelvet-5-0-a-community-driven-update-cfcc93e7b7a7"],
+	["Svelte Inview", "https://github.com/maciekgrzybek/svelte-inview"],
+	["html2svelte", "https://github.com/drbh/html2svelte"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["streaming non-essential data", "https://kit.svelte.dev/docs/load#streaming-with-promises"],
+	["snapshots", "https://kit.svelte.dev/docs/snapshots"],
+	["route-level config", "https://kit.svelte.dev/docs/page-options#config"],
+	["load functions", "https://kit.svelte.dev/docs/load"],
+	["streamed", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
+	["await block", "https://svelte.dev/docs#template-syntax-await"],
+	["devalue", "https://github.com/Rich-Harris/devalue"],
+	["XSS vulnerabilities", "https://github.com/rich-harris/devalue#xss-mitigation"],
+	["newline delimited JSON", "https://dataprotocols.org/ndjson/"],
+	["the documentation", "https://kit.svelte.dev/docs/load#streaming-with-promises"],
+	["sveltekit-on-the-edge.vercel.app", "https://sveltekit-on-the-edge.vercel.app/edge"],
+	["deploy your own on Vercel", "https://vercel.com/templates/svelte/sveltekit-edge-functions"],
+	["sessionStorage", "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage"],
+	["the documentation", "https://kit.svelte.dev/docs/snapshots"],
+	["adapters", "https://kit.svelte.dev/docs/adapters"],
+	["the documentation", "https://kit.svelte.dev/docs/page-options#config"],
+	["Vercel adapter", "https://kit.svelte.dev/docs/adapter-vercel#deployment-configuration"],
+	["the PR", "https://github.com/sveltejs/kit/pull/8740"],
+	[
+		"incremental static regeneration",
+		"https://kit.svelte.dev/docs/adapter-vercel#incremental-static-regeneration"
+	],
+	["OPTIONS method", "https://kit.svelte.dev/docs/routing#server"],
+	[
+		"export something that belongs in a different file",
+		"https://github.com/sveltejs/kit/pull/9055"
+	],
+	["forget to put a slot", "https://github.com/sveltejs/kit/pull/8475"],
+	[
+		"access public environment variables in app.html",
+		"https://kit.svelte.dev/docs/project-structure#project-files-src"
+	],
+	["text helper", "https://kit.svelte.dev/docs/modules#sveltejs-kit-text"],
+	["the changelog", "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"],
+	["last week's blog post", "https://svelte.dev/blog/streaming-snapshots-sveltekit"],
+	["SvelteHack", "https://hack.sveltesociety.dev/"],
+	["SvelteSummit.com", "https://www.sveltesummit.com/"],
+	["#8838", "https://github.com/sveltejs/kit/pull/8838"],
+	["Docs", "https://kit.svelte.dev/docs/page-options#config"],
+	["#8740", "https://github.com/sveltejs/kit/pull/8740"],
+	["Docs", "https://kit.svelte.dev/docs/snapshots"],
+	["#8710", "https://github.com/sveltejs/kit/pull/8710"],
+	["Docs", "https://kit.svelte.dev/docs/routing#server"],
+	["#8731", "https://github.com/sveltejs/kit/pull/8731"],
+	["#9055", "https://github.com/sveltejs/kit/pull/9055"],
+	["Docs", "https://kit.svelte.dev/docs/load#streaming-with-promises"],
+	["#8901", "https://github.com/sveltejs/kit/pull/8901"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#output"],
+	["#9179", "https://github.com/sveltejs/kit/pull/9179"],
+	["Docs", "https://kit.svelte.dev/docs/configuration#paths"],
+	["#9220", "https://github.com/sveltejs/kit/pull/9220"],
+	["#445", "https://github.com/sveltejs/sites/pull/445"],
+	["#1889", "https://github.com/sveltejs/language-tools/pull/1889"],
+	["#1878", "https://github.com/sveltejs/language-tools/pull/1878"],
+	[
+		"TypeScript Inlay Hints",
+		"https://code.visualstudio.com/docs/typescript/typescript-editing#_inlay-hints"
+	],
+	["#1855", "https://github.com/sveltejs/language-tools/pull/1855"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["win32.run", "https://github.com/ducbao414/win32.run"],
+	["Svelte Radial Menu", "https://github.com/tglide/svelte-radial-menu"],
+	["Rauno's radial menu", "https://rauno.me/craft/radial-menu"],
+	["apod color search", "https://github.com/brycedorn/apod-color-search"],
+	[
+		"SvHighlight",
+		"https://www.reddit.com/r/sveltejs/comments/10pvqfm/svhighlight_a_code_highlighter_for_sveltekit_and/"
+	],
+	["Limey", "https://limey.io/"],
+	["a/links", "https://a-links.io/"],
+	["Sprint Cards", "https://sprint.cards"],
+	["Plought", "https://github.com/rossrobino/plought"],
+	["ArcOS-Frontend", "https://github.com/IzK-ArcOS/ArcOS-Frontend"],
+	["Poxi", "https://poxi.page"],
+	["demo-threlte-scroller-rocinante", "https://twitter.com/a_warnes/status/1629235313808744449"],
+	["Phonics + Stuff", "https://www.phonicsandstuff.com/"],
+	[
+		"Streaming, snapshots, and other new features since SvelteKit 1.0",
+		"https://svelte.dev/blog/streaming-snapshots-sveltekit"
+	],
+	[
+		"View Transition Experiments with Svelte",
+		"https://geoffrich.net/posts/view-transition-experiments/"
+	],
+	[
+		"Native Page Transitions in SvelteKit (updated for 2023",
+		"https://geoffrich.net/posts/page-transitions-1/)"
+	],
+	[
+		"Ron Au's story and how to be whimsical!",
+		"https://www.svelteradio.com/episodes/ron-aus-story-and-how-to-be-whimsical"
+	],
+	["SvelteKit 1.0 with Rich Harris", "https://podrocket.logrocket.com/sveltekit"],
+	["Svelte Society Africa", "https://twitter.com/SvelteAfrica/status/1620526757593116672?s=20"],
+	["SvelteKit overview with Simon and Dominik", "https://www.youtube.com/watch?v=CiOigf4FbNg"],
+	[
+		"Delightful Web Development with SvelteKit",
+		"https://workshops.thisdot.co/learn/developing-with-sveltekit"
+	],
+	[
+		"Have More Control Over Layouts With Group Layouts In SvelteKit",
+		"https://www.youtube.com/watch?v=9UpaKEVuErs"
+	],
+	["Learn SvelteKit Hooks Through 6 Examples", "https://www.youtube.com/watch?v=Kzrz7GZ9pIg"],
+	[
+		"Svelte Kit Creating Popup Modals with Tailwind CSS",
+		"https://www.youtube.com/watch?v=qI4-q7SA7uM"
+	],
+	[
+		"SvelteKit: Creating Dynamic Tables with Tailwind CSS",
+		"https://www.youtube.com/watch?v=QqoYrdzoSSk"
+	],
+	["Svelte Language Server Example", "https://github.com/volarjs/svelte-language-tools"],
+	[
+		"How I Made My App 2.4x Faster Switching to Svelte",
+		"https://blog.flotes.app/posts/flotes-2x-faster"
+	],
+	[
+		"Smooth Page Transitions with SvelteKit",
+		"https://www.philkruft.dev/blog/smooth-page-transitions-with-sveltekit/"
+	],
+	[
+		"How to Build a Static SvelteKit Site",
+		"https://www.philkruft.dev/blog/how-to-build-a-static-sveltekit-site/"
+	],
+	[
+		"Blazing fast PWAs with SEO power using SvelteKit and Ionic",
+		"https://ionic.io/blog/pwas-using-sveltekit-and-ionic"
+	],
+	[
+		"Svelte Stores Tutorial: Share Data Between Multiple Components",
+		"https://learnjavascripts.com/development/web-development/frameworks/svelte/svelte-stores-tutorial-share-data-between-multiple-components/"
+	],
+	["A Business Case for SvelteKit", "https://elliscs.hashnode.dev/a-business-case-for-sveltekit"],
+	[
+		"How to set up a new Svelte project with SvelteKit",
+		"https://www.inow.dev/how-to-set-up-a-new-svelte-project-with-sveltekit/"
+	],
+	[
+		"How to type Events, Slots, and Props in Svelte",
+		"https://raqueebuddinaziz.com/blog/svelte-type-events-slots-and-props/"
+	],
+	[
+		"Use TypeScript with SvelteKit and Supabase",
+		"https://blog.robino.dev/posts/supabase-sveltekit"
+	],
+	[
+		"Invoking Svelte components from your Ember apps",
+		"https://dev.to/rajasegar/invoking-svelte-components-from-your-ember-apps-58h5"
+	],
+	[
+		"Add a sitemap to your server side rendered SvelteKit website",
+		"https://www.okupter.com/blog/sitemap-server-side-rendered-sveltekit-website"
+	],
+	[
+		"State in URL: the SvelteKit approach",
+		"https://www.okupter.com/blog/state-in-url-the-sveltekit-approach"
+	],
+	[
+		"Display crypto data real-time in a chart using Sveltekit, Chart.js & coincap.io",
+		"https://medium.com/@Heesel/display-crypto-data-real-time-in-a-chart-using-sveltekit-chart-js-coincap-io-70b90d3aac90"
+	],
+	["Pink", "https://pink.appwrite.io/"],
+	["quick-pick", "https://github.com/arabisaldrin/quick-pick"],
+	["Grail UI", "https://github.com/grail-ui/grail-ui"],
+	["svelte-image-comparison", "https://www.npmjs.com/package/svelte-image-comparison"],
+	["simple-font-select", "https://www.npmjs.com/package/simple-font-select"],
+	["svelte-datatables-net", "https://www.npmjs.com/package/svelte-datatables-net"],
+	["svelte-flextable", "https://github.com/Parazeya/svelte-flextable"],
+	[
+		"svelte-algolia-instantsearch",
+		"https://github.com/aymeric-giraudet/svelte-algolia-instantsearch"
+	],
+	["instantsearch.js", "https://github.com/algolia/instantsearch"],
+	["svelte-deep-zoom", "https://www.npmjs.com/package/svelte-deep-zoom"],
+	["SVoast", "https://github.com/gibbu/svoast"],
+	["svelte-otp", "https://github.com/K4UNG/svelte-otp"],
+	["trace-svelte", "https://trace-svelte.vercel.app/"],
+	["Svelte Auth UI", "https://github.com/multiplehats/svelte-auth-ui"],
+	["KitDocs", "https://github.com/svelteness/kit-docs"],
+	["svelte-signature-pad", "https://www.npmjs.com/package/svelte-signature-pad"],
+	["perfect-freehand", "https://github.com/steveruizok/perfect-freehand"],
+	["SvelteKit-Document", "https://github.com/barvian/sveltekit-document"],
+	["SvelteKit Form Data", "https://github.com/stolinski/sk-form-data"],
+	["sveltekit-superforms", "https://github.com/ciscoheat/sveltekit-superforms"],
+	["Houdini", "https://github.com/HoudiniGraphQL/houdini"],
+	["sveltekit-modal-langchain", "https://github.com/semicognitive/sveltekit-modal-langchain"],
+	["sveltekit-modal", "https://github.com/semicognitive/sveltekit-modal"],
+	["mdsvex-excerpt", "https://www.npmjs.com/package/mdsvex-excerpt"],
+	["Svelte Action Balancer", "https://www.npmjs.com/package/svelte-action-balancer"],
+	["svelte-object", "https://github.com/Refzlund/svelte-object"],
+	["svelte-relative-time", "https://www.npmjs.com/package/svelte-relative-time"],
+	["svelte-disable-preload", "https://www.npmjs.com/package/svelte-disable-preload"],
+	["SvelteKit Static Sitemap", "https://github.com/tlaundal/sveltekit-static-sitemap"],
+	[
+		"svelte-intersection-observer-action",
+		"https://www.npmjs.com/package/svelte-intersection-observer-action"
+	],
+	["svelte-sequence", "https://github.com/AlexWarnes/svelte-sequence"],
+	[
+		"@svelte-put/inline-svg",
+		"https://github.com/vnphanquang/svelte-put/tree/main/packages/actions/inline-svg"
+	],
+	["sveltekit-modal", "https://github.com/semicognitive/sveltekit-modal"],
+	["svelte-kit-bot-block", "https://www.npmjs.com/package/svelte-kit-bot-block"],
+	["Svelte Email", "https://github.com/carstenlebek/svelte-email"],
+	["Inertia.js", "https://github.com/inertiajs/inertia"],
+	["svelte-adapter-bun", "https://github.com/gornostay25/svelte-adapter-bun"],
+	["React in Svelte", "https://github.com/frontline-hq/react-in-svelte"],
+	["SvelteKit Redis Session Manager", "https://github.com/etherCorps/SK-Redis-SessionManager"],
+	["Svelte Hackathon", "https://hack.sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["`rootDirs`", "https://www.typescriptlang.org/tsconfig#rootDirs"],
+	["inspiring", "https://twitter.com/shuding_/status/1625263297573400578"],
+	["Inferno", "https://www.infernojs.org/"],
+	["Lexical", "https://lexical.dev/"],
+	["SvelteHack", "https://hack.sveltesociety.dev/"],
+	["#5085", "https://github.com/sveltejs/svelte/issues/5085"],
+	["Docs", "https://svelte.dev/docs#template-syntax-element-directives-on-eventname"],
+	["#6182", "https://github.com/sveltejs/svelte/issues/6182"],
+	["Docs", "https://svelte.dev/docs#run-time-svelte-transition-slide"],
+	["#6518", "https://github.com/sveltejs/svelte/pull/6518"],
+	["Docs", "https://svelte.dev/docs#run-time-svelte-store-writable"],
+	["#6666", "https://github.com/sveltejs/svelte/issues/6666"],
+	[
+		"Docs",
+		"https://svelte.dev/docs#template-syntax-element-directives-bind-property-media-element-bindings"
+	],
+	["#7771", "https://github.com/sveltejs/svelte/issues/7771"],
+	[
+		"Docs",
+		"https://svelte.dev/docs#template-syntax-element-directives-bind-property-image-element-bindings"
+	],
+	["#8082", "https://github.com/sveltejs/svelte/issues/8082"],
+	["#8214", "https://github.com/sveltejs/svelte/issues/8214"],
+	["#7578", "https://github.com/sveltejs/svelte/issues/7578"],
+	["#3310", "https://github.com/sveltejs/svelte/issues/3310"],
+	["#7475", "https://github.com/sveltejs/svelte/issues/7475"],
+	["#7623", "https://github.com/sveltejs/svelte/pull/7623"],
+	["Docs", "https://svelte.dev/docs#run-time-svelte-transition"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["#9287", "https://github.com/sveltejs/kit/pull/9287"],
+	["Docs", "https://kit.svelte.dev/docs/types#public-types-cookies"],
+	["#9425", "https://github.com/sveltejs/kit/pull/9425"],
+	["Docs", "https://kit.svelte.dev/docs/types#public-types-submitfunction"],
+	["#9460", "https://github.com/sveltejs/kit/pull/9460"],
+	["announcement blog post", "https://svelte.dev/blog/zero-config-type-safety"],
+	["Peerbeer", "https://peer.beer/"],
+	["unplaneted", "https://unplaneted.com/"],
+	["PokeBook", "https://github.com/pokegh0st/pokebook"],
+	["papi", "https://papi.run/"],
+	["Mathesar", "https://github.com/centerofci/mathesar"],
+	["SQLite Playground", "https://neil.macmunn.com/sqlite#"],
+	["svgl", "https://github.com/pheralb/svgl"],
+	["Swehl", "https://swehl.com/"],
+	["Codeverter", "https://github.com/TGlide/codeverter"],
+	["Game On Or Not", "https://gameonornot.com/"],
+	["Sveltia CMS", "https://github.com/sveltia/sveltia-cms"],
+	[
+		"Streaming, snapshots, and other new features since SvelteKit 1.0",
+		"https://svelte.dev/blog/streaming-snapshots-sveltekit"
+	],
+	[
+		"Dev Vlog: Rich Harris shows us what's new in Svelte and Kit, March 2023",
+		"https://www.youtube.com/watch?v=vgXgex5E-8g"
+	],
+	["the next one", "https://www.youtube.com/watch?v=MJHO6FSioPI"],
+	["Svelte Society - London February 2023", "https://www.youtube.com/watch?v=RkQ_f7XxdMI"],
+	[
+		"We all live in a Svelte Submarine",
+		"https://www.svelteradio.com/episodes/we-all-live-in-a-svelte-submarine"
+	],
+	[
+		"Building furniture using Svelte with Bert Bengtson",
+		"https://www.svelteradio.com/episodes/building-furniture-using-svelte-with-bert-bengtson"
+	],
+	[
+		"Svelte Hackathon Announcement",
+		"https://www.svelteradio.com/episodes/svelte-hackathon-announcement"
+	],
+	[
+		"LevelUpTuts 6 months later with Scott Tolinski",
+		"https://www.svelteradio.com/episodes/leveluptuts-6-months-later-with-scott-tolinski"
+	],
+	[
+		"I got a cold and had fever dreams about React 😱",
+		"https://www.svelteradio.com/episodes/i-got-a-cold-and-had-fever-dreams-about-react"
+	],
+	[
+		"2023 March 10 - New prompts! Underline your links!",
+		"https://www.youtube.com/watch?v=WiCjQVoE-3k"
+	],
+	[
+		"2023 March 17 - More a11y warnings! How to: Dynamic Form Actions!",
+		"https://www.youtube.com/watch?v=sRhZQ-2VxVU"
+	],
+	[
+		"2023 March 23 - SvelteKit 1.13.0, Vitest and Playwright overview",
+		"https://www.youtube.com/watch?v=vpbhsbg2otg"
+	],
+	[
+		"Full Stack SvelteKit App Deployment Using Vercel And Supabase For $0",
+		"https://www.youtube.com/watch?v=uAF4Yd-gddo"
+	],
+	["Why Is Svelte.js so Popular?", "https://www.youtube.com/watch?v=73Y8Yyg54zc"],
+	[
+		"Interactive Tables in SvelteKit with TanStack Table",
+		"https://www.youtube.com/watch?v=-Zuo3UWjjI8"
+	],
+	[
+		"SvelteKit + GraphQL with Houdini",
+		"https://www.youtube.com/watch?v=ADnaRwQZfqw&list=PLm0ILX0LGQk_220vvpsbyXH2VesRlCm-E"
+	],
+	["Thoughts on Svelte", "https://tyhopp.com/notes/thoughts-on-svelte"],
+	["Storybook", "https://storybook.js.org/blog/storybook-for-sveltekit/"],
+	[
+		"Svelte Authentication Tutorial with Authorizer",
+		"https://thethinks.vercel.app/blog/svelte-authorizer"
+	],
+	[
+		"Use Zod to Validate Forms on the Server with SvelteKit",
+		"https://blog.robino.dev/posts/svelte-zod-error"
+	],
+	[
+		"Do I need a sitemap for my SvelteKit app, and how do I create it?",
+		"https://maier.tech/posts/do-i-need-a-sitemap-for-my-sveltekit-app-and-how-do-i-create-it"
+	],
+	[
+		"Complement zero-effort type safety in SvelteKit with Zod for even more type safety",
+		"https://maier.tech/posts/complement-zero-effort-type-safety-in-sveltekit-with-zod-for-even-more-type-safety"
+	],
+	[
+		"Configuring Turborepo for a SvelteKit monorepo",
+		"https://maier.tech/posts/configuring-turborepo-for-a-sveltekit-monorepo"
+	],
+	[
+		"Adding page transitions in SvelteKit",
+		"https://joshcollinsworth.com/blog/sveltekit-page-transitions"
+	],
+	[
+		"E2E testing with SvelteKit and Playwright",
+		"https://www.okupter.com/blog/e2e-testing-with-sveltekit-and-playwright"
+	],
+	[
+		"Why you should use TypeScript in your next SvelteKit projects",
+		"https://www.okupter.com/blog/sveltekit-with-typescript"
+	],
+	[
+		"Understanding the structure of a SvelteKit project",
+		"https://www.inow.dev/understanding-the-structure-of-a-svelte-kit-project/"
+	],
+	[
+		"Secure Authentication in Svelte using Hooks",
+		"https://dev.to/brewhousedigital/secure-authentication-in-svelte-using-hooks-k5j"
+	],
+	["@vavite/node-loader", "https://github.com/cyco130/vavite/tree/main/packages/node-loader"],
+	["Inlang", "https://github.com/inlang/inlang"],
+	[
+		"looking for feedback",
+		"https://www.reddit.com/r/sveltejs/comments/11ydtui/sveltekit_and_i18n_lets_finally_solve_this_never/"
+	],
+	["Skeleton", "https://www.skeleton.dev/"],
+	[
+		"SvelteKit-integrated-WebSocket",
+		"https://github.com/suhaildawood/SvelteKit-integrated-WebSocket"
+	],
+	["Svelte Legos", "https://github.com/ankurrsinghal/svelte-legos"],
+	["svelte-stored-writable", "https://github.com/efstajas/svelte-stored-writable"],
+	["svelte-virtual", "https://github.com/ghostebony/svelte-virtual"],
+	["chatwithme.chat", "https://github.com/kierangilliam/chatwithme.chat"],
+	["SlickGPT", "https://github.com/ShipBit/slickgpt"],
+	["AI Chat Bestie", "https://github.com/KTruong008/aichatbestie"],
+	["chatgpt-svelte", "https://github.com/ichbtrv/chatgpt-svelte"],
+	["Svelte Hackathon", "https://hack.sveltesociety.dev/"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"],
+	["JoyOfCode", "https://www.youtube.com/@JoyofCodeDev"],
+	["HuntaByte", "https://www.youtube.com/@Huntabyte"],
+	["SvelteHack", "https://hack.sveltesociety.dev/"],
+	["Svelte Summit", "https://www.sveltesummit.com/"],
+	["CHANGELOG", "https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md"],
+	["#9497", "https://github.com/sveltejs/kit/pull/9497"],
+	["#9610", "https://github.com/sveltejs/kit/pull/9610"],
+	["#1958", "https://github.com/sveltejs/language-tools/pull/1958"],
+	["#1957", "https://github.com/sveltejs/language-tools/pull/1957"],
+	["#1939", "https://github.com/sveltejs/language-tools/pull/1939"],
+	["ESLint plugin", "https://github.com/sveltejs/eslint-plugin-svelte"],
+	["ota-meshi", "https://github.com/ota-meshi"],
+	["svelte-eslint-parser", "https://github.com/sveltejs/svelte-eslint-parser"],
+	["share your feedback", "https://github.com/sveltejs/eslint-plugin-svelte/issues"],
+	["Sound of War", "https://soundofwar.art/"],
+	["Syntax FM's swag shop", "https://swag.syntax.fm/"],
+	["Appreciation Jar", "https://appreciation.place/"],
+	["Japanese Jouzu", "https://jp-jouzu.netlify.app/"],
+	["MarkMyImages", "https://www.markmyimages.com/"],
+	["Immich", "https://github.com/immich-app/immich"],
+	["Earbetter", "https://github.com/ryanatkn/earbetter"],
+	["Tune Twisters", "https://tune-twisters.vercel.app/"],
+	["ResponseHunt", "https://www.responsehunt.com/"],
+	["Wolfensvelte 3D", "https://github.com/snuffyDev/Wolfensvelte-3D/"],
+	["Code Solving", "https://code-svelte.vercel.app/"],
+	["Make Bookmarklets", "https://make-bookmarklets.com/"],
+	["GeniePM", "https://genie.pm"],
+	["Bitesized News", "https://bitesized.news/"],
+	["Open Tunings", "https://www.open-tunings.com/"],
+	["BlinkSMS", "https://blinksms.se/#"],
+	["Dev Links", "https://github.com/killswitchh/dev-links"],
+	["Audiogest", "https://audiogest.app/"],
+	["MineSweep", "https://alecames.com/minesweep"],
+	["Biolytics", "https://biolytics.app/"],
+	["Zero share", "https://github.com/ntsd/zero-share"],
+	["Svelte lab", "https://www.sveltelab.dev/"],
+	[
+		"Dev Vlog: April 2023 - TypeScript vs JSDoc, Transitions API, Dominic Gannaway joins Svelte team",
+		"https://www.youtube.com/watch?v=MJHO6FSioPI"
+	],
+	[
+		"Rich Harris on frameworks, the web, and the edge.",
+		"https://www.youtube.com/watch?v=uXCipjbcQfM"
+	],
+	["Svelte & SvelteKit", "https://frontendmasters.com/workshops/svelte-sveltekit/"],
+	[
+		"2023 March 31 - SvelteKit, Svelte; static sites and headless CMS demos",
+		"https://www.youtube.com/watch?v=-YjLubiieYs"
+	],
+	[
+		"2023 April 22 - SvelteKit 1.15.7, skip links, error handling, static assets",
+		"https://www.youtube.com/watch?v=SCMosMo85_8"
+	],
+	[
+		"2023 April 14 - SvelteKit 1.15.5, accessible buttons, advanced toggle state 🧪🔥",
+		"https://www.youtube.com/watch?v=H2kOO5mvUQs"
+	],
+	[
+		"2023 April 21 - SvelteKit 1.15.7, skip links, error handling, static assets",
+		"https://www.youtube.com/watch?v=SCMosMo85_8"
+	],
+	[
+		"Using Svelte in React with Puru Vijay",
+		"https://www.svelteradio.com/episodes/using-svelte-in-react-with-puru-vijay"
+	],
+	["Eric Brehault and Nuclia", "https://www.svelteradio.com/episodes/eric-brehault-and-nuclia"],
+	[
+		"Svelte at AppWrite with Alex Patterson",
+		"https://www.svelteradio.com/episodes/svelte-at-appwrite-with-alex-patterson"
+	],
+	[
+		"Svelte in Research at Dartmouth with Wasita and Eshin",
+		"https://www.svelteradio.com/episodes/svelte-in-research-at-dartmouth-with-wasita-and-eshin"
+	],
+	[
+		"The Complete SvelteKit Course For Building Modern Web Apps",
+		"https://www.youtube.com/watch?v=MoGkX4RvZ38"
+	],
+	["Simple SvelteKit Page Transitions", "https://www.youtube.com/watch?v=gkw1wFIXM_8"],
+	[
+		"Svelte For React Developers | Your Next JavaScript Framework?",
+		"https://www.youtube.com/watch?v=smqE0y0z0CA"
+	],
+	[
+		"Svelte & SvelteKit: The Complete Guide",
+		"https://www.udemy.com/course/svelte-and-sveltekit/?ranMID=39197&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-oN6aTXp3jgDgUps8JCGxcg&LSNPUBID=msYS1Nvjv4c&utm_source=aff-campaign&utm_medium=udemyads"
+	],
+	[
+		"ChatGPT-4 with SvelteKit 🤖 Generative AI on the EDGE 🌍",
+		"https://www.youtube.com/watch?v=Uw5GZg96kD8"
+	],
+	[
+		"Headless WordPress with GraphQL and SvelteKit",
+		"https://www.okupter.com/blog/headless-wordpress-graphql-sveltekit"
+	],
+	[
+		"How to fix the duplicate meta tags issue in SvelteKit",
+		"https://www.okupter.com/blog/sveltekit-fix-duplicate-metatags-issue"
+	],
+	[
+		"How to setup tRPC in a SvelteKit project",
+		"https://raqueebuddinaziz.com/blog/how-to-setup-trpc-in-a-sveltekit-project/"
+	],
+	[
+		"Better Data Visualizations with Svelte",
+		"https://www.newline.co/courses/better-data-visualizations-with-svelte/welcome"
+	],
+	[
+		"Offline App with SvelteKit + SQLite Part 1: Setup WebAssembly SQLite",
+		"https://www.youtube.com/watch?v=Uvnzwp72Ze8"
+	],
+	["Sveltris", "https://github.com/mokshit06/sveltris"],
+	["SwiftMarket", "https://github.com/SwiftMarket/swiftmarket-sveltekit"],
+	["Svelegante", "https://www.npmjs.com/package/svelegante"],
+	["Table Generator", "https://www.table-generator.de/"],
+	["Svelte Animated Headline", "https://www.npmjs.com/package/svelte-animated-headline"],
+	["SvelteKit Music App Example", "https://github.com/tguelcan/music"],
+	["Socio", "https://www.npmjs.com/package/socio"],
+	["Flowbite Svelte", "https://flowbite-svelte.com/"],
+	["Wundergraph", "https://wundergraph.com/blog/introducing_svelte_query_client"],
+	["Lucia", "https://lucia-auth.com/blog/lucia-1"],
+	["svelte-stepper", "https://github.com/efstajas/svelte-stepper"],
+	["Reddit", "https://www.reddit.com/r/sveltejs/"],
+	["Discord", "https://discord.gg/svelte"]
+]

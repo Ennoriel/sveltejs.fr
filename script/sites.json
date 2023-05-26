@@ -1,0 +1,5992 @@
+[
+	{
+		"url": "https://www.npmjs.com",
+		"pages": [
+			{
+				"name": "npm",
+				"link": "https://www.npmjs.com/"
+			},
+			{
+				"name": "headless-svelte-ui",
+				"link": "https://www.npmjs.com/package/@bojalelabs/headless-svelte-ui"
+			},
+			{
+				"name": "@bun-community/sveltekit-adapter-bun",
+				"link": "https://www.npmjs.com/package/@bun-community/sveltekit-adapter-bun"
+			},
+			{
+				"name": "svelte-error-boundary",
+				"link": "https://www.npmjs.com/package/@crownframework/svelte-error-boundary"
+			},
+			{
+				"name": "7ty",
+				"link": "https://www.npmjs.com/package/@jamcart/7ty"
+			},
+			{
+				"name": "Suspense for Svelte",
+				"link": "https://www.npmjs.com/package/@jamcart/suspense"
+			},
+			{
+				"name": "SvelteKit CAS authentication",
+				"link": "https://www.npmjs.com/package/@macfja/sveltekit-cas"
+			},
+			{
+				"name": "@macfja/sveltekit-session",
+				"link": "https://www.npmjs.com/package/@macfja/sveltekit-session"
+			},
+			{
+				"name": "Svelte Story Format",
+				"link": "https://www.npmjs.com/package/@storybook/addon-svelte-csf"
+			},
+			{
+				"name": "set-focus",
+				"link": "https://www.npmjs.com/package/@svackages/set-focus"
+			},
+			{
+				"name": "sveltekit-hook-redirect",
+				"link": "https://www.npmjs.com/package/@svackages/sveltekit-hook-redirect"
+			},
+			{
+				"name": "sveltkit-hook-html-minifier",
+				"link": "https://www.npmjs.com/package/@svackages/sveltkit-hook-html-minifier"
+			},
+			{
+				"name": "@svelte-drama/suspense",
+				"link": "https://www.npmjs.com/package/@svelte-drama/suspense"
+			},
+			{
+				"name": "SWR for Svelte",
+				"link": "https://www.npmjs.com/package/@svelte-drama/swr"
+			},
+			{
+				"name": "Aksel",
+				"link": "https://www.npmjs.com/package/aksel"
+			},
+			{
+				"name": "Felte",
+				"link": "https://www.npmjs.com/package/felte"
+			},
+			{
+				"name": "iconsax-svelte",
+				"link": "https://www.npmjs.com/package/iconsax-svelte"
+			},
+			{
+				"name": "json2dir",
+				"link": "https://www.npmjs.com/package/json2dir"
+			},
+			{
+				"name": "mdsvex-excerpt",
+				"link": "https://www.npmjs.com/package/mdsvex-excerpt"
+			},
+			{
+				"name": "rx-svelte-forms",
+				"link": "https://www.npmjs.com/package/rx-svelte-forms"
+			},
+			{
+				"name": "Sapper Netlify",
+				"link": "https://www.npmjs.com/package/sapper-netlify"
+			},
+			{
+				"name": "simple-font-select",
+				"link": "https://www.npmjs.com/package/simple-font-select"
+			},
+			{
+				"name": "sirv-cli",
+				"link": "https://www.npmjs.com/package/sirv-cli"
+			},
+			{
+				"name": "Socio",
+				"link": "https://www.npmjs.com/package/socio"
+			},
+			{
+				"name": "Svelegante",
+				"link": "https://www.npmjs.com/package/svelegante"
+			},
+			{
+				"name": "svelte",
+				"link": "https://www.npmjs.com/package/svelte"
+			},
+			{
+				"name": "Svelte Action Balancer",
+				"link": "https://www.npmjs.com/package/svelte-action-balancer"
+			},
+			{
+				"name": "svelte-advanced-multistep-form",
+				"link": "https://www.npmjs.com/package/svelte-advanced-multistep-form"
+			},
+			{
+				"name": "Svelte Animated Headline",
+				"link": "https://www.npmjs.com/package/svelte-animated-headline"
+			},
+			{
+				"name": "`svelte-check`",
+				"link": "https://www.npmjs.com/package/svelte-check"
+			},
+			{
+				"name": "Svelte Checklist",
+				"link": "https://www.npmjs.com/package/svelte-checklist"
+			},
+			{
+				"name": "svelte-colourpicker",
+				"link": "https://www.npmjs.com/package/svelte-colourpicker"
+			},
+			{
+				"name": "svelte-datatables-net",
+				"link": "https://www.npmjs.com/package/svelte-datatables-net"
+			},
+			{
+				"name": "svelte-deep-zoom",
+				"link": "https://www.npmjs.com/package/svelte-deep-zoom"
+			},
+			{
+				"name": "svelte-disable-preload",
+				"link": "https://www.npmjs.com/package/svelte-disable-preload"
+			},
+			{
+				"name": "svelte-entity-store",
+				"link": "https://www.npmjs.com/package/svelte-entity-store"
+			},
+			{
+				"name": "svelte-ethers-store",
+				"link": "https://www.npmjs.com/package/svelte-ethers-store"
+			},
+			{
+				"name": "Svelte Form Helper",
+				"link": "https://www.npmjs.com/package/svelte-form-helper"
+			},
+			{
+				"name": "svelte-image-comparison",
+				"link": "https://www.npmjs.com/package/svelte-image-comparison"
+			},
+			{
+				"name": "svelte-injector",
+				"link": "https://www.npmjs.com/package/svelte-injector"
+			},
+			{
+				"name": "svelte-intersection-observer-action",
+				"link": "https://www.npmjs.com/package/svelte-intersection-observer-action"
+			},
+			{
+				"name": "Svelte Inview",
+				"link": "https://www.npmjs.com/package/svelte-inview"
+			},
+			{
+				"name": "svelte-kit-bot-block",
+				"link": "https://www.npmjs.com/package/svelte-kit-bot-block"
+			},
+			{
+				"name": "svelte-lookat",
+				"link": "https://www.npmjs.com/package/svelte-lookat"
+			},
+			{
+				"name": "Svelte Micro",
+				"link": "https://www.npmjs.com/package/svelte-micro"
+			},
+			{
+				"name": "Svelte MP3",
+				"link": "https://www.npmjs.com/package/svelte-mp3"
+			},
+			{
+				"name": "svelte-regex-router",
+				"link": "https://www.npmjs.com/package/svelte-regex-router"
+			},
+			{
+				"name": "svelte-relative-time",
+				"link": "https://www.npmjs.com/package/svelte-relative-time"
+			},
+			{
+				"name": "svelte-signature-pad",
+				"link": "https://www.npmjs.com/package/svelte-signature-pad"
+			},
+			{
+				"name": "svelte-stack-router",
+				"link": "https://www.npmjs.com/package/svelte-stack-router"
+			},
+			{
+				"name": "svelte-transition",
+				"link": "https://www.npmjs.com/package/svelte-transition"
+			},
+			{
+				"name": "svelte-typed-context",
+				"link": "https://www.npmjs.com/package/svelte-typed-context"
+			},
+			{
+				"name": "svelte-wc-bind",
+				"link": "https://www.npmjs.com/package/svelte-wc-bind"
+			},
+			{
+				"name": "svelte2dts",
+				"link": "https://www.npmjs.com/package/svelte2dts"
+			},
+			{
+				"name": "sveltekit-flash-message",
+				"link": "https://www.npmjs.com/package/sveltekit-flash-message"
+			},
+			{
+				"name": "sveltio",
+				"link": "https://www.npmjs.com/package/sveltio"
+			},
+			{
+				"name": "the TypeScript plugin",
+				"link": "https://www.npmjs.com/package/typescript-svelte-plugin"
+			},
+			{
+				"name": "unplugin-svelte-components",
+				"link": "https://www.npmjs.com/package/unplugin-svelte-components"
+			}
+		]
+	},
+	{
+		"url": "https://twitter.com",
+		"pages": [
+			{
+				"name": "Mateo Morris",
+				"link": "https://twitter.com/_mateomorris"
+			},
+			{
+				"name": "Menger Sponge",
+				"link": "https://twitter.com/a_warnes/status/1536215896078811137"
+			},
+			{
+				"name": "canno",
+				"link": "https://twitter.com/a_warnes/status/1556724034959818754?s=20&t=RyKWALPByqMT5A_PkLtUew"
+			},
+			{
+				"name": "demo-threlte-scroller-rocinante",
+				"link": "https://twitter.com/a_warnes/status/1629235313808744449"
+			},
+			{
+				"name": "Adam",
+				"link": "https://twitter.com/adamstac"
+			},
+			{
+				"name": "Ben Holmes",
+				"link": "https://twitter.com/bholmesdev"
+			},
+			{
+				"name": "SvelteKit with Netlify Edge Functions",
+				"link": "https://twitter.com/BrittneyPostma/status/1603402599742537729?s=20&t=Lw08QNMpdEP1JZzMQGXLDA"
+			},
+			{
+				"name": "proof",
+				"link": "https://twitter.com/BrittneyPostma/status/1615381017300271104"
+			},
+			{
+				"name": "Gen Ashley",
+				"link": "https://twitter.com/coderinheels"
+			},
+			{
+				"name": "Austin Crim",
+				"link": "https://twitter.com/crim_codes"
+			},
+			{
+				"name": "Simon",
+				"link": "https://twitter.com/dummdidumm_/"
+			},
+			{
+				"name": "What happened in #Svelte language tools this year",
+				"link": "https://twitter.com/dummdidumm_/status/1474158105395179525?t=ytj2K2Q52iD5-lNyLnQaAQ&s=19"
+			},
+			{
+				"name": "Demo",
+				"link": "https://twitter.com/dummdidumm_/status/1532459709604716544/photo/1"
+			},
+			{
+				"name": "has joined Vercel to work on Svelte full-time",
+				"link": "https://twitter.com/dummdidumm_/status/1549041206348222464"
+			},
+			{
+				"name": "pngwn",
+				"link": "https://twitter.com/evilpingwin"
+			},
+			{
+				"name": "Evyatar Alush",
+				"link": "https://twitter.com/evyataral"
+			},
+			{
+				"name": "Geoff Rich",
+				"link": "https://twitter.com/geoffrich_"
+			},
+			{
+				"name": "JS Party: 1Password",
+				"link": "https://twitter.com/geoffrich_/status/1441816829853253640?s=20"
+			},
+			{
+				"name": "Geoff Rich's page transitions demo",
+				"link": "https://twitter.com/geoffrich_/status/1534980702785003520"
+			},
+			{
+				"name": "100.000 Corona deaths in Germany",
+				"link": "https://twitter.com/h_i_g_s_c_h/status/1463767113563353089?s=20"
+			},
+			{
+				"name": "Jerod",
+				"link": "https://twitter.com/jerodsanto"
+			},
+			{
+				"name": "Jesse Skinner",
+				"link": "https://twitter.com/JesseSkinner"
+			},
+			{
+				"name": "Jim Fisk",
+				"link": "https://twitter.com/jimafisk"
+			},
+			{
+				"name": "Kellen Mace",
+				"link": "https://twitter.com/kellenmace"
+			},
+			{
+				"name": "Ken Kunz",
+				"link": "https://twitter.com/kennethkunz"
+			},
+			{
+				"name": "Kevin Bridges",
+				"link": "https://twitter.com/kevinast"
+			},
+			{
+				"name": "Kevin",
+				"link": "https://twitter.com/kevmodrome"
+			},
+			{
+				"name": "Kevin announced",
+				"link": "https://twitter.com/kevmodrome/status/1463151477174714373"
+			},
+			{
+				"name": "going full-time to lead SvelteSociety",
+				"link": "https://twitter.com/kevmodrome/status/1463151477174714373"
+			},
+			{
+				"name": "lukeed",
+				"link": "https://twitter.com/lukeed05"
+			},
+			{
+				"name": "one less .jpg!",
+				"link": "https://twitter.com/miketaylr/status/227056824275333120"
+			},
+			{
+				"name": "diffing isn't free",
+				"link": "https://twitter.com/pcwalton/status/1015694528857047040"
+			},
+			{
+				"name": "This @NobelPeaceOslo exhibition",
+				"link": "https://twitter.com/perbyhring/status/1504754949791621120"
+			},
+			{
+				"name": "Twitter thread",
+				"link": "https://twitter.com/puruvjdev/status/1426267327687847939"
+			},
+			{
+				"name": "Rich Harris",
+				"link": "https://twitter.com/rich_harris"
+			},
+			{
+				"name": "Rich Harris",
+				"link": "https://twitter.com/rich_harris"
+			},
+			{
+				"name": "Rich",
+				"link": "https://twitter.com/Rich_Harris/"
+			},
+			{
+				"name": "reply to this Twitter thread",
+				"link": "https://twitter.com/Rich_Harris/status/1323376048571121665"
+			},
+			{
+				"name": "love",
+				"link": "https://twitter.com/Rich_Harris/status/1589675637195042817"
+			},
+			{
+				"name": "code splitting",
+				"link": "https://twitter.com/samccone/status/797528710085652480"
+			},
+			{
+				"name": "inspiring",
+				"link": "https://twitter.com/shuding_/status/1625263297573400578"
+			},
+			{
+				"name": "Alex Russell",
+				"link": "https://twitter.com/slightlylate"
+			},
+			{
+				"name": "hasn't been making many friends in the framework community lately",
+				"link": "https://twitter.com/slightlylate/status/728355959022587905"
+			},
+			{
+				"name": "Steph Dietz",
+				"link": "https://twitter.com/steph_dietz_"
+			},
+			{
+				"name": "Steph’s",
+				"link": "https://twitter.com/steph_dietz_"
+			},
+			{
+				"name": "Scott Tolinski",
+				"link": "https://twitter.com/stolinski"
+			},
+			{
+				"name": "Svelte Society Africa",
+				"link": "https://twitter.com/SvelteAfrica/status/1620526757593116672?s=20"
+			},
+			{
+				"name": "@sveltejs",
+				"link": "https://twitter.com/sveltejs"
+			},
+			{
+				"name": "@sveltejs",
+				"link": "https://twitter.com/sveltejs"
+			},
+			{
+				"name": "@sveltejs",
+				"link": "https://twitter.com/sveltejs"
+			},
+			{
+				"name": "@SvelteSociety",
+				"link": "https://twitter.com/SvelteSociety"
+			},
+			{
+				"name": "Twitter",
+				"link": "https://twitter.com/SvelteSociety"
+			},
+			{
+				"name": "Dominic Gannaway",
+				"link": "https://twitter.com/trueadm"
+			},
+			{
+				"name": "getting in on the action",
+				"link": "https://twitter.com/trueadm/status/944908776896978946"
+			},
+			{
+				"name": "Prepack research",
+				"link": "https://twitter.com/trueadm/status/944908776896978946"
+			},
+			{
+				"name": "Evan You",
+				"link": "https://twitter.com/youyuxi"
+			}
+		]
+	},
+	{
+		"url": "https://www.reddit.com",
+		"pages": [
+			{
+				"name": "Svelte subreddit",
+				"link": "https://www.reddit.com/r/sveltejs"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/"
+			},
+			{
+				"name": "SvHighlight",
+				"link": "https://www.reddit.com/r/sveltejs/comments/10pvqfm/svhighlight_a_code_highlighter_for_sveltekit_and/"
+			},
+			{
+				"name": "looking for feedback",
+				"link": "https://www.reddit.com/r/sveltejs/comments/11ydtui/sveltekit_and_i18n_lets_finally_solve_this_never/"
+			},
+			{
+				"name": "u/loopcake got SSR working in Java Spring Boot",
+				"link": "https://www.reddit.com/r/sveltejs/comments/jkh5up/svelte_ssr_but_its_java_spring_boot_and_its_native/"
+			},
+			{
+				"name": "svelte-split-pane",
+				"link": "https://www.reddit.com/r/sveltejs/comments/leoe33/sveltesplitpane/"
+			},
+			{
+				"name": "conversation on Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/comments/oearb9/learning_to_cook_at_home_with_parsnip_built/"
+			},
+			{
+				"name": "looking for feedback on the Svelte subreddit",
+				"link": "https://www.reddit.com/r/sveltejs/comments/qzgo3k/svelte_summit_feedback/"
+			},
+			{
+				"name": "looking for feedback",
+				"link": "https://www.reddit.com/r/sveltejs/comments/r6354j/svelteforms_v2_has_been_released/"
+			},
+			{
+				"name": "reporting significant performance improvements",
+				"link": "https://www.reddit.com/r/sveltejs/comments/rljhfc/sveltekit_massive_compiler_improvement_by/"
+			},
+			{
+				"name": "Reddit",
+				"link": "https://www.reddit.com/r/sveltejs/comments/s9n8ou/new_rules/"
+			},
+			{
+				"name": "Svelte Headless UI Component Library",
+				"link": "https://www.reddit.com/r/sveltejs/comments/ueu849/svelte_headless_ui_component_library/"
+			},
+			{
+				"name": "Apple Beta Music",
+				"link": "https://www.reddit.com/r/sveltejs/comments/v7ic2s/apple_beta_music_uses_svelte/"
+			},
+			{
+				"name": "Quality of Life Tips when using SvelteKit in VS Code",
+				"link": "https://www.reddit.com/r/sveltejs/comments/xltgyp/quality_of_life_tips_when_using_sveltekit_in_vs/"
+			},
+			{
+				"name": "threlte v5.0",
+				"link": "https://www.reddit.com/r/sveltejs/comments/ywit18/threlte_v50_is_here_a_completely_new_developer/"
+			}
+		]
+	},
+	{
+		"url": "https://dev.to",
+		"pages": [
+			{
+				"name": "Svelte-Cubed: Adding Motion to 3D Scenes",
+				"link": "https://dev.to/alexwarnes/svelte-cubed-adding-motion-to-3d-scenes-51lo"
+			},
+			{
+				"name": "Svelte-Cubed: Creating an Accessible and Consistent Experience Across Devices",
+				"link": "https://dev.to/alexwarnes/svelte-cubed-creating-an-accessible-and-consistent-experience-across-devices-42ae"
+			},
+			{
+				"name": "Svelte-Cubed: Loading Your glTF Models",
+				"link": "https://dev.to/alexwarnes/svelte-cubed-loading-your-gltf-models-14lf"
+			},
+			{
+				"name": "Secure Authentication in Svelte using Hooks",
+				"link": "https://dev.to/brewhousedigital/secure-authentication-in-svelte-using-hooks-k5j"
+			},
+			{
+				"name": "ActionStore: Real-time Svelte stores for Rails",
+				"link": "https://dev.to/buhrmi/actionstore-real-time-svelte-stores-for-rails-4jhg"
+			},
+			{
+				"name": ".NET Core and Svelte",
+				"link": "https://dev.to/cainux/net-core-and-svelte-f8o"
+			},
+			{
+				"name": "How to make declarative (code-based router instead of file-based router in SvelteKit",
+				"link": "https://dev.to/devpunk/how-to-make-declarativecode-based-router-instead-of-file-based-router-in-sveltekit-2-3dd4)"
+			},
+			{
+				"name": "Using Fauna's streaming feature to build a chat with Svelte",
+				"link": "https://dev.to/fauna/using-fauna-s-streaming-feature-to-build-a-chat-with-svelte-1gkd"
+			},
+			{
+				"name": "Why I failed to create the \"Solid.js's store\" for Svelte, and announcing svelte-store-tree v0.3.1",
+				"link": "https://dev.to/igrep/why-i-failed-to-create-the-solidjss-store-for-svelte-and-announcing-svelte-store-tree-v031-1am2"
+			},
+			{
+				"name": "React ⇆ Svelte Cheatsheet",
+				"link": "https://dev.to/joshnuss/react-to-svelte-cheatsheet-1a2a"
+			},
+			{
+				"name": "DIY SvelteKit CDK adapter",
+				"link": "https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp"
+			},
+			{
+				"name": "Animate on scroll with Svelte Inview - Little Bits",
+				"link": "https://dev.to/maciekgrzybek/animate-on-scroll-with-svelte-inview-266f"
+			},
+			{
+				"name": "Define routes via JS in SvelteKit",
+				"link": "https://dev.to/maxcore/define-routes-via-js-in-sveltekit-27e9"
+			},
+			{
+				"name": "Mutating Query Params in SvelteKit Without Page Reloads or Navigations",
+				"link": "https://dev.to/mohamadharith/mutating-query-params-in-sveltekit-without-page-reloads-or-navigations-2i2b"
+			},
+			{
+				"name": "Mutating Query Params in SvelteKit Without Page Reloads or Navigations",
+				"link": "https://dev.to/mohamadharith/mutating-query-params-in-sveltekit-without-page-reloads-or-navigations-2i2b"
+			},
+			{
+				"name": "Workaround for Bubbling Custom Events in Svelte",
+				"link": "https://dev.to/mohamadharith/workaround-for-bubbling-custom-events-in-svelte-3khk"
+			},
+			{
+				"name": "What's new in `svelte-kit, 1.0.0-next.445`: (group layout",
+				"link": "https://dev.to/parables/whats-new-in-svelte-kit-100-next445-group-layout-1ld5)"
+			},
+			{
+				"name": "SvelteKit JWT authentication tutorial",
+				"link": "https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34"
+			},
+			{
+				"name": "Amazing macOS Dock animation in Svelte",
+				"link": "https://dev.to/puruvj/amazing-macos-dock-animation-in-svelte-5hfb"
+			},
+			{
+				"name": "Invoking Svelte components from your Ember apps",
+				"link": "https://dev.to/rajasegar/invoking-svelte-components-from-your-ember-apps-58h5"
+			},
+			{
+				"name": "How to build a full stack serverless application with Svelte and GraphQL",
+				"link": "https://dev.to/shadid12/how-to-build-a-full-stack-serverless-application-with-svelte-graphql-and-fauna-5427"
+			},
+			{
+				"name": "One-click Portfolio/Personal blog generator from dev.to API ",
+				"link": "https://dev.to/shriji/one-click-portfolio-personal-blog-generator-from-dev-to-api-3apb"
+			},
+			{
+				"name": "FullStack JWT Auth: Introducing SvelteKit",
+				"link": "https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn"
+			},
+			{
+				"name": "Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout",
+				"link": "https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k"
+			},
+			{
+				"name": "Integrating Telegram api with SvelteKit",
+				"link": "https://dev.to/theether0/integrating-telegram-api-with-sveltekit-5gb"
+			},
+			{
+				"name": "Redis Integration in SvelteKit: A Game-Changer for Session Management",
+				"link": "https://dev.to/theether0/redis-integration-in-sveltekit-a-game-changer-for-session-management-84i"
+			},
+			{
+				"name": "Advanced Layouts",
+				"link": "https://dev.to/theether0/sveltekit-changes-advanced-layouts-3id4"
+			},
+			{
+				"name": "Form Actions and Progressive Enhancement",
+				"link": "https://dev.to/theether0/sveltekit-changes-form-actions-and-progressive-enhancement-31h9"
+			},
+			{
+				"name": "Cookies and Authentication",
+				"link": "https://dev.to/theether0/sveltekit-changes-session-and-cookies-enb"
+			},
+			{
+				"name": "Svelte for Appwrite",
+				"link": "https://dev.to/torstendittmann/svelte-for-appwrite-4fkg"
+			}
+		]
+	},
+	{
+		"url": "https://discord.com",
+		"pages": [
+			{
+				"name": "questions channel",
+				"link": "https://discord.com/channels/457912077277855764/1023340103071965194"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/channels/457912077277855764/831611707667382303/935264550436102315"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.com/invite/yy75DKs"
+			}
+		]
+	},
+	{
+		"url": "https://sveltesociety.dev",
+		"pages": [
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "SvelteSociety",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Society",
+				"link": "https://sveltesociety.dev/"
+			},
+			{
+				"name": "a new cheat sheet",
+				"link": "https://sveltesociety.dev/cheatsheet"
+			},
+			{
+				"name": "Components",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "Components",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "Components",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "Component",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "Component",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "Component",
+				"link": "https://sveltesociety.dev/components"
+			},
+			{
+				"name": "contributed adapters",
+				"link": "https://sveltesociety.dev/components#adapters"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates/"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates/"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates/"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates/"
+			},
+			{
+				"name": "sveltesociety.dev",
+				"link": "https://sveltesociety.dev/templates/"
+			}
+		]
+	},
+	{
+		"url": "https://www.svelteradio.com",
+		"pages": [
+			{
+				"name": "Svelte Radio",
+				"link": "https://www.svelteradio.com/"
+			},
+			{
+				"name": "Svelte Radio podcast",
+				"link": "https://www.svelteradio.com/"
+			},
+			{
+				"name": "3D, WebGL and AI",
+				"link": "https://www.svelteradio.com/episodes/3d-webgl-and-ai"
+			},
+			{
+				"name": "All About the Sirens",
+				"link": "https://www.svelteradio.com/episodes/all-about-the-sirens"
+			},
+			{
+				"name": "Building furniture using Svelte with Bert Bengtson",
+				"link": "https://www.svelteradio.com/episodes/building-furniture-using-svelte-with-bert-bengtson"
+			},
+			{
+				"name": "Catching up after Svelte Summit",
+				"link": "https://www.svelteradio.com/episodes/catching-up"
+			},
+			{
+				"name": "Eric Brehault and Nuclia",
+				"link": "https://www.svelteradio.com/episodes/eric-brehault-and-nuclia"
+			},
+			{
+				"name": "Talking Gradio and AI with pngwn 🐧",
+				"link": "https://www.svelteradio.com/episodes/gradio-with-pngwn"
+			},
+			{
+				"name": "I got a cold and had fever dreams about React 😱",
+				"link": "https://www.svelteradio.com/episodes/i-got-a-cold-and-had-fever-dreams-about-react"
+			},
+			{
+				"name": "Inspecting Svelte Code with Dominik G.",
+				"link": "https://www.svelteradio.com/episodes/inspecting-svelte-code-with-dominik-g"
+			},
+			{
+				"name": "Let's talk routing with Rich Harris on Svelte Radio",
+				"link": "https://www.svelteradio.com/episodes/lets-talk-routing-with-rich-harris"
+			},
+			{
+				"name": "LevelUpTuts 6 months later with Scott Tolinski",
+				"link": "https://www.svelteradio.com/episodes/leveluptuts-6-months-later-with-scott-tolinski"
+			},
+			{
+				"name": "Ron Au's story and how to be whimsical!",
+				"link": "https://www.svelteradio.com/episodes/ron-aus-story-and-how-to-be-whimsical"
+			},
+			{
+				"name": "Stores Galore",
+				"link": "https://www.svelteradio.com/episodes/stores-galore"
+			},
+			{
+				"name": "Svelte at AppWrite with Alex Patterson",
+				"link": "https://www.svelteradio.com/episodes/svelte-at-appwrite-with-alex-patterson"
+			},
+			{
+				"name": "Svelte Hackathon Announcement",
+				"link": "https://www.svelteradio.com/episodes/svelte-hackathon-announcement"
+			},
+			{
+				"name": "Svelte in Research at Dartmouth with Wasita and Eshin",
+				"link": "https://www.svelteradio.com/episodes/svelte-in-research-at-dartmouth-with-wasita-and-eshin"
+			},
+			{
+				"name": "episode of Svelte Radio",
+				"link": "https://www.svelteradio.com/episodes/svelte-kit-public-beta"
+			},
+			{
+				"name": "Svelte Radio",
+				"link": "https://www.svelteradio.com/episodes/svelte-summit-is-coming-up-and-svelte-is-growing"
+			},
+			{
+				"name": "on Svelte Radio",
+				"link": "https://www.svelteradio.com/episodes/svelte-summit-party-episode"
+			},
+			{
+				"name": "The Adventures of Running a Svelte Meetup",
+				"link": "https://www.svelteradio.com/episodes/the-adventures-of-running-a-svelte-meetup"
+			},
+			{
+				"name": "The other Rich! Geoff! (feat. Geoff Rich",
+				"link": "https://www.svelteradio.com/episodes/the-other-rich-geoff)"
+			},
+			{
+				"name": "The Svelte Documentary is out!",
+				"link": "https://www.svelteradio.com/episodes/the-svelte-documentary-is-out"
+			},
+			{
+				"name": "Using Svelte in React with Puru Vijay",
+				"link": "https://www.svelteradio.com/episodes/using-svelte-in-react-with-puru-vijay"
+			},
+			{
+				"name": "We all live in a Svelte Submarine",
+				"link": "https://www.svelteradio.com/episodes/we-all-live-in-a-svelte-submarine"
+			}
+		]
+	},
+	{
+		"url": "https://geoffrich.net",
+		"pages": [
+			{
+				"name": "4 things I miss from Svelte after working in React",
+				"link": "https://geoffrich.net/posts/4-things-i-miss-svelte/"
+			},
+			{
+				"name": "Advent of SvelteKit 2022: my favorite demos",
+				"link": "https://geoffrich.net/posts/advent-of-sveltekit-2022/"
+			},
+			{
+				"name": "Some assorted Svelte demos",
+				"link": "https://geoffrich.net/posts/assorted-svelte-demos/"
+			},
+			{
+				"name": "4 tips for cleaner Svelte components",
+				"link": "https://geoffrich.net/posts/clean-component-tips/"
+			},
+			{
+				"name": "Local constants in Svelte with the @const tag",
+				"link": "https://geoffrich.net/posts/local-constants/"
+			},
+			{
+				"name": "Progressively enhancing the Marvel By Year filter",
+				"link": "https://geoffrich.net/posts/marvel-filter-state/"
+			},
+			{
+				"name": "Native Page Transitions in SvelteKit: Part 1",
+				"link": "https://geoffrich.net/posts/page-transitions-1/"
+			},
+			{
+				"name": "Native Page Transitions in SvelteKit (updated for 2023",
+				"link": "https://geoffrich.net/posts/page-transitions-1/)"
+			},
+			{
+				"name": "How to use Svelte's style directive",
+				"link": "https://geoffrich.net/posts/style-directives/"
+			},
+			{
+				"name": "Quick tip: style prop defaults",
+				"link": "https://geoffrich.net/posts/style-prop-defaults/"
+			},
+			{
+				"name": "The many meanings of $ in Svelte",
+				"link": "https://geoffrich.net/posts/svelte-$-meanings/"
+			},
+			{
+				"name": "What Svelte's accessibility warnings won't tell you",
+				"link": "https://geoffrich.net/posts/svelte-a11y-limits/"
+			},
+			{
+				"name": "Svelte's lifecycle methods can be used anywhere",
+				"link": "https://geoffrich.net/posts/svelte-lifecycle-examples/"
+			},
+			{
+				"name": "A Svelte store for prefers-reduced-motion",
+				"link": "https://geoffrich.net/posts/svelte-prefers-reduced-motion-store/"
+			},
+			{
+				"name": "How Svelte scopes component styles",
+				"link": "https://geoffrich.net/posts/svelte-scoped-styles/"
+			},
+			{
+				"name": "Create dynamic social card images with Svelte components",
+				"link": "https://geoffrich.net/posts/svelte-social-image/"
+			},
+			{
+				"name": "Geoff's site",
+				"link": "https://geoffrich.net/posts/svelte-summit-2021/"
+			},
+			{
+				"name": "Solving the Tower of Hanoi with recursive Svelte templates",
+				"link": "https://geoffrich.net/posts/svelte-tower-of-hanoi/"
+			},
+			{
+				"name": "Building tic-tac-toe with Svelte",
+				"link": "https://geoffrich.net/posts/tic-tac-toe/"
+			},
+			{
+				"name": "View Transition Experiments with Svelte",
+				"link": "https://geoffrich.net/posts/view-transition-experiments/"
+			}
+		]
+	},
+	{
+		"url": "https://www.sveltesummit.com",
+		"pages": [
+			{
+				"name": "Svelte Summit Spring",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit: Spring",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "YouTube",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Get your tickets now",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Get your tickets now",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Join us on Sept 8-9th",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "SvelteSummit.com",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://www.sveltesummit.com/"
+			},
+			{
+				"name": "looking for speakers",
+				"link": "https://www.sveltesummit.com/#speakers"
+			},
+			{
+				"name": "sponsors",
+				"link": "https://www.sveltesummit.com/sponsors"
+			}
+		]
+	},
+	{
+		"url": "https://vercel.com",
+		"pages": [
+			{
+				"name": "Vercel",
+				"link": "https://vercel.com"
+			},
+			{
+				"name": "Vercel",
+				"link": "https://vercel.com"
+			},
+			{
+				"name": "Guillermo Rauch",
+				"link": "https://vercel.com/about/rauchg"
+			},
+			{
+				"name": "NextAuth.js",
+				"link": "https://vercel.com/blog/announcing-sveltekit-auth"
+			},
+			{
+				"name": "his move to Vercel",
+				"link": "https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"
+			},
+			{
+				"name": "joined Vercel to work on Svelte full-time",
+				"link": "https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"
+			},
+			{
+				"name": "Beginner SvelteKit",
+				"link": "https://vercel.com/docs/beginner-sveltekit"
+			},
+			{
+				"name": "Beginner SvelteKit",
+				"link": "https://vercel.com/docs/beginner-sveltekit"
+			},
+			{
+				"name": "Vercel Edge Functions",
+				"link": "https://vercel.com/features/edge-functions"
+			},
+			{
+				"name": "SvelteKit Commerce",
+				"link": "https://vercel.com/templates/svelte/sveltekit-commerce"
+			},
+			{
+				"name": "deploy your own on Vercel",
+				"link": "https://vercel.com/templates/svelte/sveltekit-edge-functions"
+			}
+		]
+	},
+	{
+		"url": "https://www.okupter.com",
+		"pages": [
+			{
+				"name": "Build a SvelteKit application with Docker",
+				"link": "https://www.okupter.com/blog/build-a-sveltekit-application-with-docker"
+			},
+			{
+				"name": "E2E testing with SvelteKit and Playwright",
+				"link": "https://www.okupter.com/blog/e2e-testing-with-sveltekit-and-playwright"
+			},
+			{
+				"name": "Understanding environment variables in SvelteKit",
+				"link": "https://www.okupter.com/blog/environment-variables-in-sveltekit"
+			},
+			{
+				"name": "Headless WordPress with GraphQL and SvelteKit",
+				"link": "https://www.okupter.com/blog/headless-wordpress-graphql-sveltekit"
+			},
+			{
+				"name": "Add a sitemap to your server side rendered SvelteKit website",
+				"link": "https://www.okupter.com/blog/sitemap-server-side-rendered-sveltekit-website"
+			},
+			{
+				"name": "State in URL: the SvelteKit approach",
+				"link": "https://www.okupter.com/blog/state-in-url-the-sveltekit-approach"
+			},
+			{
+				"name": "Svelte and CSS",
+				"link": "https://www.okupter.com/blog/svelte-and-css"
+			},
+			{
+				"name": "How to fix the duplicate meta tags issue in SvelteKit",
+				"link": "https://www.okupter.com/blog/sveltekit-fix-duplicate-metatags-issue"
+			},
+			{
+				"name": "Form validation with SvelteKit and Zod",
+				"link": "https://www.okupter.com/blog/sveltekit-form-validation-with-zod"
+			},
+			{
+				"name": "SvelteKit Internals: Load function",
+				"link": "https://www.okupter.com/blog/sveltekit-internals-load-function"
+			},
+			{
+				"name": "Why you should use TypeScript in your next SvelteKit projects",
+				"link": "https://www.okupter.com/blog/sveltekit-with-typescript"
+			}
+		]
+	},
+	{
+		"url": "https://marketplace.visualstudio.com",
+		"pages": [
+			{
+				"name": "Svelte Component Snippets",
+				"link": "https://marketplace.visualstudio.com/items?itemName=brysonbw.svelte-component-snippets"
+			},
+			{
+				"name": "Svelte Dark",
+				"link": "https://marketplace.visualstudio.com/items?itemName=NickScialli.svelte-dark"
+			},
+			{
+				"name": "Svelte for VS Code extension",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "including one for Svelte",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "official extension",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "VS Code",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "Svelte Extension for VSCode",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "Svelte Extension for VSCode",
+				"link": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
+			},
+			{
+				"name": "Svelte Theme Light",
+				"link": "https://marketplace.visualstudio.com/items?itemName=webmaek.svelte-theme-light"
+			},
+			{
+				"name": "Import Cost",
+				"link": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost"
+			}
+		]
+	},
+	{
+		"url": "https://discord.gg",
+		"pages": [
+			{
+				"name": "#language-tools",
+				"link": "https://discord.gg/enV6v8K"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "Discord",
+				"link": "https://discord.gg/svelte"
+			},
+			{
+				"name": "#svelte-summit channel on Discord",
+				"link": "https://discord.gg/YmHcdnhu"
+			}
+		]
+	},
+	{
+		"url": "https://rodneylab.com",
+		"pages": [
+			{
+				"name": "Svelte Capsize Styling: Typography Tooling",
+				"link": "https://rodneylab.com/svelte-capsize-styling/"
+			},
+			{
+				"name": "Svelte CSS Image Slider: with Bouncy Overscroll",
+				"link": "https://rodneylab.com/svelte-css-image-slider/"
+			},
+			{
+				"name": "Svelte Shy Header: Peekaboo Sticky Header with CSS",
+				"link": "https://rodneylab.com/svelte-shy-header/"
+			},
+			{
+				"name": "SvelteKit Accessibility Testing: Automated CI A11y Tests",
+				"link": "https://rodneylab.com/sveltekit-accessibility-testing/"
+			},
+			{
+				"name": "SvelteKit Content Security Policy: CSP for XSS Protection",
+				"link": "https://rodneylab.com/sveltekit-content-security-policy/"
+			},
+			{
+				"name": "SvelteKit Local Edge Functions: Edge on Localhost",
+				"link": "https://rodneylab.com/sveltekit-local-edge-functions/"
+			},
+			{
+				"name": "SvelteKit Shiki Syntax Highlighting: Markdown Codeblocks",
+				"link": "https://rodneylab.com/sveltekit-shiki-syntax-highlighting/"
+			},
+			{
+				"name": "SvelteKit SSG: how to Prerender your SvelteKit Site",
+				"link": "https://rodneylab.com/sveltekit-ssg/"
+			},
+			{
+				"name": "SvelteKit uvu Testing: Fast Component Unit Tests",
+				"link": "https://rodneylab.com/sveltekit-uvu-testing/"
+			}
+		]
+	},
+	{
+		"url": "https://medium.com",
+		"pages": [
+			{
+				"name": "Tauri with Standard Svelte or SvelteKit",
+				"link": "https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7"
+			},
+			{
+				"name": "here",
+				"link": "https://medium.com/@efergus1/svelvet-5-0-a-community-driven-update-cfcc93e7b7a7"
+			},
+			{
+				"name": "Tailwind + Sveltekit in 2023",
+				"link": "https://medium.com/@gentmitch/tailwind-sveltkit-in-2023-44c19d91c8fd"
+			},
+			{
+				"name": "Display crypto data real-time in a chart using Sveltekit, Chart.js & coincap.io",
+				"link": "https://medium.com/@Heesel/display-crypto-data-real-time-in-a-chart-using-sveltekit-chart-js-coincap-io-70b90d3aac90"
+			},
+			{
+				"name": "Validate your form using Sveltekit, Tailwindcss, Felte and Yup",
+				"link": "https://medium.com/@Heesel/validate-your-form-using-sveltekit-tailwindcss-felte-and-yup-ddc11cd04717"
+			},
+			{
+				"name": "Ionic 6 + Svelte 🚀",
+				"link": "https://medium.com/@raymondboswel/ionic-6-svelte-ae904caa82df"
+			},
+			{
+				"name": "Svelte Components as Web Components",
+				"link": "https://medium.com/@yesmeno/svelte-components-as-web-components-b400d1253504"
+			},
+			{
+				"name": "ADEO Design System: Building a Web Component library with Svelte and Rollup",
+				"link": "https://medium.com/adeo-tech/adeo-design-system-building-a-web-component-library-with-svelte-and-rollup-72d65de50163"
+			}
+		]
+	},
+	{
+		"url": "https://share.transistor.fm",
+		"pages": [
+			{
+				"name": "Svelte Radio: Contributing to Svelte with Martin 'Grygrflzr' Krisnanto Putra",
+				"link": "https://share.transistor.fm/s/10aa305c"
+			},
+			{
+				"name": "Svelte Radio: Routify 3 with Jake and Willow",
+				"link": "https://share.transistor.fm/s/10aa305c"
+			},
+			{
+				"name": "New Year, New Svelte!?",
+				"link": "https://share.transistor.fm/s/36212cdc"
+			},
+			{
+				"name": "Svelte Radio: A Jolly Good Svelte Summer",
+				"link": "https://share.transistor.fm/s/60880542"
+			},
+			{
+				"name": "30",
+				"link": "https://share.transistor.fm/s/6316622d"
+			},
+			{
+				"name": "talked to Svelte Radio",
+				"link": "https://share.transistor.fm/s/84c7521b"
+			},
+			{
+				"name": "29",
+				"link": "https://share.transistor.fm/s/adc23e84"
+			},
+			{
+				"name": "Svelte Radio: Rich Harris is now working full-time on Svelte 🤯",
+				"link": "https://share.transistor.fm/s/d9b04961"
+			}
+		]
+	},
+	{
+		"url": "https://www.captaincodeman.com",
+		"pages": [
+			{
+				"name": "HeadlessUI Components with Svelte",
+				"link": "https://www.captaincodeman.com/headlessui-components-with-svelte"
+			},
+			{
+				"name": "HeadlessUI Components with Svelte",
+				"link": "https://www.captaincodeman.com/headlessui-components-with-svelte"
+			},
+			{
+				"name": "How to await Firebase Auth with SvelteKit",
+				"link": "https://www.captaincodeman.com/how-to-await-firebase-auth-with-sveltekit"
+			},
+			{
+				"name": "Internationalization Formatting with Intl + SSR + SvelteKit",
+				"link": "https://www.captaincodeman.com/internationalization-formatting-with-intl-ssr-sveltekit"
+			},
+			{
+				"name": "Lazy-Loading Firebase with SvelteKit",
+				"link": "https://www.captaincodeman.com/lazy-loading-firebase-with-sveltekit"
+			},
+			{
+				"name": "Speed up SvelteKit Pages With a Redis Cache",
+				"link": "https://www.captaincodeman.com/speed-up-sveltekit-pages-with-a-redis-cache"
+			},
+			{
+				"name": "Speed up SvelteKit Pages With a Redis Cache",
+				"link": "https://www.captaincodeman.com/speed-up-sveltekit-pages-with-a-redis-cache"
+			}
+		]
+	},
+	{
+		"url": "https://changelog.com",
+		"pages": [
+			{
+				"name": "JS Party Ep. 182",
+				"link": "https://changelog.com/jsparty/182"
+			},
+			{
+				"name": "JS Party #205: So much Sveltey goodness (w/ Rich Harris",
+				"link": "https://changelog.com/jsparty/205)"
+			},
+			{
+				"name": "So much Sveltey goodness (featuring Rich Harris",
+				"link": "https://changelog.com/jsparty/205)"
+			},
+			{
+				"name": "The Changelog",
+				"link": "https://changelog.com/podcast"
+			},
+			{
+				"name": "podcast page",
+				"link": "https://changelog.com/podcast/332"
+			}
+		]
+	},
+	{
+		"url": "https://hack.sveltesociety.dev",
+		"pages": [
+			{
+				"name": "SvelteHack",
+				"link": "https://hack.sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Hackathon",
+				"link": "https://hack.sveltesociety.dev/"
+			},
+			{
+				"name": "SvelteHack",
+				"link": "https://hack.sveltesociety.dev/"
+			},
+			{
+				"name": "Svelte Hackathon",
+				"link": "https://hack.sveltesociety.dev/"
+			},
+			{
+				"name": "SvelteHack",
+				"link": "https://hack.sveltesociety.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://maier.tech",
+		"pages": [
+			{
+				"name": "Complement zero-effort type safety in SvelteKit with Zod for even more type safety",
+				"link": "https://maier.tech/posts/complement-zero-effort-type-safety-in-sveltekit-with-zod-for-even-more-type-safety"
+			},
+			{
+				"name": "Configuring Turborepo for a SvelteKit monorepo",
+				"link": "https://maier.tech/posts/configuring-turborepo-for-a-sveltekit-monorepo"
+			},
+			{
+				"name": "Do I need a sitemap for my SvelteKit app, and how do I create it?",
+				"link": "https://maier.tech/posts/do-i-need-a-sitemap-for-my-sveltekit-app-and-how-do-i-create-it"
+			},
+			{
+				"name": "Handling breaking changes in SvelteKit pre-1.0",
+				"link": "https://maier.tech/posts/handling-breaking-changes-in-sveltekit-pre-1-0"
+			},
+			{
+				"name": "Three ways to bootstrap a Svelte project",
+				"link": "https://maier.tech/posts/three-ways-to-bootstrap-a-svelte-project"
+			}
+		]
+	},
+	{
+		"url": "https://opencollective.com",
+		"pages": [
+			{
+				"name": "OpenCollective",
+				"link": "https://opencollective.com/svelte"
+			},
+			{
+				"name": "OpenCollective",
+				"link": "https://opencollective.com/svelte"
+			},
+			{
+				"name": "OpenCollective",
+				"link": "https://opencollective.com/svelte"
+			},
+			{
+				"name": "the project on OpenCollective",
+				"link": "https://opencollective.com/svelte"
+			},
+			{
+				"name": "Open Collective",
+				"link": "https://opencollective.com/svelte"
+			}
+		]
+	},
+	{
+		"url": "https://sveltesirens.dev",
+		"pages": [
+			{
+				"name": "Svelte Sirens",
+				"link": "https://sveltesirens.dev"
+			},
+			{
+				"name": "Svelte Sirens",
+				"link": "https://sveltesirens.dev/"
+			},
+			{
+				"name": "Svelte Sirens",
+				"link": "https://sveltesirens.dev/"
+			},
+			{
+				"name": "Svelte Sirens July Talk - Testing in Svelte with Jess Sachs",
+				"link": "https://sveltesirens.dev/event/testing-in-svelte"
+			},
+			{
+				"name": "the Svelte Sirens website",
+				"link": "https://sveltesirens.dev/events"
+			}
+		]
+	},
+	{
+		"url": "https://sveltesummit.com",
+		"pages": [
+			{
+				"name": "Svelte Summit",
+				"link": "https://sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://sveltesummit.com/"
+			},
+			{
+				"name": "Svelte Summit",
+				"link": "https://sveltesummit.com/"
+			},
+			{
+				"name": "4th Svelte Summit",
+				"link": "https://sveltesummit.com/"
+			}
+		]
+	},
+	{
+		"url": "https://css-tricks.com",
+		"pages": [
+			{
+				"name": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
+				"link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"
+			},
+			{
+				"name": "Great Divide",
+				"link": "https://css-tricks.com/the-great-divide/"
+			},
+			{
+				"name": "Using Custom Elements in Svelte",
+				"link": "https://css-tricks.com/using-custom-elements-in-svelte/"
+			},
+			{
+				"name": "Using Custom Elements in Svelte",
+				"link": "https://css-tricks.com/using-custom-elements-in-svelte/"
+			}
+		]
+	},
+	{
+		"url": "https://developer.mozilla.org",
+		"pages": [
+			{
+				"name": "TypeScript support in Svelte",
+				"link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript"
+			},
+			{
+				"name": "streamed",
+				"link": "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"
+			},
+			{
+				"name": "sessionStorage",
+				"link": "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage"
+			},
+			{
+				"name": "CSS at-rule",
+				"link": "https://developer.mozilla.org/en-US/docs/Web/CSS/@layer"
+			}
+		]
+	},
+	{
+		"url": "https://ghostdev.xyz",
+		"pages": [
+			{
+				"name": "Willow aka GHOST",
+				"link": "https://ghostdev.xyz"
+			},
+			{
+				"name": "Build a cross platform app with Tauri",
+				"link": "https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/"
+			},
+			{
+				"name": "Creating a RSS feed with Sanity and Svelte Kit",
+				"link": "https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit"
+			},
+			{
+				"name": "Working with reduced motion in Svelte",
+				"link": "https://ghostdev.xyz/posts/working-with-reduced-motion-in-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://joshcollinsworth.com",
+		"pages": [
+			{
+				"name": "Let's learn SvelteKit by building a static Markdown blog from scratch",
+				"link": "https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog"
+			},
+			{
+				"name": "Let's learn SvelteKit by building a static Markdown blog from scratch",
+				"link": "https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog"
+			},
+			{
+				"name": "Introducing Svelte, and Comparing Svelte with React and Vue",
+				"link": "https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue"
+			},
+			{
+				"name": "Adding page transitions in SvelteKit",
+				"link": "https://joshcollinsworth.com/blog/sveltekit-page-transitions"
+			}
+		]
+	},
+	{
+		"url": "https://paullj.github.io",
+		"pages": [
+			{
+				"name": "Fast, Lightweight Fuzzy Search using Fuse.js",
+				"link": "https://paullj.github.io/posts/fast-lightweight-fuzzy-search-using-fuse.js"
+			},
+			{
+				"name": "How This Blog Makes the Most of GitHub",
+				"link": "https://paullj.github.io/posts/how-this-blog-makes-the-most-of-github/"
+			},
+			{
+				"name": "Up-To-Date Analytics on a Static Website",
+				"link": "https://paullj.github.io/posts/up-to-date-analytics-on-a-static-website"
+			},
+			{
+				"name": "timb(re",
+				"link": "https://paullj.github.io/timb)"
+			}
+		]
+	},
+	{
+		"url": "https://storybook.js.org",
+		"pages": [
+			{
+				"name": "First-class Vite support in Storybook 7.0",
+				"link": "https://storybook.js.org/blog/first-class-vite-support-in-storybook/"
+			},
+			{
+				"name": "Storybook blog",
+				"link": "https://storybook.js.org/blog/storybook-for-svelte/"
+			},
+			{
+				"name": "Storybook",
+				"link": "https://storybook.js.org/blog/storybook-for-sveltekit/"
+			},
+			{
+				"name": "Storybook for Vite",
+				"link": "https://storybook.js.org/blog/storybook-for-vite/"
+			}
+		]
+	},
+	{
+		"url": "https://vitejs.dev",
+		"pages": [
+			{
+				"name": "Vite",
+				"link": "https://vitejs.dev"
+			},
+			{
+				"name": "Vite",
+				"link": "https://vitejs.dev"
+			},
+			{
+				"name": "Vite",
+				"link": "https://vitejs.dev/"
+			},
+			{
+				"name": "Vite",
+				"link": "https://vitejs.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://www.snowpack.dev",
+		"pages": [
+			{
+				"name": "Snowpack",
+				"link": "https://www.snowpack.dev/"
+			},
+			{
+				"name": "Snowpack",
+				"link": "https://www.snowpack.dev/"
+			},
+			{
+				"name": "Snowpack's v3 release candidate",
+				"link": "https://www.snowpack.dev/posts/2020-12-03-snowpack-3-release-candidate"
+			},
+			{
+				"name": "Getting Started with Svelte",
+				"link": "https://www.snowpack.dev/tutorials/svelte"
+			}
+		]
+	},
+	{
+		"url": "https://insights.stackoverflow.com",
+		"pages": [
+			{
+				"name": "voted StackOverflow's most loved web framework",
+				"link": "https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+			},
+			{
+				"name": "most loved",
+				"link": "https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+			},
+			{
+				"name": "that",
+				"link": "https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks"
+			}
+		]
+	},
+	{
+		"url": "https://nextjs.org",
+		"pages": [
+			{
+				"name": "Next",
+				"link": "https://nextjs.org/"
+			},
+			{
+				"name": "Next",
+				"link": "https://nextjs.org/"
+			},
+			{
+				"name": "Next.js",
+				"link": "https://nextjs.org/"
+			}
+		]
+	},
+	{
+		"url": "https://podrocket.logrocket.com",
+		"pages": [
+			{
+				"name": "PodRocket also dove deep",
+				"link": "https://podrocket.logrocket.com/elderjs"
+			},
+			{
+				"name": "PodRocket",
+				"link": "https://podrocket.logrocket.com/rich-harris"
+			},
+			{
+				"name": "SvelteKit 1.0 with Rich Harris",
+				"link": "https://podrocket.logrocket.com/sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://raqueebuddinaziz.com",
+		"pages": [
+			{
+				"name": "How to setup tRPC in a SvelteKit project",
+				"link": "https://raqueebuddinaziz.com/blog/how-to-setup-trpc-in-a-sveltekit-project/"
+			},
+			{
+				"name": "Svelte Custom Stores Demystified",
+				"link": "https://raqueebuddinaziz.com/blog/svelte-custom-stores-demystified/"
+			},
+			{
+				"name": "How to type Events, Slots, and Props in Svelte",
+				"link": "https://raqueebuddinaziz.com/blog/svelte-type-events-slots-and-props/"
+			}
+		]
+	},
+	{
+		"url": "https://www.nytimes.com",
+		"pages": [
+			{
+				"name": "coronavirus tracker",
+				"link": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html"
+			},
+			{
+				"name": "Tracking the Coronavirus",
+				"link": "https://www.nytimes.com/interactive/2021/us/new-york-city-new-york-covid-cases.html"
+			},
+			{
+				"name": "county risk pages",
+				"link": "https://www.nytimes.com/interactive/2021/us/tom-green-texas-covid-cases.html"
+			}
+		]
+	},
+	{
+		"url": "https://youtu.be",
+		"pages": [
+			{
+				"name": "Google Cloud",
+				"link": "https://youtu.be/_-uBb61Tikw"
+			},
+			{
+				"name": "Azure",
+				"link": "https://youtu.be/gdg4ne_uDm8"
+			},
+			{
+				"name": "AWS",
+				"link": "https://youtu.be/VOs2Od5jYOc"
+			}
+		]
+	},
+	{
+		"url": "https://bjornlu.com",
+		"pages": [
+			{
+				"name": "Simple Svelte Routing with Reactive URLs",
+				"link": "https://bjornlu.com/blog/simple-svelte-routing-with-reactive-urls"
+			},
+			{
+				"name": "Using Apollo Client in Sapper",
+				"link": "https://bjornlu.com/blog/using-apollo-client-in-sapper/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.encodeart.dev",
+		"pages": [
+			{
+				"name": "Implementing Maintenance mode on a SvelteKit site",
+				"link": "https://blog.encodeart.dev/implementing-maintenance-mode-on-a-sveltekit-site"
+			},
+			{
+				"name": "Typesafe i18n with SvelteKit",
+				"link": "https://blog.encodeart.dev/typesafe-i18n-with-sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://blog.robino.dev",
+		"pages": [
+			{
+				"name": "Use TypeScript with SvelteKit and Supabase",
+				"link": "https://blog.robino.dev/posts/supabase-sveltekit"
+			},
+			{
+				"name": "Use Zod to Validate Forms on the Server with SvelteKit",
+				"link": "https://blog.robino.dev/posts/svelte-zod-error"
+			}
+		]
+	},
+	{
+		"url": "https://blog.stackblitz.com",
+		"pages": [
+			{
+				"name": "WebContainer",
+				"link": "https://blog.stackblitz.com/posts/introducing-webcontainers/"
+			},
+			{
+				"name": "SvelteKit is now fully supported in WebContainers",
+				"link": "https://blog.stackblitz.com/posts/sveltekit-supported-in-webcontainers/"
+			}
+		]
+	},
+	{
+		"url": "https://code.visualstudio.com",
+		"pages": [
+			{
+				"name": "Visual Studio Code",
+				"link": "https://code.visualstudio.com/"
+			},
+			{
+				"name": "TypeScript Inlay Hints",
+				"link": "https://code.visualstudio.com/docs/typescript/typescript-editing#_inlay-hints"
+			}
+		]
+	},
+	{
+		"url": "https://codechips.me",
+		"pages": [
+			{
+				"name": "Sapper with PostCSS and Tailwind",
+				"link": "https://codechips.me/sapper-with-postcss-and-tailwind/"
+			},
+			{
+				"name": "Svelte's module scripts explained",
+				"link": "https://codechips.me/svelte-module-scripts-explained/"
+			}
+		]
+	},
+	{
+		"url": "https://codingcat.dev",
+		"pages": [
+			{
+				"name": "Svelte Fundamentals - Intro to Svelte",
+				"link": "https://codingcat.dev/course/intro-to-svelte"
+			},
+			{
+				"name": "The Other Side of Tech: A Documentarian Perspective (with Stefan Kingham",
+				"link": "https://codingcat.dev/podcast/2-4-the-other-side-of-tech-a-documentarian-perspective)"
+			}
+		]
+	},
+	{
+		"url": "https://crownframework.com",
+		"pages": [
+			{
+				"name": "Crown",
+				"link": "https://crownframework.com/"
+			},
+			{
+				"name": "Crown",
+				"link": "https://crownframework.com/"
+			}
+		]
+	},
+	{
+		"url": "https://davipon.hashnode.dev",
+		"pages": [
+			{
+				"name": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
+				"link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project"
+			},
+			{
+				"name": "Test Svelte Component Using Vitest & Playwright",
+				"link": "https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright"
+			}
+		]
+	},
+	{
+		"url": "https://gitlab.com",
+		"pages": [
+			{
+				"name": "Secret Santa",
+				"link": "https://gitlab.com/arturoguzman/secret-santa-sveltekit"
+			},
+			{
+				"name": "simple-optics-module",
+				"link": "https://gitlab.com/Samzelot/simple-optics-module"
+			}
+		]
+	},
+	{
+		"url": "https://gradientdescent.de",
+		"pages": [
+			{
+				"name": "How to merge cells with svelte-window",
+				"link": "https://gradientdescent.de/merging-cells/"
+			},
+			{
+				"name": "from react-window 1:1 to svelte-window",
+				"link": "https://gradientdescent.de/porting-react-window/"
+			}
+		]
+	},
+	{
+		"url": "https://gramjam.app",
+		"pages": [
+			{
+				"name": "Gram Jam",
+				"link": "https://gramjam.app/"
+			},
+			{
+				"name": "Gram Jam",
+				"link": "https://gramjam.app/"
+			}
+		]
+	},
+	{
+		"url": "https://histoire.dev",
+		"pages": [
+			{
+				"name": "Histoire",
+				"link": "https://histoire.dev/guide/"
+			},
+			{
+				"name": "Histoire",
+				"link": "https://histoire.dev/guide/svelte3/getting-started.html"
+			}
+		]
+	},
+	{
+		"url": "https://javascript.plainenglish.io",
+		"pages": [
+			{
+				"name": "Now That React is Dead, What’s the Next Big Thing?",
+				"link": "https://javascript.plainenglish.io/now-that-react-js-is-dead-whats-the-next-big-thing-7fa72a36a69b"
+			},
+			{
+				"name": "Writing a Svelte Store with TypeScript",
+				"link": "https://javascript.plainenglish.io/writing-a-svelte-store-with-typescript-22fa1c901a4"
+			}
+		]
+	},
+	{
+		"url": "https://learnjavascripts.com",
+		"pages": [
+			{
+				"name": "Svelte Stores Tutorial: Share Data Between Multiple Components",
+				"link": "https://learnjavascripts.com/development/web-development/frameworks/svelte/svelte-stores-tutorial-share-data-between-multiple-components/"
+			},
+			{
+				"name": "Svelte Stores Tutorial: Share Data Between Multiple Components",
+				"link": "https://learnjavascripts.com/development/web-development/frameworks/svelte/svelte-stores-tutorial-share-data-between-multiple-components/"
+			}
+		]
+	},
+	{
+		"url": "https://nodejs.org",
+		"pages": [
+			{
+				"name": "Node",
+				"link": "https://nodejs.org/en/"
+			},
+			{
+				"name": "website",
+				"link": "https://nodejs.org/en/"
+			}
+		]
+	},
+	{
+		"url": "https://plenti.co",
+		"pages": [
+			{
+				"name": "Plenti",
+				"link": "https://plenti.co/"
+			},
+			{
+				"name": "Plenti",
+				"link": "https://plenti.co/"
+			}
+		]
+	},
+	{
+		"url": "https://plus.rodneylab.com",
+		"pages": [
+			{
+				"name": "Get Started with SvelteKit Headless WordPress",
+				"link": "https://plus.rodneylab.com/tutorials/get-started-sveltekit-headless-wordpress"
+			},
+			{
+				"name": "Svelte Video Blog: Vlog with Mux from your own SvelteKit Site",
+				"link": "https://plus.rodneylab.com/tutorials/svelte-video-blog"
+			}
+		]
+	},
+	{
+		"url": "https://podcasts.apple.com",
+		"pages": [
+			{
+				"name": "Syntax podcast: How To Do Things In Svelte",
+				"link": "https://podcasts.apple.com/ca/podcast/how-to-do-things-in-svelte/id1253186678?i=1000544796072"
+			},
+			{
+				"name": "Syntax Podcast: From React to SvelteKit",
+				"link": "https://podcasts.apple.com/us/podcast/from-react-to-sveltekit/id1253186678?i=1000536276106"
+			}
+		]
+	},
+	{
+		"url": "https://prismic.io",
+		"pages": [
+			{
+				"name": "How to Build a Website with Svelte and SvelteKit",
+				"link": "https://prismic.io/blog/svelte-sveltekit-tutorial"
+			},
+			{
+				"name": "Challenge: Explore Svelte by Building a Bubble Popping Game",
+				"link": "https://prismic.io/blog/try-svelte-build-game"
+			}
+		]
+	},
+	{
+		"url": "https://reactjs.org",
+		"pages": [
+			{
+				"name": "React",
+				"link": "https://reactjs.org/"
+			},
+			{
+				"name": "hooks",
+				"link": "https://reactjs.org/docs/hooks-intro.html"
+			}
+		]
+	},
+	{
+		"url": "https://rollupjs.org",
+		"pages": [
+			{
+				"name": "Rollup",
+				"link": "https://rollupjs.org"
+			},
+			{
+				"name": "Rollup",
+				"link": "https://rollupjs.org/"
+			}
+		]
+	},
+	{
+		"url": "https://routify.dev",
+		"pages": [
+			{
+				"name": "Routify",
+				"link": "https://routify.dev/"
+			},
+			{
+				"name": "Routify",
+				"link": "https://routify.dev/blog/routify-2-released"
+			}
+		]
+	},
+	{
+		"url": "https://sessionize.com",
+		"pages": [
+			{
+				"name": "sessionize site",
+				"link": "https://sessionize.com/svelte-summit-fall-2021/"
+			},
+			{
+				"name": "Open Call for Speakers",
+				"link": "https://sessionize.com/svelte-summit-spring-2021"
+			}
+		]
+	},
+	{
+		"url": "https://store.steampowered.com",
+		"pages": [
+			{
+				"name": "World Seed",
+				"link": "https://store.steampowered.com/app/1870320/World_Seed/"
+			},
+			{
+				"name": "Goblin.life",
+				"link": "https://store.steampowered.com/app/552180/GoblinLife/"
+			}
+		]
+	},
+	{
+		"url": "https://stylifycss.com",
+		"pages": [
+			{
+				"name": "🚀 Code your SvelteKit website faster with Stylify CSS",
+				"link": "https://stylifycss.com/blog/code-your-sveltekit-website-faster-with-stylify-css/"
+			},
+			{
+				"name": "Style your Svelte website faster with Stylify CSS",
+				"link": "https://stylifycss.com/blog/style-your-svelte-website-faster-with-stylify-css/"
+			}
+		]
+	},
+	{
+		"url": "https://supabase.com",
+		"pages": [
+			{
+				"name": "Revamped Auth Helpers for Supabase (with SvelteKit support",
+				"link": "https://supabase.com/blog/2022/07/13/supabase-auth-helpers-with-sveltekit-support)"
+			},
+			{
+				"name": "Supabase",
+				"link": "https://supabase.com/docs/guides/getting-started/tutorials/with-sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://thenewstack.io",
+		"pages": [
+			{
+				"name": "Svelte and the Future of Frontend Development (feat. Rich Harris",
+				"link": "https://thenewstack.io/svelte-and-the-future-of-front-end-development/)"
+			},
+			{
+				"name": "Vercel and Svelte: A Perfect Match for Web Developers",
+				"link": "https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/"
+			}
+		]
+	},
+	{
+		"url": "https://ti.to",
+		"pages": [
+			{
+				"name": "Get your tickets now!",
+				"link": "https://ti.to/svelte/svelte-summit-fall-edition"
+			},
+			{
+				"name": "Get your tickets now",
+				"link": "https://ti.to/svelte/svelte-summit-fall-edition"
+			}
+		]
+	},
+	{
+		"url": "https://tomaszs2.medium.com",
+		"pages": [
+			{
+				"name": "🎮 Five Svelte Games To Learn How To Code",
+				"link": "https://tomaszs2.medium.com/five-svelte-games-to-learn-how-to-code-f36ae6e58923"
+			},
+			{
+				"name": "all the changes in 3.52.0",
+				"link": "https://tomaszs2.medium.com/svelte-3-52-0-improves-dev-experience-45f8c460bb96"
+			}
+		]
+	},
+	{
+		"url": "https://webrush.io",
+		"pages": [
+			{
+				"name": "Web Rush",
+				"link": "https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris"
+			},
+			{
+				"name": "Web Rush: Svelte and Elder.js with Nick Reese",
+				"link": "https://webrush.io/episodes/episode-158-svelte-and-elderjs-with-nick-reese"
+			}
+		]
+	},
+	{
+		"url": "https://www.100ms.live",
+		"pages": [
+			{
+				"name": "Building a Clubhouse clone with Svelte and 100ms",
+				"link": "https://www.100ms.live/blog/clubhouse-clone-with-svelte"
+			},
+			{
+				"name": "Svelte for Reactaholics : A guide for React developers",
+				"link": "https://www.100ms.live/blog/svelte-guide-for-react-developers"
+			}
+		]
+	},
+	{
+		"url": "https://www.infoworld.com",
+		"pages": [
+			{
+				"name": "An early look at SvelteKit",
+				"link": "https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html"
+			},
+			{
+				"name": "Svelte creator: Web development should be more fun",
+				"link": "https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html"
+			}
+		]
+	},
+	{
+		"url": "https://www.inow.dev",
+		"pages": [
+			{
+				"name": "How to set up a new Svelte project with SvelteKit",
+				"link": "https://www.inow.dev/how-to-set-up-a-new-svelte-project-with-sveltekit/"
+			},
+			{
+				"name": "Understanding the structure of a SvelteKit project",
+				"link": "https://www.inow.dev/understanding-the-structure-of-a-svelte-kit-project/"
+			}
+		]
+	},
+	{
+		"url": "https://www.jetbrains.com",
+		"pages": [
+			{
+				"name": "WebStorm plugin installation guide",
+				"link": "https://www.jetbrains.com/help/webstorm/managing-plugins.html"
+			},
+			{
+				"name": "JetBrains WebStorm 2022.3",
+				"link": "https://www.jetbrains.com/webstorm/whatsnew/#:~:text=Update%20about%20Svelte%20support"
+			}
+		]
+	},
+	{
+		"url": "https://www.philkruft.dev",
+		"pages": [
+			{
+				"name": "How to Build a Static SvelteKit Site",
+				"link": "https://www.philkruft.dev/blog/how-to-build-a-static-sveltekit-site/"
+			},
+			{
+				"name": "Smooth Page Transitions with SvelteKit",
+				"link": "https://www.philkruft.dev/blog/smooth-page-transitions-with-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://www.sarcevic.dev",
+		"pages": [
+			{
+				"name": "How to create a toast notification library package with SvelteKit",
+				"link": "https://www.sarcevic.dev/blog/toasting-in-svelte"
+			},
+			{
+				"name": "Create an offline-first and installable PWA with SvelteKit and workbox-precaching",
+				"link": "https://www.sarcevic.dev/offline-first-installable-pwa-sveltekit-workbox-precaching"
+			}
+		]
+	},
+	{
+		"url": "https://www.skeleton.dev",
+		"pages": [
+			{
+				"name": "Skeleton",
+				"link": "https://www.skeleton.dev/"
+			},
+			{
+				"name": "Skeleton",
+				"link": "https://www.skeleton.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://www.thread-bare.com",
+		"pages": [
+			{
+				"name": "Image to Pattern Conversion",
+				"link": "https://www.thread-bare.com/convert"
+			},
+			{
+				"name": "a list of pre-made patterns",
+				"link": "https://www.thread-bare.com/store"
+			}
+		]
+	},
+	{
+		"url": "https://www.typescriptlang.org",
+		"pages": [
+			{
+				"name": "TypeScript",
+				"link": "https://www.typescriptlang.org/"
+			},
+			{
+				"name": "`rootDirs`",
+				"link": "https://www.typescriptlang.org/tsconfig#rootDirs"
+			}
+		]
+	},
+	{
+		"url": "https://www.udemy.com",
+		"pages": [
+			{
+				"name": "Svelte & SvelteKit: The Complete Guide",
+				"link": "https://www.udemy.com/course/svelte-and-sveltekit/?ranMID=39197&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-oN6aTXp3jgDgUps8JCGxcg&LSNPUBID=msYS1Nvjv4c&utm_source=aff-campaign&utm_medium=udemyads"
+			},
+			{
+				"name": "Svelte Tutorial and Projects Course ",
+				"link": "https://www.udemy.com/course/svelte-tutorial-and-projects-course/"
+			}
+		]
+	},
+	{
+		"url": "https://1mets10.avrotros.nl",
+		"pages": [
+			{
+				"name": "Samen zjin we #1metS10",
+				"link": "https://1mets10.avrotros.nl/"
+			}
+		]
+	},
+	{
+		"url": "https://2020.stateofjs.com",
+		"pages": [
+			{
+				"name": "most satisfied",
+				"link": "https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/"
+			}
+		]
+	},
+	{
+		"url": "https://2021.stateofjs.com",
+		"pages": [
+			{
+				"name": "developers",
+				"link": "https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/"
+			}
+		]
+	},
+	{
+		"url": "https://a-links.io",
+		"pages": [
+			{
+				"name": "a/links",
+				"link": "https://a-links.io/"
+			}
+		]
+	},
+	{
+		"url": "https://above.silas.pro",
+		"pages": [
+			{
+				"name": "Above",
+				"link": "https://above.silas.pro/"
+			}
+		]
+	},
+	{
+		"url": "https://abyteofcoding.com",
+		"pages": [
+			{
+				"name": "Deploying SvelteKit with NodeJS to a Server Using GitLab and PM2",
+				"link": "https://abyteofcoding.com/blog/deploying-sveltekit-with-nodejs-pm2-to-server/"
+			}
+		]
+	},
+	{
+		"url": "https://addons.mozilla.org",
+		"pages": [
+			{
+				"name": "Svelte Reactive Debugger",
+				"link": "https://addons.mozilla.org/en-US/firefox/addon/svelte-reactive-debugger/"
+			}
+		]
+	},
+	{
+		"url": "https://alecames.com",
+		"pages": [
+			{
+				"name": "MineSweep",
+				"link": "https://alecames.com/minesweep"
+			}
+		]
+	},
+	{
+		"url": "https://altv.mp",
+		"pages": [
+			{
+				"name": "alt:V",
+				"link": "https://altv.mp/#/"
+			}
+		]
+	},
+	{
+		"url": "https://amalshaji.wtf",
+		"pages": [
+			{
+				"name": "Building Pastebin on IPFS - with FastAPI, Svelte, and IPFS",
+				"link": "https://amalshaji.wtf/building-pastebin-on-ipfs-with-fastapi-svelte-and-ipfs"
+			}
+		]
+	},
+	{
+		"url": "https://andrewlester.net",
+		"pages": [
+			{
+				"name": "SvelteKit and GitHub Pages",
+				"link": "https://andrewlester.net/blog/posts/sveltekit-and-github-pages"
+			}
+		]
+	},
+	{
+		"url": "https://answersocrates.com",
+		"pages": [
+			{
+				"name": "Answer Socrates",
+				"link": "https://answersocrates.com/"
+			}
+		]
+	},
+	{
+		"url": "https://anthonyriley.org",
+		"pages": [
+			{
+				"name": "Creating a dApp with SvelteKit",
+				"link": "https://anthonyriley.org/2021/12/31/creating-a-dapp-with-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://appreciation.place",
+		"pages": [
+			{
+				"name": "Appreciation Jar",
+				"link": "https://appreciation.place/"
+			}
+		]
+	},
+	{
+		"url": "https://ar.polyspectra.com",
+		"pages": [
+			{
+				"name": "polySpectra AR",
+				"link": "https://ar.polyspectra.com/"
+			}
+		]
+	},
+	{
+		"url": "https://arc.codes",
+		"pages": [
+			{
+				"name": "Architect",
+				"link": "https://arc.codes"
+			}
+		]
+	},
+	{
+		"url": "https://asm-editor.specy.app",
+		"pages": [
+			{
+				"name": "ASM Editor",
+				"link": "https://asm-editor.specy.app/"
+			}
+		]
+	},
+	{
+		"url": "https://astro.build",
+		"pages": [
+			{
+				"name": "Astro",
+				"link": "https://astro.build/"
+			}
+		]
+	},
+	{
+		"url": "https://audiogest.app",
+		"pages": [
+			{
+				"name": "Audiogest",
+				"link": "https://audiogest.app/"
+			}
+		]
+	},
+	{
+		"url": "https://auth0.com",
+		"pages": [
+			{
+				"name": "State Management in Svelte Applications",
+				"link": "https://auth0.com/blog/state-management-in-svelte-applications/"
+			}
+		]
+	},
+	{
+		"url": "https://azgaar.github.io",
+		"pages": [
+			{
+				"name": "Armoria",
+				"link": "https://azgaar.github.io/Armoria/"
+			}
+		]
+	},
+	{
+		"url": "https://babeljs.io",
+		"pages": [
+			{
+				"name": "Babel",
+				"link": "https://babeljs.io/repl"
+			}
+		]
+	},
+	{
+		"url": "https://base.report",
+		"pages": [
+			{
+				"name": "base.report",
+				"link": "https://base.report/"
+			}
+		]
+	},
+	{
+		"url": "https://begin.com",
+		"pages": [
+			{
+				"name": "Begin",
+				"link": "https://begin.com"
+			}
+		]
+	},
+	{
+		"url": "https://beta.blkmarket.com",
+		"pages": [
+			{
+				"name": "BLKMARKET.COM",
+				"link": "https://beta.blkmarket.com/"
+			}
+		]
+	},
+	{
+		"url": "https://beta.dashingos.com",
+		"pages": [
+			{
+				"name": "DashingOS",
+				"link": "https://beta.dashingos.com/"
+			}
+		]
+	},
+	{
+		"url": "https://biolytics.app",
+		"pages": [
+			{
+				"name": "Biolytics",
+				"link": "https://biolytics.app/"
+			}
+		]
+	},
+	{
+		"url": "https://bitesized.news",
+		"pages": [
+			{
+				"name": "Bitesized News",
+				"link": "https://bitesized.news/"
+			}
+		]
+	},
+	{
+		"url": "https://blinksms.se",
+		"pages": [
+			{
+				"name": "BlinkSMS",
+				"link": "https://blinksms.se/#"
+			}
+		]
+	},
+	{
+		"url": "https://blog.cloudflare.com",
+		"pages": [
+			{
+				"name": "Cloudflare Pages launch",
+				"link": "https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.codinghorror.com",
+		"pages": [
+			{
+				"name": "project development time",
+				"link": "https://blog.codinghorror.com/diseconomies-of-scale-and-lines-of-code/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.dayslice.io",
+		"pages": [
+			{
+				"name": "User-defined TailwindCSS Color Scheme with Svelte Stores",
+				"link": "https://blog.dayslice.io/user-defined-tailwindcss-color-scheme-with-svelte-stores-ad80ca2cf038"
+			}
+		]
+	},
+	{
+		"url": "https://blog.flotes.app",
+		"pages": [
+			{
+				"name": "How I Made My App 2.4x Faster Switching to Svelte",
+				"link": "https://blog.flotes.app/posts/flotes-2x-faster"
+			}
+		]
+	},
+	{
+		"url": "https://blog.jetbrains.com",
+		"pages": [
+			{
+				"name": "Better Svelte support is coming to WebStorm",
+				"link": "https://blog.jetbrains.com/webstorm/2022/09/webstorm-2022-3-eap1/#information_regarding_svelte_support"
+			}
+		]
+	},
+	{
+		"url": "https://blog.koenvangilst.nl",
+		"pages": [
+			{
+				"name": "Using Svelte to create a scroll video effect",
+				"link": "https://blog.koenvangilst.nl/tutorial-svelte-scroll-video/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.logrocket.com",
+		"pages": [
+			{
+				"name": "Introduction to Svelte Actions",
+				"link": "https://blog.logrocket.com/svelte-actions-introduction/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.openreplay.com",
+		"pages": [
+			{
+				"name": "Creating a Svelte Tabs component with Slot props",
+				"link": "https://blog.openreplay.com/creating-a-svelte-tabs-component-with-slot-props/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.s1h.org",
+		"pages": [
+			{
+				"name": "here",
+				"link": "https://blog.s1h.org/svelte-multiplayer-game/"
+			}
+		]
+	},
+	{
+		"url": "https://blog.tiia.rocks",
+		"pages": [
+			{
+				"name": "What is SvelteKit? And Why Should You Care?",
+				"link": "https://blog.tiia.rocks/what-is-sveltekit-and-why-should-you-care"
+			}
+		]
+	},
+	{
+		"url": "https://blog.upstash.com",
+		"pages": [
+			{
+				"name": "Building SvelteKit applications with Serverless Redis",
+				"link": "https://blog.upstash.com/svelte-with-serverless-redis"
+			}
+		]
+	},
+	{
+		"url": "https://bookmarkbeat.substack.com",
+		"pages": [
+			{
+				"name": "EP 13: Contributing more to open source + a Svelte Newsletter showcase rewind ⏪",
+				"link": "https://bookmarkbeat.substack.com/p/contributing-more-to-open-source"
+			}
+		]
+	},
+	{
+		"url": "https://bootcamp.uxdesign.cc",
+		"pages": [
+			{
+				"name": "Design & build an app with Svelte",
+				"link": "https://bootcamp.uxdesign.cc/design-build-an-app-with-svelte-ecd7ed0729da"
+			}
+		]
+	},
+	{
+		"url": "https://brdtheo-weatherify.netlify.app",
+		"pages": [
+			{
+				"name": "weatherify",
+				"link": "https://brdtheo-weatherify.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://buble.surge.sh",
+		"pages": [
+			{
+				"name": "Bublé",
+				"link": "https://buble.surge.sh/"
+			}
+		]
+	},
+	{
+		"url": "https://bulletlist.com",
+		"pages": [
+			{
+				"name": "Bulletlist",
+				"link": "https://bulletlist.com/"
+			}
+		]
+	},
+	{
+		"url": "https://captaincodeman.github.io",
+		"pages": [
+			{
+				"name": "Svelte-HeadlessUI",
+				"link": "https://captaincodeman.github.io/svelte-headlessui/"
+			}
+		]
+	},
+	{
+		"url": "https://cerbos.dev",
+		"pages": [
+			{
+				"name": "Authorization in your SvelteKit app",
+				"link": "https://cerbos.dev/blog/authorization-in-your-sveltekit-app"
+			}
+		]
+	},
+	{
+		"url": "https://chainlist.github.io",
+		"pages": [
+			{
+				"name": "svelte-forms v2",
+				"link": "https://chainlist.github.io/svelte-forms/"
+			}
+		]
+	},
+	{
+		"url": "https://cherrific.io",
+		"pages": [
+			{
+				"name": "Using Sequelize with SvelteKit",
+				"link": "https://cherrific.io/0xedB00816FB204b4CD9bCb45FF2EF693E99723484/story/23"
+			}
+		]
+	},
+	{
+		"url": "https://chientrm.medium.com",
+		"pages": [
+			{
+				"name": "Use SvelteKit as a handler in the ExpressJs project",
+				"link": "https://chientrm.medium.com/use-sveltekit-as-a-handler-in-the-expressjs-project-15524b01128f"
+			}
+		]
+	},
+	{
+		"url": "https://chiuzon.medium.com",
+		"pages": [
+			{
+				"name": "Enjoy making DAPPs using SvelteWeb3",
+				"link": "https://chiuzon.medium.com/enjoy-making-dapps-using-svelteweb3-b78dfea1d902"
+			}
+		]
+	},
+	{
+		"url": "https://chrome.google.com",
+		"pages": [
+			{
+				"name": "LunaNotes",
+				"link": "https://chrome.google.com/webstore/detail/lunanotes-youtube-video-n/oehoffnnkgcdacmbkhmlbjedinpampak?hl=en"
+			}
+		]
+	},
+	{
+		"url": "https://code-svelte.vercel.app",
+		"pages": [
+			{
+				"name": "Code Solving",
+				"link": "https://code-svelte.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://codeandlife.com",
+		"pages": [
+			{
+				"name": "Easy-to-Embed Svelte Components",
+				"link": "https://codeandlife.com/2021/03/06/easy-to-embed-svelte-components/"
+			}
+		]
+	},
+	{
+		"url": "https://codeberg.org",
+		"pages": [
+			{
+				"name": "OATHqr",
+				"link": "https://codeberg.org/vhs/oathqr"
+			}
+		]
+	},
+	{
+		"url": "https://cohere.ai",
+		"pages": [
+			{
+				"name": "Cohere",
+				"link": "https://cohere.ai/"
+			}
+		]
+	},
+	{
+		"url": "https://collabwriting.com",
+		"pages": [
+			{
+				"name": "Collabwriting",
+				"link": "https://collabwriting.com/"
+			}
+		]
+	},
+	{
+		"url": "https://component-party.dev",
+		"pages": [
+			{
+				"name": "Component party",
+				"link": "https://component-party.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://crystal-lang.org",
+		"pages": [
+			{
+				"name": "Crystal",
+				"link": "https://crystal-lang.org"
+			}
+		]
+	},
+	{
+		"url": "https://css-timeline.vercel.app",
+		"pages": [
+			{
+				"name": "CSS Timeline",
+				"link": "https://css-timeline.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://cybernetic.dev",
+		"pages": [
+			{
+				"name": "cybernetic.dev",
+				"link": "https://cybernetic.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://dataprotocols.org",
+		"pages": [
+			{
+				"name": "newline delimited JSON",
+				"link": "https://dataprotocols.org/ndjson/"
+			}
+		]
+	},
+	{
+		"url": "https://dazzlega.me",
+		"pages": [
+			{
+				"name": "Dazzle",
+				"link": "https://dazzlega.me/"
+			}
+		]
+	},
+	{
+		"url": "https://deckdev.com",
+		"pages": [
+			{
+				"name": "DeckDev",
+				"link": "https://deckdev.com/"
+			}
+		]
+	},
+	{
+		"url": "https://devtools.fm",
+		"pages": [
+			{
+				"name": "devtools.fm",
+				"link": "https://devtools.fm/episode/15"
+			}
+		]
+	},
+	{
+		"url": "https://df.id.au",
+		"pages": [
+			{
+				"name": "Dean Fogarty",
+				"link": "https://df.id.au/"
+			}
+		]
+	},
+	{
+		"url": "https://digivaux.com",
+		"pages": [
+			{
+				"name": "Daily Sumeiro",
+				"link": "https://digivaux.com/sumeiro/daily/"
+			}
+		]
+	},
+	{
+		"url": "https://docs.inlang.dev",
+		"pages": [
+			{
+				"name": "Inlang",
+				"link": "https://docs.inlang.dev/getting-started/svelte-kit"
+			}
+		]
+	},
+	{
+		"url": "https://dottobit.com",
+		"pages": [
+			{
+				"name": "DottoBit",
+				"link": "https://dottobit.com/"
+			}
+		]
+	},
+	{
+		"url": "https://dsn-live.netlify.app",
+		"pages": [
+			{
+				"name": "DSN Live",
+				"link": "https://dsn-live.netlify.app/#/"
+			}
+		]
+	},
+	{
+		"url": "https://easy-portfolio.com",
+		"pages": [
+			{
+				"name": "Easy Portfolio",
+				"link": "https://easy-portfolio.com/"
+			}
+		]
+	},
+	{
+		"url": "https://electroblocks.org",
+		"pages": [
+			{
+				"name": "ElectroBlocks",
+				"link": "https://electroblocks.org/"
+			}
+		]
+	},
+	{
+		"url": "https://elfuturoesapasionante.vodafone.es",
+		"pages": [
+			{
+				"name": "La neuva era de la educatión conectada",
+				"link": "https://elfuturoesapasionante.vodafone.es/especiales/educacion-conectada/"
+			}
+		]
+	},
+	{
+		"url": "https://elliscs.hashnode.dev",
+		"pages": [
+			{
+				"name": "A Business Case for SvelteKit",
+				"link": "https://elliscs.hashnode.dev/a-business-case-for-sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://ellx.io",
+		"pages": [
+			{
+				"name": "Ellx",
+				"link": "https://ellx.io/"
+			}
+		]
+	},
+	{
+		"url": "https://emotion.sh",
+		"pages": [
+			{
+				"name": "Emotion",
+				"link": "https://emotion.sh"
+			}
+		]
+	},
+	{
+		"url": "https://escape.tech",
+		"pages": [
+			{
+				"name": "Rendering emails with Svelte",
+				"link": "https://escape.tech/blog/sveltemails/"
+			}
+		]
+	},
+	{
+		"url": "https://eslint.org",
+		"pages": [
+			{
+				"name": "ESLint",
+				"link": "https://eslint.org/"
+			}
+		]
+	},
+	{
+		"url": "https://extensionpay.com",
+		"pages": [
+			{
+				"name": "ExtensionPay",
+				"link": "https://extensionpay.com/"
+			}
+		]
+	},
+	{
+		"url": "https://extensions.panic.com",
+		"pages": [
+			{
+				"name": "Svelte Nova",
+				"link": "https://extensions.panic.com/extensions/sb.lao/sb.lao.svelte-nova/"
+			}
+		]
+	},
+	{
+		"url": "https://fantinel.dev",
+		"pages": [
+			{
+				"name": "How I built a blog with Svelte and SvelteKit",
+				"link": "https://fantinel.dev/blog-development-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://farmbox.ae",
+		"pages": [
+			{
+				"name": "farmbox",
+				"link": "https://farmbox.ae/"
+			}
+		]
+	},
+	{
+		"url": "https://felte.dev",
+		"pages": [
+			{
+				"name": "Felte",
+				"link": "https://felte.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://files.community",
+		"pages": [
+			{
+				"name": "Files",
+				"link": "https://files.community/"
+			}
+		]
+	},
+	{
+		"url": "https://flayks.com",
+		"pages": [
+			{
+				"name": "FLAYKS",
+				"link": "https://flayks.com/"
+			}
+		]
+	},
+	{
+		"url": "https://flotes.app",
+		"pages": [
+			{
+				"name": "Flotes",
+				"link": "https://flotes.app/"
+			}
+		]
+	},
+	{
+		"url": "https://flowbite-svelte.com",
+		"pages": [
+			{
+				"name": "Flowbite Svelte",
+				"link": "https://flowbite-svelte.com/"
+			}
+		]
+	},
+	{
+		"url": "https://fluid-grid.com",
+		"pages": [
+			{
+				"name": "Fluid Grid",
+				"link": "https://fluid-grid.com/"
+			}
+		]
+	},
+	{
+		"url": "https://formula.svelte.codes",
+		"pages": [
+			{
+				"name": "Formula",
+				"link": "https://formula.svelte.codes/"
+			}
+		]
+	},
+	{
+		"url": "https://france.sveltesociety.dev",
+		"pages": [
+			{
+				"name": "Svelte Society Day France",
+				"link": "https://france.sveltesociety.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://frog-safety.vercel.app",
+		"pages": [
+			{
+				"name": "Frog Safety",
+				"link": "https://frog-safety.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://frontendmasters.com",
+		"pages": [
+			{
+				"name": "Svelte & SvelteKit",
+				"link": "https://frontendmasters.com/workshops/svelte-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://gamenibs.com",
+		"pages": [
+			{
+				"name": "Game Nibs",
+				"link": "https://gamenibs.com/"
+			}
+		]
+	},
+	{
+		"url": "https://gameonornot.com",
+		"pages": [
+			{
+				"name": "Game On Or Not",
+				"link": "https://gameonornot.com/"
+			}
+		]
+	},
+	{
+		"url": "https://gamesroom.io",
+		"pages": [
+			{
+				"name": "gamesroom.io",
+				"link": "https://gamesroom.io/"
+			}
+		]
+	},
+	{
+		"url": "https://genie.pm",
+		"pages": [
+			{
+				"name": "GeniePM",
+				"link": "https://genie.pm"
+			}
+		]
+	},
+	{
+		"url": "https://glimmerjs.com",
+		"pages": [
+			{
+				"name": "Glimmer",
+				"link": "https://glimmerjs.com"
+			}
+		]
+	},
+	{
+		"url": "https://greedygoblin-fe11c.web.app",
+		"pages": [
+			{
+				"name": "Greedy Goblin",
+				"link": "https://greedygoblin-fe11c.web.app/"
+			}
+		]
+	},
+	{
+		"url": "https://greenfield-brewery.vercel.app",
+		"pages": [
+			{
+				"name": "Greenfield Brewery",
+				"link": "https://greenfield-brewery.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://grunfy.com",
+		"pages": [
+			{
+				"name": "Grunfy",
+				"link": "https://grunfy.com/tools"
+			}
+		]
+	},
+	{
+		"url": "https://gurlic.com",
+		"pages": [
+			{
+				"name": "gurlic",
+				"link": "https://gurlic.com/"
+			}
+		]
+	},
+	{
+		"url": "https://harryherskowitz.com",
+		"pages": [
+			{
+				"name": "Building an iOS app with Svelte, Capacitor and Firebase",
+				"link": "https://harryherskowitz.com/2022/01/05/tapedrop-app.html"
+			}
+		]
+	},
+	{
+		"url": "https://hashbrown.geopjr.dev",
+		"pages": [
+			{
+				"name": "hashbrown.geopjr.dev",
+				"link": "https://hashbrown.geopjr.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://hasura.io",
+		"pages": [
+			{
+				"name": "learn / graphql / svelte",
+				"link": "https://hasura.io/learn/graphql/svelte-apollo/introduction/"
+			}
+		]
+	},
+	{
+		"url": "https://heroeswearmasks.fun",
+		"pages": [
+			{
+				"name": "heroeswearmasks.fun",
+				"link": "https://heroeswearmasks.fun/"
+			}
+		]
+	},
+	{
+		"url": "https://heyweek.com",
+		"pages": [
+			{
+				"name": "Heyweek",
+				"link": "https://heyweek.com/"
+			}
+		]
+	},
+	{
+		"url": "https://highlighteel.com",
+		"pages": [
+			{
+				"name": "highlight eel",
+				"link": "https://highlighteel.com/"
+			}
+		]
+	},
+	{
+		"url": "https://histogram.dev",
+		"pages": [
+			{
+				"name": "Histogram.dev",
+				"link": "https://histogram.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://housesof.world",
+		"pages": [
+			{
+				"name": "Houses Of",
+				"link": "https://housesof.world/"
+			}
+		]
+	},
+	{
+		"url": "https://html.spec.whatwg.org",
+		"pages": [
+			{
+				"name": "HTML attribute",
+				"link": "https://html.spec.whatwg.org/multipage/interaction.html#the-inert-attribute"
+			}
+		]
+	},
+	{
+		"url": "https://imfeld.dev",
+		"pages": [
+			{
+				"name": "Coordinating Multiple Elements with Svelte Deferred Transitions",
+				"link": "https://imfeld.dev/writing/svelte_deferred_transitions"
+			}
+		]
+	},
+	{
+		"url": "https://imperfectreminders.mildlyupset.com",
+		"pages": [
+			{
+				"name": "Imperfect Reminders",
+				"link": "https://imperfectreminders.mildlyupset.com/"
+			}
+		]
+	},
+	{
+		"url": "https://impfdashboard.de",
+		"pages": [
+			{
+				"name": "The official German vaccination dashboard",
+				"link": "https://impfdashboard.de/"
+			}
+		]
+	},
+	{
+		"url": "https://interference2020.org",
+		"pages": [
+			{
+				"name": "Interference 2020",
+				"link": "https://interference2020.org/"
+			}
+		]
+	},
+	{
+		"url": "https://ionic.io",
+		"pages": [
+			{
+				"name": "Blazing fast PWAs with SEO power using SvelteKit and Ionic",
+				"link": "https://ionic.io/blog/pwas-using-sveltekit-and-ionic"
+			}
+		]
+	},
+	{
+		"url": "https://ivoberger.com",
+		"pages": [
+			{
+				"name": "How to use Vercel Analytics with SvelteKit",
+				"link": "https://ivoberger.com/posts/using-vercel-analytics-with-svelte-kit"
+			}
+		]
+	},
+	{
+		"url": "https://jensa.org",
+		"pages": [
+			{
+				"name": "NESBit Studio",
+				"link": "https://jensa.org/NESBitStudio-web/graphics/spritesheets"
+			}
+		]
+	},
+	{
+		"url": "https://jenyus.web.app",
+		"pages": [
+			{
+				"name": "Setting up a development environment for SvelteKit with Docker and Docker Compose",
+				"link": "https://jenyus.web.app/blog/2021-05-30-setting-up-a-development-environment-for-sveltekit-with-docker-and-compose"
+			}
+		]
+	},
+	{
+		"url": "https://jeremydayslice.hashnode.dev",
+		"pages": [
+			{
+				"name": "Svelte Snacks | Custom Events for Modal Actions",
+				"link": "https://jeremydayslice.hashnode.dev/svelte-snacks-or-custom-events-for-modal-actions"
+			}
+		]
+	},
+	{
+		"url": "https://jochemvogel.medium.com",
+		"pages": [
+			{
+				"name": "How To Cache Dynamic Pages On Demand With A Service Worker In SvelteKit",
+				"link": "https://jochemvogel.medium.com/how-to-cache-dynamic-pages-on-demand-with-a-service-worker-in-sveltekit-4b4a7652583d"
+			}
+		]
+	},
+	{
+		"url": "https://joyofcode.xyz",
+		"pages": [
+			{
+				"name": "blog guide",
+				"link": "https://joyofcode.xyz/sveltekit-for-beginners"
+			}
+		]
+	},
+	{
+		"url": "https://jp-jouzu.netlify.app",
+		"pages": [
+			{
+				"name": "Japanese Jouzu",
+				"link": "https://jp-jouzu.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://jrende.xyz",
+		"pages": [
+			{
+				"name": "Weaver",
+				"link": "https://jrende.xyz/weaver/"
+			}
+		]
+	},
+	{
+		"url": "https://kadium.kasper.space",
+		"pages": [
+			{
+				"name": "Kadium",
+				"link": "https://kadium.kasper.space/"
+			}
+		]
+	},
+	{
+		"url": "https://konstaui.com",
+		"pages": [
+			{
+				"name": "Konsta UI",
+				"link": "https://konstaui.com/"
+			}
+		]
+	},
+	{
+		"url": "https://kudadam.com",
+		"pages": [
+			{
+				"name": "SvelteKit Hooks. Everything You Need To Know",
+				"link": "https://kudadam.com/blog/understanding-sveltekit-hooks"
+			}
+		]
+	},
+	{
+		"url": "https://labs.hamy.xyz",
+		"pages": [
+			{
+				"name": "Svelte is better than React",
+				"link": "https://labs.hamy.xyz/posts/svelte-is-better-than-react/"
+			}
+		]
+	},
+	{
+		"url": "https://langserver.org",
+		"pages": [
+			{
+				"name": "using an LSP",
+				"link": "https://langserver.org/#implementations-client"
+			}
+		]
+	},
+	{
+		"url": "https://laravel.com",
+		"pages": [
+			{
+				"name": "Laravel",
+				"link": "https://laravel.com/"
+			}
+		]
+	},
+	{
+		"url": "https://launch.itty-sh.pages.dev",
+		"pages": [
+			{
+				"name": "itty",
+				"link": "https://launch.itty-sh.pages.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://launcher.team",
+		"pages": [
+			{
+				"name": "Launcher",
+				"link": "https://launcher.team/"
+			}
+		]
+	},
+	{
+		"url": "https://learnnextjs.com",
+		"pages": [
+			{
+				"name": "learnnextjs.com",
+				"link": "https://learnnextjs.com"
+			}
+		]
+	},
+	{
+		"url": "https://letspremortem.com",
+		"pages": [
+			{
+				"name": "Let's premortem",
+				"link": "https://letspremortem.com/"
+			}
+		]
+	},
+	{
+		"url": "https://lexical.dev",
+		"pages": [
+			{
+				"name": "Lexical",
+				"link": "https://lexical.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://lihautan.com",
+		"pages": [
+			{
+				"name": "new blog post",
+				"link": "https://lihautan.com/contributing-to-svelte-implement-key-block/"
+			}
+		]
+	},
+	{
+		"url": "https://limey.io",
+		"pages": [
+			{
+				"name": "Limey",
+				"link": "https://limey.io/"
+			}
+		]
+	},
+	{
+		"url": "https://lirify-tan.vercel.app",
+		"pages": [
+			{
+				"name": "Lirify",
+				"link": "https://lirify-tan.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://logsnag.com",
+		"pages": [
+			{
+				"name": "LogSnag",
+				"link": "https://logsnag.com/"
+			}
+		]
+	},
+	{
+		"url": "https://lucia-auth.com",
+		"pages": [
+			{
+				"name": "Lucia",
+				"link": "https://lucia-auth.com/blog/lucia-1"
+			}
+		]
+	},
+	{
+		"url": "https://magic.link",
+		"pages": [
+			{
+				"name": "How to add Magic Link to a SvelteKit application",
+				"link": "https://magic.link/posts/magic-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://mainmatter.com",
+		"pages": [
+			{
+				"name": "A practical first look at the Svelte framework",
+				"link": "https://mainmatter.com/blog/2023/01/24/sveltekit-super-rentals/"
+			}
+		]
+	},
+	{
+		"url": "https://make-bookmarklets.com",
+		"pages": [
+			{
+				"name": "Make Bookmarklets",
+				"link": "https://make-bookmarklets.com/"
+			}
+		]
+	},
+	{
+		"url": "https://manitu.me",
+		"pages": [
+			{
+				"name": "manitu.me",
+				"link": "https://manitu.me/"
+			}
+		]
+	},
+	{
+		"url": "https://marvel.geoffrich.net",
+		"pages": [
+			{
+				"name": "Browse Marvel Unlimited by Year",
+				"link": "https://marvel.geoffrich.net/"
+			}
+		]
+	},
+	{
+		"url": "https://massivepixel.io",
+		"pages": [
+			{
+				"name": "Svelte vs React: Ending the Debate",
+				"link": "https://massivepixel.io/blog/svelte-vs-react/"
+			}
+		]
+	},
+	{
+		"url": "https://microsocial.xyz",
+		"pages": [
+			{
+				"name": "Microsocial",
+				"link": "https://microsocial.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://microsoft.github.io",
+		"pages": [
+			{
+				"name": "Language Server Protocol standard",
+				"link": "https://microsoft.github.io//language-server-protocol/overviews/lsp/overview/"
+			}
+		]
+	},
+	{
+		"url": "https://mk48.io",
+		"pages": [
+			{
+				"name": "mk48.io",
+				"link": "https://mk48.io/"
+			}
+		]
+	},
+	{
+		"url": "https://mlu-explain.github.io",
+		"pages": [
+			{
+				"name": "Linear Regression",
+				"link": "https://mlu-explain.github.io/linear-regression/"
+			}
+		]
+	},
+	{
+		"url": "https://mobile.twitter.com",
+		"pages": [
+			{
+				"name": "embedded devices",
+				"link": "https://mobile.twitter.com/sveltejs/status/1088500539640418304"
+			}
+		]
+	},
+	{
+		"url": "https://modulus.vision",
+		"pages": [
+			{
+				"name": "Modulus",
+				"link": "https://modulus.vision/"
+			}
+		]
+	},
+	{
+		"url": "https://multimonitorcalculator.com",
+		"pages": [
+			{
+				"name": "Multi-Monitor Calculator",
+				"link": "https://multimonitorcalculator.com/"
+			}
+		]
+	},
+	{
+		"url": "https://multris.s1h.org",
+		"pages": [
+			{
+				"name": "multris",
+				"link": "https://multris.s1h.org/"
+			}
+		]
+	},
+	{
+		"url": "https://music.apple.com",
+		"pages": [
+			{
+				"name": "Apple Music",
+				"link": "https://music.apple.com/us/browse"
+			}
+		]
+	},
+	{
+		"url": "https://musicforprogramming.net",
+		"pages": [
+			{
+				"name": "Music for Programming",
+				"link": "https://musicforprogramming.net/latest/"
+			}
+		]
+	},
+	{
+		"url": "https://nagato.app",
+		"pages": [
+			{
+				"name": "Nagato",
+				"link": "https://nagato.app/"
+			}
+		]
+	},
+	{
+		"url": "https://narration.studio",
+		"pages": [
+			{
+				"name": "narration.studio",
+				"link": "https://narration.studio/"
+			}
+		]
+	},
+	{
+		"url": "https://nathancahill.com",
+		"pages": [
+			{
+				"name": "Transitional Apps with Phoenix and Svelte",
+				"link": "https://nathancahill.com/phoenix-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://navillus.dev",
+		"pages": [
+			{
+				"name": "Class properties in Svelte",
+				"link": "https://navillus.dev/blog/svelte-class-props"
+			}
+		]
+	},
+	{
+		"url": "https://neil.macmunn.com",
+		"pages": [
+			{
+				"name": "SQLite Playground",
+				"link": "https://neil.macmunn.com/sqlite#"
+			}
+		]
+	},
+	{
+		"url": "https://neovimcraft.com",
+		"pages": [
+			{
+				"name": "neovimcraft",
+				"link": "https://neovimcraft.com/"
+			}
+		]
+	},
+	{
+		"url": "https://netlify.app",
+		"pages": [
+			{
+				"name": "Netlify",
+				"link": "https://netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://news.ycombinator.com",
+		"pages": [
+			{
+				"name": "launched 5 years ago",
+				"link": "https://news.ycombinator.com/item?id=13069841"
+			}
+		]
+	},
+	{
+		"url": "https://nicholasreese.com",
+		"pages": [
+			{
+				"name": "Lessons From Building a Static Site Generator",
+				"link": "https://nicholasreese.com/lessons-from-building-a-static-site-generator/"
+			}
+		]
+	},
+	{
+		"url": "https://night.fm",
+		"pages": [
+			{
+				"name": "night.fm",
+				"link": "https://night.fm/"
+			}
+		]
+	},
+	{
+		"url": "https://nocode.gallery",
+		"pages": [
+			{
+				"name": "nocode.gallery",
+				"link": "https://nocode.gallery/"
+			}
+		]
+	},
+	{
+		"url": "https://novacbn.github.io",
+		"pages": [
+			{
+				"name": "svelte-image-crop",
+				"link": "https://novacbn.github.io/svelte-image-crop/"
+			}
+		]
+	},
+	{
+		"url": "https://npmjs.com",
+		"pages": [
+			{
+				"name": "npm",
+				"link": "https://npmjs.com/"
+			}
+		]
+	},
+	{
+		"url": "https://octavecompass.com",
+		"pages": [
+			{
+				"name": "Octave Compass",
+				"link": "https://octavecompass.com/2741"
+			}
+		]
+	},
+	{
+		"url": "https://onwritingcode.com",
+		"pages": [
+			{
+				"name": "On Writing Code",
+				"link": "https://onwritingcode.com/"
+			}
+		]
+	},
+	{
+		"url": "https://opendirective.net",
+		"pages": [
+			{
+				"name": "Comparing Svelte Reactivity Options",
+				"link": "https://opendirective.net/2022/01/06/comparing-svelte-reactivity-options/"
+			}
+		]
+	},
+	{
+		"url": "https://paaster.io",
+		"pages": [
+			{
+				"name": "Paaster",
+				"link": "https://paaster.io/"
+			}
+		]
+	},
+	{
+		"url": "https://pagereview.io",
+		"pages": [
+			{
+				"name": "pagereview.io",
+				"link": "https://pagereview.io/"
+			}
+		]
+	},
+	{
+		"url": "https://palette.rocks",
+		"pages": [
+			{
+				"name": "palette.rocks",
+				"link": "https://palette.rocks/"
+			}
+		]
+	},
+	{
+		"url": "https://palitra.app",
+		"pages": [
+			{
+				"name": "Palitra App",
+				"link": "https://palitra.app/"
+			}
+		]
+	},
+	{
+		"url": "https://papi.run",
+		"pages": [
+			{
+				"name": "papi",
+				"link": "https://papi.run/"
+			}
+		]
+	},
+	{
+		"url": "https://pass-composer.vercel.app",
+		"pages": [
+			{
+				"name": "pass-composer",
+				"link": "https://pass-composer.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://passshare.mynt.pw",
+		"pages": [
+			{
+				"name": "PassShare",
+				"link": "https://passshare.mynt.pw/"
+			}
+		]
+	},
+	{
+		"url": "https://patra.webjeda.com",
+		"pages": [
+			{
+				"name": "Patra",
+				"link": "https://patra.webjeda.com/"
+			}
+		]
+	},
+	{
+		"url": "https://pattern.monster",
+		"pages": [
+			{
+				"name": "Pattern Monster",
+				"link": "https://pattern.monster/"
+			}
+		]
+	},
+	{
+		"url": "https://peer.beer",
+		"pages": [
+			{
+				"name": "Peerbeer",
+				"link": "https://peer.beer/"
+			}
+		]
+	},
+	{
+		"url": "https://philkruft.dev",
+		"pages": [
+			{
+				"name": "Smooth Page Transitions with SvelteKit",
+				"link": "https://philkruft.dev/blog/smooth-page-transitions-with-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://photon-alexwarnes.vercel.app",
+		"pages": [
+			{
+				"name": "This 3D retro-themed asteroid shooter",
+				"link": "https://photon-alexwarnes.vercel.app/showcase/asteroids"
+			}
+		]
+	},
+	{
+		"url": "https://pianisto.net",
+		"pages": [
+			{
+				"name": "Pianisto",
+				"link": "https://pianisto.net/"
+			}
+		]
+	},
+	{
+		"url": "https://pink.appwrite.io",
+		"pages": [
+			{
+				"name": "Pink",
+				"link": "https://pink.appwrite.io/"
+			}
+		]
+	},
+	{
+		"url": "https://pittsburgh-steps.samlearner.com",
+		"pages": [
+			{
+				"name": "Pittsburgh Steps",
+				"link": "https://pittsburgh-steps.samlearner.com/"
+			}
+		]
+	},
+	{
+		"url": "https://plan.lodzero.com",
+		"pages": [
+			{
+				"name": ".PLAN",
+				"link": "https://plan.lodzero.com/"
+			}
+		]
+	},
+	{
+		"url": "https://planetbaseddiets.panda.org",
+		"pages": [
+			{
+				"name": "Plant-based diets",
+				"link": "https://planetbaseddiets.panda.org/"
+			}
+		]
+	},
+	{
+		"url": "https://play.google.com",
+		"pages": [
+			{
+				"name": "Radiant: The Future of Radio",
+				"link": "https://play.google.com/store/apps/details?id=co.broadcastapp.Radiant"
+			}
+		]
+	},
+	{
+		"url": "https://playwright.dev",
+		"pages": [
+			{
+				"name": "Playwright",
+				"link": "https://playwright.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://plugins.jetbrains.com",
+		"pages": [
+			{
+				"name": "Svelte Framework Integration",
+				"link": "https://plugins.jetbrains.com/plugin/12375-svelte/"
+			}
+		]
+	},
+	{
+		"url": "https://podcast.20minjs.com",
+		"pages": [
+			{
+				"name": "Svelte and Contributing to Open-Source with Geoff Rich",
+				"link": "https://podcast.20minjs.com/1952066/10417700-episode-6-svelte-and-contributing-to-open-source-with-geoff-rich"
+			}
+		]
+	},
+	{
+		"url": "https://portal.gitnation.org",
+		"pages": [
+			{
+				"name": "Full Stack Documentation (announcing learn.svelte.dev",
+				"link": "https://portal.gitnation.org/contents/full-stack-documentation)"
+			}
+		]
+	},
+	{
+		"url": "https://powerswitcher.axpo.com",
+		"pages": [
+			{
+				"name": "Power Switcher",
+				"link": "https://powerswitcher.axpo.com/"
+			}
+		]
+	},
+	{
+		"url": "https://poxi.page",
+		"pages": [
+			{
+				"name": "Poxi",
+				"link": "https://poxi.page"
+			}
+		]
+	},
+	{
+		"url": "https://pqina.nl",
+		"pages": [
+			{
+				"name": "Creating A Custom Svelte Media Query Store",
+				"link": "https://pqina.nl/blog/svelte-media-query-store/"
+			}
+		]
+	},
+	{
+		"url": "https://prettier.io",
+		"pages": [
+			{
+				"name": "Prettier",
+				"link": "https://prettier.io/"
+			}
+		]
+	},
+	{
+		"url": "https://primo.af",
+		"pages": [
+			{
+				"name": "Primo",
+				"link": "https://primo.af/"
+			}
+		]
+	},
+	{
+		"url": "https://promptomania.com",
+		"pages": [
+			{
+				"name": "promptoMANIA",
+				"link": "https://promptomania.com/"
+			}
+		]
+	},
+	{
+		"url": "https://pudding.cool",
+		"pages": [
+			{
+				"name": "The Pudding",
+				"link": "https://pudding.cool/"
+			}
+		]
+	},
+	{
+		"url": "https://pyronaur.com",
+		"pages": [
+			{
+				"name": "Dark Mode",
+				"link": "https://pyronaur.com/dark-mode/"
+			}
+		]
+	},
+	{
+		"url": "https://radicle.xyz",
+		"pages": [
+			{
+				"name": "Radicle",
+				"link": "https://radicle.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://rafistrauss.github.io",
+		"pages": [
+			{
+				"name": "JSDoc Type Generator",
+				"link": "https://rafistrauss.github.io/jsdoc-generator/"
+			}
+		]
+	},
+	{
+		"url": "https://ralphbliu.medium.com",
+		"pages": [
+			{
+				"name": "S2T2",
+				"link": "https://ralphbliu.medium.com/s2t2-snowpack-svelte-tailwindcss-typescript-8928caa5af6c"
+			}
+		]
+	},
+	{
+		"url": "https://rathermisty.com",
+		"pages": [
+			{
+				"name": "RatherMisty",
+				"link": "https://rathermisty.com/"
+			}
+		]
+	},
+	{
+		"url": "https://rauno.me",
+		"pages": [
+			{
+				"name": "Rauno's radial menu",
+				"link": "https://rauno.me/craft/radial-menu"
+			}
+		]
+	},
+	{
+		"url": "https://reacttraining.com",
+		"pages": [
+			{
+				"name": "gave up on",
+				"link": "https://reacttraining.com/react-router/web/guides/code-splitting"
+			}
+		]
+	},
+	{
+		"url": "https://remix.run",
+		"pages": [
+			{
+				"name": "Remix",
+				"link": "https://remix.run/"
+			}
+		]
+	},
+	{
+		"url": "https://render.com",
+		"pages": [
+			{
+				"name": "Design Patterns for Building Reusable Svelte Components",
+				"link": "https://render.com/blog/svelte-design-patterns"
+			}
+		]
+	},
+	{
+		"url": "https://retro.cloud",
+		"pages": [
+			{
+				"name": "SvelteKit and the \"Client pattern\"",
+				"link": "https://retro.cloud/sveltekit-and-the-client-pattern/"
+			}
+		]
+	},
+	{
+		"url": "https://river-runner.samlearner.com",
+		"pages": [
+			{
+				"name": "River Runner",
+				"link": "https://river-runner.samlearner.com/"
+			}
+		]
+	},
+	{
+		"url": "https://rtw.voyage",
+		"pages": [
+			{
+				"name": "Round The World",
+				"link": "https://rtw.voyage/"
+			}
+		]
+	},
+	{
+		"url": "https://rubyonrails.org",
+		"pages": [
+			{
+				"name": "Rails",
+				"link": "https://rubyonrails.org/"
+			}
+		]
+	},
+	{
+		"url": "https://russellgoldenberg.github.io",
+		"pages": [
+			{
+				"name": "svelte-crossword",
+				"link": "https://russellgoldenberg.github.io/svelte-crossword/"
+			}
+		]
+	},
+	{
+		"url": "https://ryanboddy.net",
+		"pages": [
+			{
+				"name": "Leveling Up my Sveltekit / Sanity.io Blog Content with Featured Videos and Syntax Highlighting",
+				"link": "https://ryanboddy.net/level-up-blog"
+			}
+		]
+	},
+	{
+		"url": "https://sapper.svelte.technology",
+		"pages": [
+			{
+				"name": "Sapper",
+				"link": "https://sapper.svelte.technology"
+			}
+		]
+	},
+	{
+		"url": "https://sc3-lab.netlify.app",
+		"pages": [
+			{
+				"name": "SC3Lab",
+				"link": "https://sc3-lab.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://scottspence.com",
+		"pages": [
+			{
+				"name": "Getting Started with KitQL and GraphCMS",
+				"link": "https://scottspence.com/posts/getting-started-with-kitql-and-graphcms"
+			}
+		]
+	},
+	{
+		"url": "https://scrumpack.io",
+		"pages": [
+			{
+				"name": "Scrumpack",
+				"link": "https://scrumpack.io/"
+			}
+		]
+	},
+	{
+		"url": "https://search.brave.com",
+		"pages": [
+			{
+				"name": "Brave Search",
+				"link": "https://search.brave.com/"
+			}
+		]
+	},
+	{
+		"url": "https://sendmemo.app",
+		"pages": [
+			{
+				"name": "Memo",
+				"link": "https://sendmemo.app/features/"
+			}
+		]
+	},
+	{
+		"url": "https://sentence-length.netlify.app",
+		"pages": [
+			{
+				"name": "sentence-length",
+				"link": "https://sentence-length.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://shipbit.de",
+		"pages": [
+			{
+				"name": "Migrating from Sapper to SvelteKit",
+				"link": "https://shipbit.de/blog/migrating-from-sapper-to-svelte-kit/"
+			}
+		]
+	},
+	{
+		"url": "https://shop.porterspaints.com",
+		"pages": [
+			{
+				"name": "Porter's Paints",
+				"link": "https://shop.porterspaints.com/"
+			}
+		]
+	},
+	{
+		"url": "https://sidharth-anand.github.io",
+		"pages": [
+			{
+				"name": "TeilUI",
+				"link": "https://sidharth-anand.github.io/teil-ui/"
+			}
+		]
+	},
+	{
+		"url": "https://sigilspace.com",
+		"pages": [
+			{
+				"name": "Sigil",
+				"link": "https://sigilspace.com/"
+			}
+		]
+	},
+	{
+		"url": "https://sk-incognito.vercel.app",
+		"pages": [
+			{
+				"name": "The **unofficial** SvelteKit docs",
+				"link": "https://sk-incognito.vercel.app/learn/what-is-sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://skeleton.brainandbonesllc.com",
+		"pages": [
+			{
+				"name": "Skeleton",
+				"link": "https://skeleton.brainandbonesllc.com/"
+			}
+		]
+	},
+	{
+		"url": "https://slinkity.dev",
+		"pages": [
+			{
+				"name": "Slinkity",
+				"link": "https://slinkity.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://soshace.com",
+		"pages": [
+			{
+				"name": "Svelte for React Developers",
+				"link": "https://soshace.com/svelte-for-react-developers/"
+			}
+		]
+	},
+	{
+		"url": "https://soundofwar.art",
+		"pages": [
+			{
+				"name": "Sound of War",
+				"link": "https://soundofwar.art/"
+			}
+		]
+	},
+	{
+		"url": "https://spacecruft.org",
+		"pages": [
+			{
+				"name": "deepcrayon/scrolltron",
+				"link": "https://spacecruft.org/deepcrayon/scrolltron"
+			}
+		]
+	},
+	{
+		"url": "https://spierala.github.io",
+		"pages": [
+			{
+				"name": "MiniRx",
+				"link": "https://spierala.github.io/mini-rx-store/"
+			}
+		]
+	},
+	{
+		"url": "https://splits.best",
+		"pages": [
+			{
+				"name": "splits",
+				"link": "https://splits.best/"
+			}
+		]
+	},
+	{
+		"url": "https://sprint.cards",
+		"pages": [
+			{
+				"name": "Sprint Cards",
+				"link": "https://sprint.cards"
+			}
+		]
+	},
+	{
+		"url": "https://sqrdoff.cubieverse.co",
+		"pages": [
+			{
+				"name": "sqrdoff",
+				"link": "https://sqrdoff.cubieverse.co/"
+			}
+		]
+	},
+	{
+		"url": "https://stackblitz.com",
+		"pages": [
+			{
+				"name": "StackBlitz",
+				"link": "https://stackblitz.com/"
+			}
+		]
+	},
+	{
+		"url": "https://stateofjs.com",
+		"pages": [
+			{
+				"name": "State of JS survey",
+				"link": "https://stateofjs.com"
+			}
+		]
+	},
+	{
+		"url": "https://stenciljs.com",
+		"pages": [
+			{
+				"name": "Stencil",
+				"link": "https://stenciljs.com"
+			}
+		]
+	},
+	{
+		"url": "https://stephanie-luz.medium.com",
+		"pages": [
+			{
+				"name": "Stephanie Luz",
+				"link": "https://stephanie-luz.medium.com/"
+			}
+		]
+	},
+	{
+		"url": "https://strapi.io",
+		"pages": [
+			{
+				"name": "How to Create a Blog with SvelteKit and Strapi",
+				"link": "https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi"
+			}
+		]
+	},
+	{
+		"url": "https://straw.page",
+		"pages": [
+			{
+				"name": "straw.page",
+				"link": "https://straw.page/"
+			}
+		]
+	},
+	{
+		"url": "https://string.kampsy.xyz",
+		"pages": [
+			{
+				"name": "String",
+				"link": "https://string.kampsy.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://sub.live",
+		"pages": [
+			{
+				"name": "Sublive",
+				"link": "https://sub.live/"
+			}
+		]
+	},
+	{
+		"url": "https://sustainablewww.org",
+		"pages": [
+			{
+				"name": "Svelte training: Here you can learn Svelte",
+				"link": "https://sustainablewww.org/principles/svelte-training-here-you-can-learn-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://sveltable.io",
+		"pages": [
+			{
+				"name": "SvelTable",
+				"link": "https://sveltable.io/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-crush.netlify.app",
+		"pages": [
+			{
+				"name": "Svelte Crush",
+				"link": "https://svelte-crush.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-french-toast.com",
+		"pages": [
+			{
+				"name": "Svelte French Toast",
+				"link": "https://svelte-french-toast.com/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-modals.mattjennings.io",
+		"pages": [
+			{
+				"name": "svelte-modals",
+				"link": "https://svelte-modals.mattjennings.io/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-native.technology",
+		"pages": [
+			{
+				"name": "Svelte Native",
+				"link": "https://svelte-native.technology/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-plugins.github.io",
+		"pages": [
+			{
+				"name": "@svelte-plugins/tooltips",
+				"link": "https://svelte-plugins.github.io/tooltips/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte-todomvc.surge.sh",
+		"pages": [
+			{
+				"name": "Svelte implementation of TodoMVC",
+				"link": "https://svelte-todomvc.surge.sh/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte.recipes",
+		"pages": [
+			{
+				"name": "Svelte Recipes 🧑‍🍳",
+				"link": "https://svelte.recipes/"
+			}
+		]
+	},
+	{
+		"url": "https://svelte.technology",
+		"pages": [
+			{
+				"name": "svelte.technology",
+				"link": "https://svelte.technology"
+			}
+		]
+	},
+	{
+		"url": "https://sveltekit-is-land.vercel.app",
+		"pages": [
+			{
+				"name": "SvelteKit + `<is-land>`",
+				"link": "https://sveltekit-is-land.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://sveltekit-on-the-edge.vercel.app",
+		"pages": [
+			{
+				"name": "sveltekit-on-the-edge.vercel.app",
+				"link": "https://sveltekit-on-the-edge.vercel.app/edge"
+			}
+		]
+	},
+	{
+		"url": "https://sveltekitstarter.com",
+		"pages": [
+			{
+				"name": "Free Svelte Accelerators",
+				"link": "https://sveltekitstarter.com/"
+			}
+		]
+	},
+	{
+		"url": "https://sveltelab.app",
+		"pages": [
+			{
+				"name": "Svelte Lab",
+				"link": "https://sveltelab.app/"
+			}
+		]
+	},
+	{
+		"url": "https://sveltepress.site",
+		"pages": [
+			{
+				"name": "Sveltepress",
+				"link": "https://sveltepress.site/"
+			}
+		]
+	},
+	{
+		"url": "https://sveltesaas.com",
+		"pages": [
+			{
+				"name": "How to Deploy SvelteKit Apps to GitHub Pages",
+				"link": "https://sveltesaas.com/articles/sveltekit-github-pages-guide/"
+			}
+		]
+	},
+	{
+		"url": "https://sveltethemes.dev",
+		"pages": [
+			{
+				"name": "SvelteThemes",
+				"link": "https://sveltethemes.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://svgps.app",
+		"pages": [
+			{
+				"name": "SVGPS",
+				"link": "https://svgps.app/"
+			}
+		]
+	},
+	{
+		"url": "https://svgx.app",
+		"pages": [
+			{
+				"name": "SVGX",
+				"link": "https://svgx.app/"
+			}
+		]
+	},
+	{
+		"url": "https://svooltip.vercel.app",
+		"pages": [
+			{
+				"name": "SVooltip",
+				"link": "https://svooltip.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://swag.syntax.fm",
+		"pages": [
+			{
+				"name": "Syntax FM's swag shop",
+				"link": "https://swag.syntax.fm/"
+			}
+		]
+	},
+	{
+		"url": "https://swehl.com",
+		"pages": [
+			{
+				"name": "Swehl",
+				"link": "https://swehl.com/"
+			}
+		]
+	},
+	{
+		"url": "https://swyxkit.netlify.app",
+		"pages": [
+			{
+				"name": "SwyxKit",
+				"link": "https://swyxkit.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://syntax.fm",
+		"pages": [
+			{
+				"name": "Supper Club × Rich Harris, Author of Svelte — Syntax Podcast 499",
+				"link": "https://syntax.fm/show/499/supper-club-rich-harris-author-of-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://tailwindcss.com",
+		"pages": [
+			{
+				"name": "Tailwind",
+				"link": "https://tailwindcss.com/docs/guides/sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://teamtale.app",
+		"pages": [
+			{
+				"name": "Team Tale",
+				"link": "https://teamtale.app/"
+			}
+		]
+	},
+	{
+		"url": "https://the-making-known.com",
+		"pages": [
+			{
+				"name": "The Making Known",
+				"link": "https://the-making-known.com/"
+			}
+		]
+	},
+	{
+		"url": "https://thecoinperspective.com",
+		"pages": [
+			{
+				"name": "The Coin Perspective",
+				"link": "https://thecoinperspective.com/"
+			}
+		]
+	},
+	{
+		"url": "https://thefarstar.apotheus.net",
+		"pages": [
+			{
+				"name": "The Far Star Mission",
+				"link": "https://thefarstar.apotheus.net/"
+			}
+		]
+	},
+	{
+		"url": "https://theia.games",
+		"pages": [
+			{
+				"name": "theia.games",
+				"link": "https://theia.games/#dev"
+			}
+		]
+	},
+	{
+		"url": "https://thethinks.vercel.app",
+		"pages": [
+			{
+				"name": "Svelte Authentication Tutorial with Authorizer",
+				"link": "https://thethinks.vercel.app/blog/svelte-authorizer"
+			}
+		]
+	},
+	{
+		"url": "https://thevalleyofcode.com",
+		"pages": [
+			{
+				"name": "The Svelte Handbook",
+				"link": "https://thevalleyofcode.com/svelte/"
+			}
+		]
+	},
+	{
+		"url": "https://threlte.xyz",
+		"pages": [
+			{
+				"name": "Threlte",
+				"link": "https://threlte.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://titowest.com",
+		"pages": [
+			{
+				"name": "Titowest.com",
+				"link": "https://titowest.com/"
+			}
+		]
+	},
+	{
+		"url": "https://tobx.github.io",
+		"pages": [
+			{
+				"name": "Music Mode Wheels",
+				"link": "https://tobx.github.io/music-mode-wheels/"
+			}
+		]
+	},
+	{
+		"url": "https://tomdale.net",
+		"pages": [
+			{
+				"name": "moving towards this model",
+				"link": "https://tomdale.net/2017/09/compilers-are-the-new-frameworks/"
+			}
+		]
+	},
+	{
+		"url": "https://tooling-manager.netlify.app",
+		"pages": [
+			{
+				"name": "Tooling Manager",
+				"link": "https://tooling-manager.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://topenddevs.com",
+		"pages": [
+			{
+				"name": "Marvels Of Using Svelte and SvelteKit - JSJ 566",
+				"link": "https://topenddevs.com/podcasts/javascript-jabber/episodes/marvels-of-using-svelte-and-sveltekit-jsj-566"
+			}
+		]
+	},
+	{
+		"url": "https://totems-soclage.com",
+		"pages": [
+			{
+				"name": "Totems",
+				"link": "https://totems-soclage.com/"
+			}
+		]
+	},
+	{
+		"url": "https://trace-svelte.vercel.app",
+		"pages": [
+			{
+				"name": "trace-svelte",
+				"link": "https://trace-svelte.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://tracktheparcel.com",
+		"pages": [
+			{
+				"name": "Track the Parcel",
+				"link": "https://tracktheparcel.com/"
+			}
+		]
+	},
+	{
+		"url": "https://treasure.playaheadgames.com",
+		"pages": [
+			{
+				"name": "Castles & Crusades Treasure Generator",
+				"link": "https://treasure.playaheadgames.com/"
+			}
+		]
+	},
+	{
+		"url": "https://tune-twisters.vercel.app",
+		"pages": [
+			{
+				"name": "Tune Twisters",
+				"link": "https://tune-twisters.vercel.app/"
+			}
+		]
+	},
+	{
+		"url": "https://twelveui.readme.io",
+		"pages": [
+			{
+				"name": "TwelveUI",
+				"link": "https://twelveui.readme.io/reference/what-is-twelveui"
+			}
+		]
+	},
+	{
+		"url": "https://tyhopp.com",
+		"pages": [
+			{
+				"name": "Thoughts on Svelte",
+				"link": "https://tyhopp.com/notes/thoughts-on-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://type-kana.cass.moe",
+		"pages": [
+			{
+				"name": "type-kana",
+				"link": "https://type-kana.cass.moe/setup"
+			}
+		]
+	},
+	{
+		"url": "https://typedwebhook.tools",
+		"pages": [
+			{
+				"name": "TypedWebhook.tools",
+				"link": "https://typedwebhook.tools/"
+			}
+		]
+	},
+	{
+		"url": "https://unbounded.polkadot.network",
+		"pages": [
+			{
+				"name": "Unbounded",
+				"link": "https://unbounded.polkadot.network/"
+			}
+		]
+	},
+	{
+		"url": "https://unplaneted.com",
+		"pages": [
+			{
+				"name": "unplaneted",
+				"link": "https://unplaneted.com/"
+			}
+		]
+	},
+	{
+		"url": "https://uppy.io",
+		"pages": [
+			{
+				"name": "Uppy",
+				"link": "https://uppy.io/blog/2020/12/1.24/"
+			}
+		]
+	},
+	{
+		"url": "https://varun.ca",
+		"pages": [
+			{
+				"name": "Let's Build a Confetti Cannon",
+				"link": "https://varun.ca/confetti/"
+			}
+		]
+	},
+	{
+		"url": "https://vedam.de",
+		"pages": [
+			{
+				"name": "Achim Vedam",
+				"link": "https://vedam.de/"
+			}
+		]
+	},
+	{
+		"url": "https://verbums.vdoc.dev",
+		"pages": [
+			{
+				"name": "Verbums",
+				"link": "https://verbums.vdoc.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://vim.fandom.com",
+		"pages": [
+			{
+				"name": "modeline",
+				"link": "https://vim.fandom.com/wiki/Modeline_magic"
+			}
+		]
+	},
+	{
+		"url": "https://vippet.netlify.app",
+		"pages": [
+			{
+				"name": "Vippet",
+				"link": "https://vippet.netlify.app/"
+			}
+		]
+	},
+	{
+		"url": "https://vitest.dev",
+		"pages": [
+			{
+				"name": "Vitest",
+				"link": "https://vitest.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://vuejs.org",
+		"pages": [
+			{
+				"name": "Vue",
+				"link": "https://vuejs.org"
+			}
+		]
+	},
+	{
+		"url": "https://waaard.com",
+		"pages": [
+			{
+				"name": "Waaard",
+				"link": "https://waaard.com/"
+			}
+		]
+	},
+	{
+		"url": "https://webpack.js.org",
+		"pages": [
+			{
+				"name": "webpack",
+				"link": "https://webpack.js.org/"
+			}
+		]
+	},
+	{
+		"url": "https://whenderson.github.io",
+		"pages": [
+			{
+				"name": "@crikey/stores-*",
+				"link": "https://whenderson.github.io/stores-mono/"
+			}
+		]
+	},
+	{
+		"url": "https://whoaremyrepresentatives.us",
+		"pages": [
+			{
+				"name": "Who are my representatives?",
+				"link": "https://whoaremyrepresentatives.us/"
+			}
+		]
+	},
+	{
+		"url": "https://whomtofollow.com",
+		"pages": [
+			{
+				"name": "Whom to Follow",
+				"link": "https://whomtofollow.com/"
+			}
+		]
+	},
+	{
+		"url": "https://whyframe.dev",
+		"pages": [
+			{
+				"name": "whyframe",
+				"link": "https://whyframe.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://wiibridges.com",
+		"pages": [
+			{
+				"name": "Kevin's site",
+				"link": "https://wiibridges.com/presentations/ResponsiveSvelte/"
+			}
+		]
+	},
+	{
+		"url": "https://workshops.thisdot.co",
+		"pages": [
+			{
+				"name": "Delightful Web Development with SvelteKit",
+				"link": "https://workshops.thisdot.co/learn/developing-with-sveltekit"
+			}
+		]
+	},
+	{
+		"url": "https://wundergraph.com",
+		"pages": [
+			{
+				"name": "Wundergraph",
+				"link": "https://wundergraph.com/blog/introducing_svelte_query_client"
+			}
+		]
+	},
+	{
+		"url": "https://www.albumbymood.com",
+		"pages": [
+			{
+				"name": "Album by Mood",
+				"link": "https://www.albumbymood.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.amazon.com",
+		"pages": [
+			{
+				"name": "Svelte 3 Up and Running",
+				"link": "https://www.amazon.com/dp/B08D6T6BKS/ref=cm_sw_r_tw_dp_x_OQMtFb3GPQCB2"
+			}
+		]
+	},
+	{
+		"url": "https://www.arahansen.com",
+		"pages": [
+			{
+				"name": "Svelte: The Compiled Future of Front End",
+				"link": "https://www.arahansen.com/the-compiled-future-of-front-end/"
+			}
+		]
+	},
+	{
+		"url": "https://www.atlanticcouncil.org",
+		"pages": [
+			{
+				"name": "Central Bank Digital Currency (CBDC tracker",
+				"link": "https://www.atlanticcouncil.org/cbdctracker/)"
+			}
+		]
+	},
+	{
+		"url": "https://www.attendzen.io",
+		"pages": [
+			{
+				"name": "AttendZen",
+				"link": "https://www.attendzen.io/"
+			}
+		]
+	},
+	{
+		"url": "https://www.closedcaptioncreator.com",
+		"pages": [
+			{
+				"name": "Closed Caption Creator",
+				"link": "https://www.closedcaptioncreator.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.cloudflare.com",
+		"pages": [
+			{
+				"name": "Cloudflare",
+				"link": "https://www.cloudflare.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.connorrothschild.com",
+		"pages": [
+			{
+				"name": "Making Visualizations Literally with Svelte and D3",
+				"link": "https://www.connorrothschild.com/post/svelte-and-d3"
+			}
+		]
+	},
+	{
+		"url": "https://www.cran-e.com",
+		"pages": [
+			{
+				"name": "CRAN/E",
+				"link": "https://www.cran-e.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.critical-notes.com",
+		"pages": [
+			{
+				"name": "Critical Notes",
+				"link": "https://www.critical-notes.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.defaultshortcuts.com",
+		"pages": [
+			{
+				"name": "Default Shortcuts",
+				"link": "https://www.defaultshortcuts.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.dylanlyrics.app",
+		"pages": [
+			{
+				"name": "Dylan Ipsum",
+				"link": "https://www.dylanlyrics.app/"
+			}
+		]
+	},
+	{
+		"url": "https://www.everythingsvelte.com",
+		"pages": [
+			{
+				"name": "Everything Svelte",
+				"link": "https://www.everythingsvelte.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.fictionboard.com",
+		"pages": [
+			{
+				"name": "FictionBoard",
+				"link": "https://www.fictionboard.com"
+			}
+		]
+	},
+	{
+		"url": "https://www.geo-projections.com",
+		"pages": [
+			{
+				"name": "Map Projection Explorer",
+				"link": "https://www.geo-projections.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.gistyarn.com",
+		"pages": [
+			{
+				"name": "weave drafts",
+				"link": "https://www.gistyarn.com/blogs/how-to-weave/how-to-read-a-weaving-draft"
+			}
+		]
+	},
+	{
+		"url": "https://www.hirehive.com",
+		"pages": [
+			{
+				"name": "hirehive",
+				"link": "https://www.hirehive.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.immich.app",
+		"pages": [
+			{
+				"name": "Immich",
+				"link": "https://www.immich.app/"
+			}
+		]
+	},
+	{
+		"url": "https://www.infernojs.org",
+		"pages": [
+			{
+				"name": "Inferno",
+				"link": "https://www.infernojs.org/"
+			}
+		]
+	},
+	{
+		"url": "https://www.itatiaia.com.br",
+		"pages": [
+			{
+				"name": "Itatiaia",
+				"link": "https://www.itatiaia.com.br/"
+			}
+		]
+	},
+	{
+		"url": "https://www.jefmeijvis.com",
+		"pages": [
+			{
+				"name": "Sveltekit API endpoints",
+				"link": "https://www.jefmeijvis.com/post/006-sveltekit-api-endpoints"
+			}
+		]
+	},
+	{
+		"url": "https://www.johnells.se",
+		"pages": [
+			{
+				"name": "johnells.se",
+				"link": "https://www.johnells.se/"
+			}
+		]
+	},
+	{
+		"url": "https://www.junglejs.org",
+		"pages": [
+			{
+				"name": "JungleJS",
+				"link": "https://www.junglejs.org/"
+			}
+		]
+	},
+	{
+		"url": "https://www.leaf.cloud",
+		"pages": [
+			{
+				"name": "How to internationalize routing in Svelte & Sapper",
+				"link": "https://www.leaf.cloud/blog/how-to-internationalize-routing-in-svelte-sapper?utm_medium=story&utm_source=reddit.com&utm_campaign=awareness&utm_content=sapper_routing"
+			}
+		]
+	},
+	{
+		"url": "https://www.lekoarts.de",
+		"pages": [
+			{
+				"name": "Creating a Figma Plugin with Svelte",
+				"link": "https://www.lekoarts.de/javascript/creating-a-figma-plugin-with-svelte"
+			}
+		]
+	},
+	{
+		"url": "https://www.listenaddict.com",
+		"pages": [
+			{
+				"name": "ListenAddict",
+				"link": "https://www.listenaddict.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.lofiandgames.com",
+		"pages": [
+			{
+				"name": "Lofi and Games",
+				"link": "https://www.lofiandgames.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.markmyimages.com",
+		"pages": [
+			{
+				"name": "MarkMyImages",
+				"link": "https://www.markmyimages.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.mathiaspicker.com",
+		"pages": [
+			{
+				"name": "3 tips for upgrading the performance of your Svelte stores",
+				"link": "https://www.mathiaspicker.com/posts/3-tips-for-upgrading-the-performance-of-your-svelte-stores"
+			}
+		]
+	},
+	{
+		"url": "https://www.mayerdan.com",
+		"pages": [
+			{
+				"name": "bug count",
+				"link": "https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio"
+			}
+		]
+	},
+	{
+		"url": "https://www.mordon.app",
+		"pages": [
+			{
+				"name": "Mail Must Move",
+				"link": "https://www.mordon.app/"
+			}
+		]
+	},
+	{
+		"url": "https://www.multiply.us",
+		"pages": [
+			{
+				"name": "Multiply",
+				"link": "https://www.multiply.us/"
+			}
+		]
+	},
+	{
+		"url": "https://www.neodrag.dev",
+		"pages": [
+			{
+				"name": "Neodrag",
+				"link": "https://www.neodrag.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://www.netlify.com",
+		"pages": [
+			{
+				"name": "Migrating Breaking Changes in SvelteKit",
+				"link": "https://www.netlify.com/blog/migrating-breaking-changes-in-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://www.newline.co",
+		"pages": [
+			{
+				"name": "Better Data Visualizations with Svelte",
+				"link": "https://www.newline.co/courses/better-data-visualizations-with-svelte/welcome"
+			}
+		]
+	},
+	{
+		"url": "https://www.nzherald.co.nz",
+		"pages": [
+			{
+				"name": "This New Zealand news site",
+				"link": "https://www.nzherald.co.nz/nz/election-2020-latest-results-party-vote-electorate-vote-and-full-data/5CFVO4ENKNQDE3SICRRNPU5GZM/"
+			}
+		]
+	},
+	{
+		"url": "https://www.open-tunings.com",
+		"pages": [
+			{
+				"name": "Open Tunings",
+				"link": "https://www.open-tunings.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.parsnip.ai",
+		"pages": [
+			{
+				"name": "Parsnip",
+				"link": "https://www.parsnip.ai/"
+			}
+		]
+	},
+	{
+		"url": "https://www.peopletonotion.com",
+		"pages": [
+			{
+				"name": "PeopletoNotion",
+				"link": "https://www.peopletonotion.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.phonicsandstuff.com",
+		"pages": [
+			{
+				"name": "Phonics + Stuff",
+				"link": "https://www.phonicsandstuff.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.pixelicious.xyz",
+		"pages": [
+			{
+				"name": "Pixelicious",
+				"link": "https://www.pixelicious.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://www.playhondo.com",
+		"pages": [
+			{
+				"name": "Hondo",
+				"link": "https://www.playhondo.com/how-to-play"
+			}
+		]
+	},
+	{
+		"url": "https://www.polymer-project.org",
+		"pages": [
+			{
+				"name": "Polymer",
+				"link": "https://www.polymer-project.org/1.0/"
+			}
+		]
+	},
+	{
+		"url": "https://www.pronauns.com",
+		"pages": [
+			{
+				"name": "Pronauns",
+				"link": "https://www.pronauns.com"
+			}
+		]
+	},
+	{
+		"url": "https://www.puzzlez.io",
+		"pages": [
+			{
+				"name": "Puzzlez",
+				"link": "https://www.puzzlez.io/"
+			}
+		]
+	},
+	{
+		"url": "https://www.radiofrance.fr",
+		"pages": [
+			{
+				"name": "radiofrance",
+				"link": "https://www.radiofrance.fr/"
+			}
+		]
+	},
+	{
+		"url": "https://www.redditcollegeresults.com",
+		"pages": [
+			{
+				"name": "Webscraped College Results",
+				"link": "https://www.redditcollegeresults.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.repomagic.com",
+		"pages": [
+			{
+				"name": "RepoMagic",
+				"link": "https://www.repomagic.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.responsehunt.com",
+		"pages": [
+			{
+				"name": "ResponseHunt",
+				"link": "https://www.responsehunt.com/"
+			}
+		]
+	},
+	{
+		"url": "https://www.roboleary.net",
+		"pages": [
+			{
+				"name": "Testing a Svelte app with Jest",
+				"link": "https://www.roboleary.net/2021/11/18/svelte-app-testing-jest.html"
+			}
+		]
+	},
+	{
+		"url": "https://www.ryanfiller.com",
+		"pages": [
+			{
+				"name": "Writing Context Aware Styles in a Svelte App",
+				"link": "https://www.ryanfiller.com/blog/tips/svelte-contex-aware-styles"
+			}
+		]
+	},
+	{
+		"url": "https://www.sitepoint.com",
+		"pages": [
+			{
+				"name": "A Beginner’s Guide to SvelteKit",
+				"link": "https://www.sitepoint.com/a-beginners-guide-to-sveltekit/"
+			}
+		]
+	},
+	{
+		"url": "https://www.splet.rs",
+		"pages": [
+			{
+				"name": "Splet Tech Konferencija",
+				"link": "https://www.splet.rs/"
+			}
+		]
+	},
+	{
+		"url": "https://www.staging-typescript.org",
+		"pages": [
+			{
+				"name": "add `// @ts-check`",
+				"link": "https://www.staging-typescript.org/docs/handbook/intro-to-js-ts.html"
+			}
+		]
+	},
+	{
+		"url": "https://www.sveltelab.dev",
+		"pages": [
+			{
+				"name": "Svelte lab",
+				"link": "https://www.sveltelab.dev/"
+			}
+		]
+	},
+	{
+		"url": "https://www.svelvet.io",
+		"pages": [
+			{
+				"name": "Svelvet",
+				"link": "https://www.svelvet.io/"
+			}
+		]
+	},
+	{
+		"url": "https://www.table-generator.de",
+		"pages": [
+			{
+				"name": "Table Generator",
+				"link": "https://www.table-generator.de/"
+			}
+		]
+	},
+	{
+		"url": "https://www.takeshape.io",
+		"pages": [
+			{
+				"name": "Using TakeShape with Sapper",
+				"link": "https://www.takeshape.io/articles/using-takeshape-with-sapper/"
+			}
+		]
+	},
+	{
+		"url": "https://www.taniarascia.com",
+		"pages": [
+			{
+				"name": "Building a Musical Instrument with the Web Audio API",
+				"link": "https://www.taniarascia.com/musical-instrument-web-audio-api/"
+			}
+		]
+	},
+	{
+		"url": "https://www.texturelab.xyz",
+		"pages": [
+			{
+				"name": "Texture Lab",
+				"link": "https://www.texturelab.xyz/"
+			}
+		]
+	},
+	{
+		"url": "https://www.the-guild.dev",
+		"pages": [
+			{
+				"name": "Bringing the best GraphQL experience to Svelte",
+				"link": "https://www.the-guild.dev/blog/houdini-and-kitql"
+			}
+		]
+	},
+	{
+		"url": "https://www.timeflow.site",
+		"pages": [
+			{
+				"name": "Timeflow",
+				"link": "https://www.timeflow.site/"
+			}
+		]
+	},
+	{
+		"url": "https://www.vibify.me",
+		"pages": [
+			{
+				"name": "Vibify",
+				"link": "https://www.vibify.me/"
+			}
+		]
+	},
+	{
+		"url": "https://www.virtualmaker.net",
+		"pages": [
+			{
+				"name": "Virtual Maker",
+				"link": "https://www.virtualmaker.net/"
+			}
+		]
+	},
+	{
+		"url": "https://www.vuemastery.com",
+		"pages": [
+			{
+				"name": "Vue vs Svelte: Comparing Framework Internals",
+				"link": "https://www.vuemastery.com/blog/vue-vs-svelte-comparing-framework-internals/"
+			}
+		]
+	},
+	{
+		"url": "https://www.w3.org",
+		"pages": [
+			{
+				"name": "WAI-ARIA Graphics Module",
+				"link": "https://www.w3.org/TR/graphics-aria-1.0/#role_definitions"
+			}
+		]
+	},
+	{
+		"url": "https://www.webrush.io",
+		"pages": [
+			{
+				"name": "Web Rush Podcast: Svelte Tools and Svelte Society",
+				"link": "https://www.webrush.io/episodes/episode-150-svelte-tools-and-svelte-society"
+			}
+		]
+	},
+	{
+		"url": "https://www.webtips.dev",
+		"pages": [
+			{
+				"name": "How to Set Up Protected Routes in Your Svelte Application",
+				"link": "https://www.webtips.dev/how-to-set-up-protected-routes-in-your-svelte-application"
+			}
+		]
+	},
+	{
+		"url": "https://www.writetorussia.org",
+		"pages": [
+			{
+				"name": "Write to Russia",
+				"link": "https://www.writetorussia.org/index"
+			}
+		]
+	},
+	{
+		"url": "https://www.yia.co.nz",
+		"pages": [
+			{
+				"name": "yia!",
+				"link": "https://www.yia.co.nz/"
+			}
+		]
+	},
+	{
+		"url": "https://xvrc.net",
+		"pages": [
+			{
+				"name": "How to add an Emoji Picker to Sveltekit",
+				"link": "https://xvrc.net/"
+			}
+		]
+	},
+	{
+		"url": "https://yourhome.fb.com",
+		"pages": [
+			{
+				"name": "Your Home",
+				"link": "https://yourhome.fb.com/"
+			}
+		]
+	},
+	{
+		"url": "https://youtube.com",
+		"pages": [
+			{
+				"name": "YouTube",
+				"link": "https://youtube.com/sveltesociety"
+			}
+		]
+	},
+	{
+		"url": "https://zero.oleksandrdemian.tech",
+		"pages": [
+			{
+				"name": "Zero.2",
+				"link": "https://zero.oleksandrdemian.tech/"
+			}
+		]
+	}
+]
